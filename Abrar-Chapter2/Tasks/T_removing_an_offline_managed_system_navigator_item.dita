@@ -2,8 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T_removing_an_offline_managed_system_navigator_item">
     <title>Removing an offline managed system Navigator item</title>
-    <shortdesc>Use the Managed System Status workspace to clear offline managed systems from the
-        Navigator view.</shortdesc>
     <prolog>
         <author>Abrar Ahmed Syed</author>
         <metadata>
@@ -15,79 +13,24 @@
         </metadata>
     </prolog>
     <taskbody>
-        <context>
-            <p>When a monitoring agent goes offline or its host name gets changed, its branch is
-                dimmed in the Navigator, as in the following example, and its status is shown as
-                    <codeph>*OFFLINE</codeph> in any table view that uses the Current Managed
-                Systems status query.</p>
-            <table frame="all" id="table_cvj_5mw_vxb">
-                <title>Hierarchy of monitored enterprise</title>
-                <tgroup cols="6">
-                    <colspec colname="c1" colnum="1" colwidth="2.27*"/>
-                    <colspec colname="newCol2" colnum="2" colwidth="2.55*"/>
-                    <colspec colname="newCol3" colnum="3" colwidth="1*"/>
-                    <colspec colname="c2" colnum="4" colwidth="4.14*"/>
-                    <colspec colname="newCol5" colnum="5" colwidth="2.55*"/>
-                    <colspec colname="newCol6" colnum="6" colwidth="2.55*"/>
-                    <tbody>
-                        <row>
-                            <entry namest="c1" nameend="newCol6"><image
-                                    href="../Images/I_enterprise_bullet_type.png"
-                                    id="image_epg_zmw_vxb"/>Enterprise</entry>
-                        </row>
-                        <row>
-                            <entry/>
-                            <entry namest="newCol2" nameend="newCol6"><image
-                                    href="../Images/I_platform_bullet_type.png"
-                                    id="image_kwr_cnw_vxb"/>Windows Systems</entry>
-                        </row>
-                        <row>
-                            <entry/>
-                            <entry/>
-                            <entry namest="newCol3" nameend="newCol6"><image
-                                    href="../Images/I_system_bullet_type.png" id="image_lmw_dnw_vxb"
-                                />My Computer</entry>
-                        </row>
-                        <row>
-                            <entry/>
-                            <entry/>
-                            <entry/>
-                            <entry namest="c2" nameend="newCol6"><image
-                                    href="../Images/I_universal_agent_icon.png"
-                                    id="image_enb_hnc_wxb"/>Universal Agent</entry>
-                        </row>
-                        <row>
-                            <entry/>
-                            <entry/>
-                            <entry/>
-                            <entry namest="c2" nameend="newCol6"><image
-                                    href="../Images/I_agent_bullet_type.png" id="image_jth_vnc_wxb"
-                                />Windows OS</entry>
-                        </row>
-                    </tbody>
-                </tgroup>
-            </table>
-            <p>The Enterprise Navigator item has a Managed System Status workspace that you can use
-                to check for any offline managed systems and remove them from the Navigator view.
-                When the monitoring agent comes online again, it will reappear. Use these steps to
-                clear an offline entry:</p>
-        </context>
+        <context/>
         <steps>
             <step>
-                <cmd><image href="../Images/I_enterprise_bullet_type.png" id="image_bvd_cwg_vxb"
-                    />Click the <uicontrol>Enterprise Navigator</uicontrol> item. The default
-                    workspace opens.</cmd>
+                <cmd>Click the <image href="../Images/I_enterprise_bullet_type.png"
+                        id="image_bvd_cwg_vxb"/>
+                    <uicontrol>Enterprise Navigator</uicontrol> item. The default workspace
+                    opens.</cmd>
             </step>
             <step>
                 <cmd>Click <image href="../Images/I_workspace_gallery_icon.png"
                         id="image_exm_gwg_vxb"/>
-                    <b>Workspace gallery</b>, scroll to <b>Managed System Status</b>, and click the
-                    workspace.</cmd>
+                    <uicontrol>Workspace gallery</uicontrol>, scroll to <uicontrol>Managed System
+                        Status</uicontrol>, and click the <uicontrol>workspace</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>Right-click an <b>*OFFLINE</b> row, then click <image
+                <cmd>Right-click an <uicontrol>*OFFLINE</uicontrol> row, then click <image
                         href="../Images/I_clear_offline_entry_icon.png" id="image_mlb_mwg_vxb"/>
-                    <b>Clear offline entry</b>.</cmd>
+                    <uicontrol>Clear offline entry</uicontrol>.</cmd>
             </step>
         </steps>
         <result id="result_tlz_mwg_vxb">The offline entry is now cleared from the Navigator and will
