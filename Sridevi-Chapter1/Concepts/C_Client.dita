@@ -3,8 +3,11 @@
 <concept id="C_Client">
     <title>Client </title>
     <shortdesc></shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+    </prolog>
     <conbody>
-        <p>The Marvel Enterprise Portal<b> </b>client is a Java-based user interface for viewing and
+        <p>The Marvel Enterprise Portal client is a Java-based user interface for viewing and
             monitoring your enterprise network. Depending on how it was installed, you can start
             Marvel Enterprise Portal as a desktop application, a web application through your
             browser, or Java Webstart, which downloads the installable software from the Marvel

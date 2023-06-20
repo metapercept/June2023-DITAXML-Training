@@ -4,37 +4,41 @@
     <title>Properties</title>
     <shortdesc>Use Properties editor to edit the appearance and content of the views chosen for a
         workspace.</shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+    </prolog>
     <taskbody>
-        <prereq id="prereq_ek2_qs2_vxb">To view the Properties editor, your user ID must have
-            necessary permissions.</prereq>
+        <prereq id="prereq_ek2_qs2_vxb">Your user account must have necessary permissions to view
+            the Properties editor.</prereq>
         <context>
             <p>To open a Properties, do the following steps: </p>
         </context>
         <steps>
             <step>
-                <cmd>Click <b>Properties</b>. </cmd>
+                <cmd>Click <uicontrol>Properties</uicontrol>. </cmd>
             </step>
             <step>
-                <cmd>The <b>Properties</b> editor opens with a list of the views on the left,
-                    grouped by type. </cmd>
+                <cmd>The <uicontrol>Properties</uicontrol> editor opens with a list of the views on
+                    the left, grouped by type. </cmd>
             </step>
             <step>
                 <cmd>On the right, the general workspace properties will appear. </cmd>
             </step>
             <step>
-                <cmd>Select one of the views in the <b>Properties</b> tree. All types of views have
-                    a <b>Style</b> tab, with different options for the type of view. The table,
-                    charts, and topology views have <b>Query</b> and <b>Filters</b> tabs, table and
-                    topology have a <b>Thresholds</b> tab, and terminal emulators have a
-                        <b>Configuration</b> tab. </cmd>
+                <cmd>Select one of the views in the <uicontrol>Properties</uicontrol> tree. All
+                    types of views have a <uicontrol>Style</uicontrol> tab, with different options
+                    for the type of view. The table, charts, and topology views have
+                        <uicontrol>Query</uicontrol> and <uicontrol>Filters</uicontrol> tabs, table
+                    and topology have a <uicontrol>Thresholds</uicontrol> tab, and terminal
+                    emulators have a <uicontrol>Configuration</uicontrol> tab. </cmd>
             </step>
             <step>
-                <cmd>Change the data elements for a chart or table or change the styling of a view.
-                </cmd>
+                <cmd>Change the data elements for a chart or table or change the styling of a
+                    view.</cmd>
             </step>
             <step>
-                <cmd>When you are done, you can close the <b>Properties</b> editor by clicking on
-                    the <b>Cancel</b> button. </cmd>
+                <cmd>When you are done, you can close the <uicontrol>Properties</uicontrol> editor
+                    by clicking on the <uicontrol>Cancel</uicontrol> button. </cmd>
             </step>
         </steps>
     </taskbody>
