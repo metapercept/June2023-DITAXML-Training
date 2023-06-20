@@ -2,33 +2,40 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T_expanding_the_navigator_in_increments">
     <title>Expanding the Navigator in increments</title>
-    <shortdesc><image href="../Images/I_more_icon.png" id="image_vbz_knf_vxb"/>
-        <b>More</b> indicators in the Navigator keep the tree compact. Click the indicator to open
-        that branch of the tree. You can specify how many items to expand at one time.</shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Expanding the Navigator in
+                        increments</keyword><keyword>Expanding Child Items at the platform level of
+                        the Navigator</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <taskbody>
         <context>
             <p>When clicking <image href="../Images/I_expand_icon.png" id="image_g11_tnf_vxb"/>
-                Expand on a Navigator branch of more than, by default, 25 child items, you are
-                prompted to enter the number to expand at one time.</p>
-            <sectiondiv><b>Procedure</b></sectiondiv>
+                <uicontrol>Expand</uicontrol> on a Navigator branch of more than, by default, 25
+                child items, you are prompted to enter the number to expand at one time.</p>
         </context>
         <steps>
             <step>
-                <cmd>Set the number of items to expand:</cmd>
+                <cmd>Set the<userinput> number of items</userinput> to expand:</cmd>
                 <substeps id="substeps_igg_f4f_vxb">
                     <substep>
-                        <cmd>If the Expand child items window is not open, right-click the Navigator
-                            item whose child items you want to expand incrementally and click <image
-                                href="../Images/I_expand_icon.png" id="image_apf_k4f_vxb"/>
-                            <b>Expand</b>.</cmd>
+                        <cmd>If the <wintitle>Expand child items</wintitle> window is not open,
+                            right-click the <uicontrol>Navigator</uicontrol> item whose child items
+                            you want to expand incrementally and click <image
+                                href="../Images/I_expand_icon.png" id="image_apf_k4f_vxb"
+                                /><uicontrol>Expand</uicontrol> .</cmd>
                     </substep>
                     <substep>
-                        <cmd>Enter the number to expand and click OK to open that number of child
-                            items.</cmd>
+                        <cmd>Enter the <userinput>number</userinput> to expand and click
+                                <uicontrol>OK</uicontrol> to open that number of child items.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Click <image href="../Images/I_more_icon.png" id="image_ef3_q4f_vxb"
-                                /><b>More</b> when you want to open the next group of child
+                        <cmd>Click <image href="../Images/I_more_icon.png" id="image_ef3_q4f_vxb"/>
+                            <uicontrol>More</uicontrol>when you want to open the next group of child
                             items.</cmd>
                     </substep>
                 </substeps>
@@ -36,89 +43,276 @@
             <step>
                 <cmd>Expand child items. You can expand all the child items of a Navigator item. The
                     entire branch does not expand, just the children of the selected item. If the
-                    Expand child items window is not open, right-click the Navigator item whose
-                    child items you want to expand and click <image
-                        href="../Images/I_expand_icon.png" id="image_qsd_54f_vxb"/>
-                    <b>Expand Child Items.</b></cmd>
+                        <wintitle>Expand child items </wintitle>window is not open, right-click the
+                        <uicontrol>Navigator </uicontrol>item whose child items you want to expand
+                    and click <image href="../Images/I_expand_icon.png" id="image_qsd_54f_vxb"/>
+                    <uicontrol>Expand Child Items</uicontrol>.</cmd>
             </step>
         </steps>
         <example id="example_vxd_dpf_vxb">
             <p>In large managed environments the expand feature helps you control the Navigator
                 display and its performance. In this example, the expansion limit of 4 was chosen
                 for the Windows Server child items:</p>
-            <p><image href="../Images/I_minimize_icon.png" id="image_z3z_gqf_vxb"/><image
-                    href="../Images/I_enterprise_bullet_type.png" id="image_ncc_zpf_vxb"
-                />Enterprise</p>
-            <p><image href="../Images/I_minimize_icon.png" id="image_tjw_hqf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_zkw_3qf_vxb"/>Windows
-                Systems</p>
-            <p><image href="../Images/I_minimize_icon.png" id="image_zhv_rqf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_xbl_5qf_vxb"
-                />Computer1</p>
-            <p><image href="../Images/I_minimize_icon.png" id="image_k2b_wqf_vxb"/><image
-                    href="../Images/I_agent_bullet_type.png" id="image_ykw_wqf_vxb"/>Windows
-                Server</p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_nmb_zqf_vxb"/>Disk</p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_ofz_zqf_vxb"/>Enterprise
-                Services</p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_lcw_1rf_vxb"/>Memory</p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_d1p_brf_vxb"
-                />Network</p>
-            <p><image href="../Images/I_more_icon.png" id="image_s2w_crf_vxb"/>More...4:8</p>
+            <table frame="all" id="table_cvj_5mw_vxb">
+                <title>Example: Expansion limit of 4 for the Windows Server child items </title>
+                <tgroup cols="6">
+                    <colspec colname="c1" colnum="1" colwidth="1.02*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1.74*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1.16*"/>
+                    <colspec colname="c2" colnum="4" colwidth="1*"/>
+                    <colspec colname="newCol5" colnum="5" colwidth="1.74*"/>
+                    <colspec colname="newCol6" colnum="6" colwidth="1.74*"/>
+                    <tbody>
+                        <row>
+                            <entry namest="c1" nameend="newCol6"><image
+                                    href="../Images/I_minimize_icon.png" id="image_ix4_y3b_wxb"
+                                    /><image href="../Images/I_enterprise_bullet_type.png"
+                                    id="image_epg_zmw_vxb"/>Enterprise</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry namest="newCol2" nameend="newCol6"><image
+                                    href="../Images/I_minimize_icon.png" id="image_c52_bjb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_kwr_cnw_vxb"/>Windows Systems</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_minimize_icon.png" id="image_prz_cjb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_gml_djb_wxb"/>Computer1</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry namest="c2" nameend="newCol6"><image
+                                    href="../Images/I_minimize_icon.png" id="image_et4_fjb_wxb"
+                                    /><image href="../Images/I_agent_bullet_type.png"
+                                    id="image_xzf_gnw_vxb"/>Windows Server</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol5" nameend="newCol6"><image
+                                    href="../Images/I_resource_bullet_type.png"
+                                    id="image_edt_ljb_wxb"/>Disk</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol5" nameend="newCol6"><image
+                                    href="../Images/I_resource_bullet_type.png"
+                                    id="image_u1h_pjb_wxb"/>Enterprise Services</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol5" nameend="newCol6"><image
+                                    href="../Images/I_resource_bullet_type.png"
+                                    id="image_dg3_pjb_wxb"/>Memory</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol5" nameend="newCol6"><image
+                                    href="../Images/I_resource_bullet_type.png"
+                                    id="image_spj_pjb_wxb"/>Network</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol5" nameend="newCol6"><image
+                                    href="../Images/I_more_icon.png" id="image_cxt_rjb_wxb"
+                                />More...4:8</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
             <p>This example illustrates the result of selecting Expand Child Items at the platform
                 level of the Navigator. The site is monitoring 500 Windows-based systems. The user
                 can quickly see which systems have situation events and at what severity.</p>
-            <p><image href="../Images/I_minimize_icon.png" id="image_ozs_x5f_vxb"/><image
-                    href="../Images/I_enterprise_2_icon.png" id="image_c5m_y5f_vxb"/>Enterprise</p>
-            <p><image href="../Images/I_minimize_icon.png" id="image_ebw_bvf_vxb"/><image
-                    href="../Images/I_windows_sytems_icon.png" id="image_ztl_1vf_vxb"/>Windows
-                Systems</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_tjg_dvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_sns_dvf_vxb"/>Computer
-                1</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_ifv_2vf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_jfv_2vf_vxb"/>Computer
-                2</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_azg_fvf_vxb"/><image
-                    href="../Images/I_computer_3.png" id="image_qns_gvf_vxb"/>Computer 3</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_nmh_fvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_omh_fvf_vxb"/>Computer
-                4</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_x4n_jvf_vxb"/><image
-                    href="../Images/I_computer_3.png" id="image_y4n_jvf_vxb"/>Computer 5</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_msx_mvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_nsx_mvf_vxb"/>Computer
-                6</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_c3y_mvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_d3y_mvf_vxb"/>Computer
-                7</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_l4x_nvf_vxb"/><image
-                    href="../Images/I_computer_8.png" id="image_cnl_4vf_vxb"/>Computer 8</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_c1y_nvf_vxb"/><image
-                    href="../Images/I_computer_8.png" id="image_pqt_4vf_vxb"/>Computer 9</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_k5r_pvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_l5r_pvf_vxb"/>Computer
-                10</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_mbs_pvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_nbs_pvf_vxb"/>Computer
-                11</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_f3s_pvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_g3s_pvf_vxb"/>Computer
-                12</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_vwt_pvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_wwt_pvf_vxb"/>Computer
-                13</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_jcv_pvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_kcv_pvf_vxb"/>Computer
-                14</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_jpx_qvf_vxb"/><image
-                    href="../Images/I_platform_bullet_type.png" id="image_kpx_qvf_vxb"/>Computer
-                15</p>
-            <p>.</p>
-            <p>.</p>
-            <p>.</p>
-            <p><image href="../Images/I_expand_icon.png" id="image_bq5_svf_vxb"/><image
-                    href="../Images/I_computer_3.png" id="image_ony_tvf_vxb"/>Computer 500</p>
+            <table frame="all" id="table_eqt_dkb_wxb">
+                <title>Example: Expanding Child Items at the platform level of the Navigator </title>
+                <tgroup cols="6">
+                    <colspec colname="c1" colnum="1" colwidth="1.02*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1.74*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1.16*"/>
+                    <colspec colname="c2" colnum="4" colwidth="1*"/>
+                    <colspec colname="newCol5" colnum="5" colwidth="1.74*"/>
+                    <colspec colname="newCol6" colnum="6" colwidth="1.74*"/>
+                    <tbody>
+                        <row>
+                            <entry namest="c1" nameend="newCol6"><image
+                                    href="../Images/I_minimize_icon.png" id="image_fqt_dkb_wxb"
+                                    /><image href="../Images/I_enterprise_2_icon.png"
+                                    id="image_mqz_2kb_wxb"/>Enterprise</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry namest="newCol2" nameend="newCol6"><image
+                                    href="../Images/I_minimize_icon.png" id="image_hqt_dkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_iqt_dkb_wxb"/>Windows Systems</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_spc_mkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_kqt_dkb_wxb"/>Computer1</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_x2f_mkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_jpq_jkb_wxb"/>Computer2</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_n2k_mkb_wxb"
+                                    /><image href="../Images/I_computer_3.png"
+                                    id="image_xjd_4kb_wxb"/>Computer3</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_xph_pkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_yph_pkb_wxb"/>Computer4</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_bgq_mkb_wxb"
+                                    /><image href="../Images/I_computer_3.png"
+                                    id="image_sqx_pkb_wxb"/>Computer5</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_xzg_rkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_yzg_rkb_wxb"/>Computer6</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_yk5_rkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_zk5_rkb_wxb"/>Computer7</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_fkn_5kb_wxb"
+                                    /><image href="../Images/I_computer_8.png"
+                                    id="image_gkn_5kb_wxb"/>Computer8</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_imz_5kb_wxb"
+                                    /><image href="../Images/I_computer_8.png"
+                                    id="image_jmz_5kb_wxb"/>Computer9</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_lvj_vkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_mvj_vkb_wxb"/>Computer10</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_dg5_vkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_eg5_vkb_wxb"/>Computer11</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_ehs_wkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_fhs_wkb_wxb"/>Computer12</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_sw1_xkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_tw1_xkb_wxb"/>Computer13</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_yrl_xkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_zrl_xkb_wxb"/>Computer14</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_wkr_xkb_wxb"
+                                    /><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_xkr_xkb_wxb"/>Computer15</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6">.</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6">.</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6">.</entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry namest="newCol3" nameend="newCol6"><image
+                                    href="../Images/I_expand_icon.png" id="image_jmx_jvb_wxb"
+                                    /><image href="../Images/I_computer_3.png"
+                                    id="image_exx_kvb_wxb"/>Computer500</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
         </example>
     </taskbody>
 </task>
