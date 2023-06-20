@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_New_in_this_release">
+    <title>New in this release</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The following enhancements have been made to the Marvel Enterprise Portal for Version
+                6.3.<ol id="ol_vkn_522_vxb">
+                <li>
+                    <p><b>Application Property Installation attribute group</b></p>
+                    <p>The Application Property Installation attribute group provides information
+                        related to the self-describing agent installation process. See
+                            “<i>Application Property Installation attributes</i>” on page 428.</p>
+                </li>
+                <li>
+                    <p><b>ITM Historical Collection attribute group</b></p>
+                    <p>The ITM Historical Collection attribute group provides information about the
+                        active historical collections that are exporting data from a location,
+                        including the metrics about each historical collection. See “<i>ITM
+                            Historical Collection attributes</i>” on page 442.</p>
+                </li>
+                <li>
+                    <p><b>Historical Export Statistics workspace</b></p>
+                    <p>The Historical Export Statistics workspace displays the enterprise and
+                        private historical exports to a Warehouse Proxy agent instance performed by
+                        a selected managed system. This workspace is available for monitoring
+                        servers and monitoring agents. See “<i>Historical Export Statistics
+                            workspace</i>” on page 391.</p>
+                </li>
+                <li>
+                    <p><b>Historical situations</b></p>
+                    <p>Historical_Exports_Critical, Historical_Exports_Failure,
+                        Historical_Exports_Warning, and Historical_RowsCorrupted help you manage
+                        your historical exports. See “<i>All Managed Systems situations</i>” on page
+                        263.</p>
+                </li>
+                <li>
+                    <p><b>Define symbol name/value pairs for physical or logical navigator
+                        nodes</b></p>
+                    <p>You can now define symbol name/value pairs for physical or logical navigator
+                        nodes. You can then create Take Action commands that reference these
+                        symbols. See “<i>Navigator item properties</i>” on page 242.</p>
+                </li>
+                <li>
+                    <p><b>Connect points in plot charts</b></p>
+                    <p>The plot points are connected with lines even when gaps in time are present.
+                        This feature is only available for plot charts. Use the Always connects
+                        points option on the <b>Style</b> tab.</p>
+                </li>
+                <li>
+                    <p><b>Marvel Enterprise Portal browser support for 32 bit and 64 bit
+                            browsers</b></p>
+                    <p>The Marvel Enterprise Portal browser client now supports both 32 bit and 64
+                        bit Firefox and Internet Explorer browsers on both Windows and Linux
+                        platforms. Support for the most current Extended Support Release versions of
+                        the Firefox browser is now available. Support for earlier versions of
+                        Firefox prior to version 3.6 are no longer supported in the IBM Marvel
+                        Monitoring 6.3 release.</p>
+                </li>
+                <li>
+                    <p><b>Java™ 7 support</b></p>
+                    <p>The Marvel Enterprise Portal now uses IBM Java 7 as the default JRE for all
+                        deployment modes: desktop, browser, and Java WebStart. Use of IBM Java 5 is
+                        no longer supported in the IBM Marvel Monitoring 6.3 release. </p>
+                </li>
+                <li>
+                    <p><b>Ability to access multiple IBM Tivoli Monitoring domains from a single
+                            browser instance</b></p>
+                    <p>It is now possible to connect the Marvel Enterprise Portal to multiple IBM
+                        Marvel Monitoring domains from a single browser instance. Prior to release
+                        6.3, if you needed to manage multiple domains using the Marvel Enterprise
+                        Portal, you were required to either launch separate browser instances (one
+                        for each domain), or use alternate client deployment modes (such as a
+                        desktop client or Java WebStart). Minor changes were also made to the Marvel
+                        Enterprise Portal for content improvements. New features and capability
+                        enhancements were made to the Marvel Management Services. For more
+                        information, see the following publications on the <xref
+                            href="http://pic.dhe.ibm.com/infocenter/tivihelp/v61r1/topic/com.ibm.itm.doc_6.3/welcome.htm"
+                            format="html" scope="external">IBM Marvel Monitoring Information
+                            Center</xref>. </p>
+                    <ol id="ol_grj_lf2_vxb">
+                        <li>
+                            <p><i>IBM Marvel Monitoring Administrator's Guide </i></p>
+                        </li>
+                        <li>
+                            <p><i>IBM Marvel Monitoring Installation and Setup Guide</i></p>
+                        </li>
+                    </ol>
+                </li>
+            </ol></p>
+        <p></p>
+    </conbody>
+</concept>

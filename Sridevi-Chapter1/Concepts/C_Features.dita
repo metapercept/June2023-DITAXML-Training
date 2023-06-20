@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Features">
+    <title>Features</title>
+    <shortdesc>The Marvel Enterprise Portal gives you a single point of control for managing the
+        resources your applications rely on, including a range of operating systems, servers,
+        databases, platforms, and web components. For example, a typical IT network might have a web
+        server on Windows, an application server and database on UNIX, and a transaction processor
+        on CICS® on the mainframe. The Marvel Enterprise Portal brings all these views together in a
+        single window so that you can see when any aspect of your network is not working as
+        expected. Your IBM Marvel Monitoring products use the portal interface with these major
+        features, and you can find demos for many of them on developer works in the <xref
+            href="http://www.ibm.com/tivoli/media" format="html" scope="external">IBM Marvel Media
+            Gallery</xref>.</shortdesc>
+    <conbody>
+        <p>
+            <simpletable frame="all" relcolwidth="1.0* 3.08*" id="simpletable_kqd_r52_vxb">
+                <sthead>
+                    <stentry>Feature</stentry>
+                    <stentry>Description</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Customizing workspaces</stentry>
+                    <stentry>Marvel Enterprise Portal presents information in a single pane of glass
+                        called a workspace, which consists of one or more views. Monitoring data is
+                        retrieved at regular intervals and the results sent to the workspace in the
+                        form of chart and table views. You can start monitoring activity and system
+                        status immediately with the predefined workspaces. With just a few clicks of
+                        the mouse, you can tailor your own workspaces to look at specific
+                        conditions, display critical threshold values in red, and filter incoming
+                        data so you see only what matters. See “<i>Custom workspace options and
+                            guidelines</i>” on page 63.</stentry>
+                </strow>
+                <strow>
+                    <stentry>Customizing workspace views</stentry>
+                    <stentry><image href="../Images/Chart%20Display.png" width="5cm" height="1cm"
+                            id="image_btl_3v2_vxb"/>The charts display data that the monitoring
+                        agents have gathered from the systems where they are running. They can also
+                        show data from any ODBC-compliant database you write a custom query for. See
+                            “<i>Creating a new chart</i>” on page 102.<p><image
+                                href="../Images/Notepad.png" width="1cm" height="1cm"
+                                id="image_mpq_4v2_vxb"/>The notepad view opens a simple text editor
+                            for writing text that can be saved with the workspace. See “<i>Adding a
+                                notepad view</i>” on page 166.</p><p><image
+                                href="../Images/Table.png" width=".7cm" height=".7cm"
+                                id="image_qgh_rv2_vxb"/>The table view displays data that the
+                            monitoring agents have gathered from the systems where they are running.
+                            See “<i>Adding a table view</i>” on page 97. </p><p><image
+                                href="../Images/log.png" width=".7cm" height=".7cm"
+                                id="image_qgq_tv2_vxb"/>The message log shows the status of all
+                            situations distributed to the managed systems in your enterprise. (Your
+                            user ID requires View permission for the Event feature.) See “<i>Adding
+                                a message log view</i>” on page 140.</p><p><image
+                                href="../Images/Universal%20message.png" width="1cm" height=".7cm"
+                                id="image_zgr_vv2_vxb"/>The universal message console view shows
+                            situation and policy activity, and messages received as the result of
+                            universal message generation. See “<i>Adding a Universal Message Console
+                                view</i>” on page 143.</p></stentry>
+                </strow>
+            </simpletable>
+        </p>
+    </conbody>
+</concept>

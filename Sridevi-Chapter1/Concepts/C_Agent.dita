@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Agent">
+    <title>Agent</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Marvel Enterprise Monitoring Agents are installed on the systems whose applications or
+            resources you want to monitor. The monitoring agent collects the monitored data, and
+            passes it to the Marvel Enterprise Monitoring Server to which it is connected. The
+            client gathers the current values of the monitored properties, or attributes, and
+            displays them in views. It can also test the values against a threshold and display an
+            event indicator when that threshold is exceeded.</p>
+    </conbody>
+</concept>

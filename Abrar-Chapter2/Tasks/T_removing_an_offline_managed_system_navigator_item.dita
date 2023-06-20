@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_removing_an_offline_managed_system_navigator_item">
+    <title>Procedure</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd><image href="../Images/I_enterprise_bullet_type.png" id="image_bvd_cwg_vxb"
+                    />Click the Enterprise Navigator item. The default workspace opens.</cmd>
+            </step>
+            <step>
+                <cmd>Click <image href="../Images/I_workspace_gallery_icon.png"
+                        id="image_exm_gwg_vxb"/>
+                    <b>Workspace gallery</b>, scroll to <b>Managed System Status</b>, and click the
+                    workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Right-click an <b>*OFFLINE</b> row, then click <image
+                        href="../Images/I_clear_offline_entry_icon.png" id="image_mlb_mwg_vxb"/>
+                    <b>Clear offline entry</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_tlz_mwg_vxb">The offline entry is now cleared from the Navigator and will
+            not appear again until the managed system comes online.</result>
+        <postreq id="postreq_wrd_4wg_vxb">If this is a custom Navigator view with only one managed
+            system, it is possible for the item to continue to appear in the view. This is possible
+            when the item was added using drag-and-drop in the Navigator editor. Use the Navigator
+            editor to manually remove the item, described in Deleting a Navigator view or item. If
+            the managed system comes online again, it does not appear in the custom Navigator view.
+            If you want it to appear there, assign the managed system in the Navigator item
+            properties as described in Navigator item
+            properties.<!--Related tasks to be added below after content creation.--></postreq>
+    </taskbody>
+</task>

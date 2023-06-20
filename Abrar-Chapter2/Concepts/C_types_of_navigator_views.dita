@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_types_of_navigator_views">
+    <title>Types of Navigator views</title>
+    <concept id="concept_fvy_4t1_vxb">
+        <title>Navigator Physical view</title>
+        <conbody>
+            <p>The default Navigator view is Physical and shows the hierarchy of your monitored
+                enterprise. The Navigator Physical view is a discovered view: as new managed systems
+                come online or when they become disconnected, the view is adjusted accordingly.</p>
+            <p><image href="../Images/I_enterprise_bullet_type.png" id="image_rt5_4w1_vxb"
+                    /><b>Enterprise</b>, or root, level contains all managed systems</p>
+            <p><image href="../Images/I_platform_bullet_type.png" id="image_xbz_rw1_vxb"
+                    /><b>Platform</b> is the operating system</p>
+            <p><image href="../Images/I_system_bullet_type.png" id="image_ms3_3x1_vxb"
+                    /><b>System</b>, or node, is the name of the computer or z/OS image</p>
+            <p><image href="../Images/I_agent_bullet_type.png" id="image_wcc_lx1_vxb"/><b>Agent</b>
+                type. Multiple instance agents have child items; some are grouped into one
+                folder</p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_rv4_rx1_vxb"
+                    /><b>Resource</b> category being monitored</p>
+            <p>Here is an example of a system named JDOE, running on Windows, with the Windows OS
+                agent.</p>
+            <p><image href="../Images/I_enterprise_bullet_type.png" id="image_ex5_ky1_vxb"
+                />Enterprise</p>
+            <p><image href="../Images/I_platform_bullet_type.png" id="image_fx5_ky1_vxb"/>Windows
+                Systems</p>
+            <p><image href="../Images/I_system_bullet_type.png" id="image_gx5_ky1_vxb"/>JDOE</p>
+            <p><image href="../Images/I_agent_bullet_type.png" id="image_hx5_ky1_vxb"/>Windows
+                OS</p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_ix5_ky1_vxb"/> Disk </p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_lsf_sy1_vxb"/>
+                Monitoring Services </p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_jch_sy1_vxb"/> Memory </p>
+            <p>You can collapse the tree by double-clicking the <image
+                    href="../Images/I_enterprise_bullet_type.png" id="image_unj_4z1_vxb"/>Enterprise
+                item, and expand it by double-clicking again.</p>
+        </conbody>
+    </concept>
+    <concept id="concept_wpc_nz1_vxb">
+        <title>Custom Navigator views</title>
+        <conbody>
+            <p>Your Marvel Enterprise Portal configuration can also have custom-designed Navigator
+                views. These views are selectable from the Navigator toolbar, navigable and show
+                event indicators (described below) in the same way as the Navigator Physical view.
+                Unlike the Navigator Physical view, custom Navigator views can be edited. You can,
+                for example, design a Navigator view for Manufacturing and another for
+                Marketing.</p>
+            <p>Your user ID can be assigned to all or a subset of the defined Navigator views, and
+                your access in any of these views can be restricted to a certain branch. To see the
+                list of available Navigator views, click the <image href="../Images/I_list_box.png"
+                    id="image_rjn_g1b_vxb"/> list box in the Navigator toolbar. </p>
+            <p>A small white cross over a Navigator item icon means one or more other Navigator
+                items share the characteristics of that item. This happens when an item from one
+                Navigator view has been copied to another Navigator view. All the managed systems,
+                workspaces, link definitions, situations, and policies associated with the original
+                (source) item are applied to the new item. And from then on, changes to one item
+                (such as a new workspace is added) are applied to the other. Right-click a Navigator
+                item and click <image href="../Images/I_show_navigator_list.png"
+                    id="image_zgx_h1b_vxb"/><b> Show Navigator List</b> to see the other Navigator
+                views it is contained in.</p>
+        </conbody>
+    </concept>
+    <concept id="concept_zyg_j1b_vxb">
+        <title>Navigator Logical view</title>
+        <conbody>
+            <p>Users initially have one custom Navigator view called Logical with a single Navigator
+                item for  <image href="../Images/I_platform_bullet_type.png" id="image_k43_n1b_vxb"
+                />Enterprise. Click the <image href="../Images/I_list_box.png"
+                    id="image_ecd_41b_vxb"/> list box and select the Navigator Logical view from the
+                list.</p>
+        </conbody>
+    </concept>
+</concept>

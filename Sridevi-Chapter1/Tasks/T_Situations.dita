@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_Situations">
+    <title>Situations</title>
+    <shortdesc><b>Marvel Enterprise Portal</b> runs tests called <b>Situations</b> on systems where
+        monitoring agents are installed. When the conditions of a situation have been met, an event
+        occurs, and an event indicator is displayed over the applicable items in the
+            <b>Navigator</b>. The Navigator alerts you of changing conditions in the systems you are
+        monitoring.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_mqy_vl2_vxb">To view the Situation editor, your user ID must have
+            necessary permissions.<note id="note_drb_dm2_vxb"> If you see any of these icons in the
+                Navigator now, move the mouse pointer over an event indicator to open a flyover
+                listing of the situations that caused the events at that level of the Navigator and
+                below.</note><p>When a condition changes, the associated item is marked with an icon
+                as mentioned in the table below:<simpletable frame="all" relcolwidth="1.0* 1.27*"
+                    id="simpletable_uhy_ym2_vxb">
+                    <sthead>
+                        <stentry>Icon</stentry>
+                        <stentry>Condition</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry><image href="../Images/Fatal%20error.png" width="1cm" height="1cm"
+                                id="image_sr1_gn2_vxb"/></stentry>
+                        <stentry>Fatal</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><image href="../Images/Critical%20Error.png" width="1cm"
+                                height="1cm" id="image_hkq_gn2_vxb"/></stentry>
+                        <stentry>Critical</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><image href="../Images/Minor%20Error.png" width="1cm" height="1cm"
+                                id="image_zg3_hn2_vxb"/></stentry>
+                        <stentry>Minor</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><image href="../Images/Warning%20Error.jpeg" width="1cm"
+                                height="1cm" id="image_nmb_3n2_vxb"/></stentry>
+                        <stentry>Warning</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><image href="../Images/Harmless%20Error.png" width="1cm"
+                                height="1cm" id="image_hts_3n2_vxb"/></stentry>
+                        <stentry>Harmless</stentry>
+                    </strow>
+                    <strow>
+                        <stentry><image href="../Images/Informational,%20or%20Unknown%20Error.png"
+                                width="1cm" height="1cm" id="image_amg_jn2_vxb"/></stentry>
+                        <stentry>Informational or Unknown</stentry>
+                    </strow>
+                </simpletable></p></prereq>
+        <context>To open a situation, do the following steps:</context>
+        <steps>
+            <step>
+                <cmd>Right click the system in the <b>Navigator</b> and click
+                    <b>Situations</b>.</cmd>
+            </step>
+            <step>
+                <cmd>The <b>Situation</b> editor opens with a list of situations on the left. This
+                    is where you can view and edit situations or create new ones.</cmd>
+            </step>
+            <step>
+                <cmd>Click anyone of the situation name in the tree to see the <b>Situation</b>
+                    editor tabs. </cmd>
+            </step>
+            <step>
+                <cmd>To view, add, and change the conditions being tested, click
+                    <b>Formula</b>.</cmd>
+            </step>
+            <step>
+                <cmd>To view and specify the systems on which to run the situation click
+                        <b>Distribution</b>.</cmd>
+            </step>
+            <step>
+                <cmd>To write comments or instructions to be read in the event results workspace,
+                    click <b>Expert</b>
+                    <b>Advice</b>.</cmd>
+            </step>
+            <step>
+                <cmd>To send a command to the managed system, click <b>Action</b>. </cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Until</b> to close the event after a period of time or when another
+                    situation is true.</cmd>
+            </step>
+            <step>
+                <cmd>When you are done, you can close the <b>Situation</b> editor by clicking on the
+                        <b>Cancel</b> button. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Marvel_Management_Services_Architecture">
+    <title>Marvel Management Services Architecture</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The Marvel Enterprise Portal is based on a client-server-agent architecture. It comprises
+            server hosts, delivers, and manages most of the resources and services to be consumed by
+            the client. The agent collects the monitored data and passes it to the Marvel Enterprise
+            Monitoring Server. A high-level representation of client-server-agent architecture is
+            shown in the following figure.</p>
+        <fig id="fig_axq_sg2_vxb">
+            <title>Client-server-agent architecture</title>
+            <image href="../Images/Client%20Server%20Agent.png" width="14cm" height="14cm"
+                id="image_bxq_sg2_vxb"/>
+        </fig>
+        <p>More details on the architecture are provided in the following sections.</p>
+    </conbody>
+</concept>

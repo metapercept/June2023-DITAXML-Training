@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_navigator_overview">
+    <title>Navigator overview</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The Navigator provides a hierarchical view of your enterprise. At the highest level you
+            can get a high level overview of the status of your monitored environment. From there
+            you can navigate to specific monitored resources to check activity and investigate
+            problems.</p>
+    </conbody>
+</concept>

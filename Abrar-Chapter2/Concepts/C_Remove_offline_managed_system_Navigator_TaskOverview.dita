@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Remove_offline_managed_system_Navigator_TaskOverview">
+    <title>Removing an offline managed system Navigator item</title>
+    <shortdesc>Use the Managed System Status workspace to clear offline managed systems from the
+        Navigator view.</shortdesc>
+    <conbody>
+        <p>When a monitoring agent goes offline or its host name gets changed, its branch is dimmed
+            in the Navigator, as in the following example, and its status is shown as
+                <codeph>*OFFLINE</codeph> in any table view that uses the Current Managed Systems
+            status query.</p>
+        <p>
+            <ul id="ul_ypc_3nv_vxb" outputclass="TreeStructure">
+                <li><image href="../Images/I_enterprise_bullet_type.png" id="image_x4x_rvg_vxb"
+                        />Enterprise<ul id="ul_std_knv_vxb">
+                        <li><image href="../Images/I_platform_bullet_type.png"
+                                id="image_k5s_svg_vxb"/>Windows Systems<ul id="ul_ohv_mnv_vxb">
+                                <li><image href="../Images/I_system_bullet_type.png"
+                                        id="image_gcn_tvg_vxb"/>MyComputer<ul id="ul_od2_4nv_vxb">
+                                        <li><image href="../Images/I_universal_agent_icon.png"
+                                                id="image_trn_wvg_vxb"/>Universal Agent</li>
+                                        <li><image href="../Images/I_agent_bullet_type.png"
+                                                id="image_ywh_xvg_vxb"/>Windows OS</li>
+                                    </ul></li>
+                            </ul></li>
+                    </ul></li>
+            </ul>
+        </p>
+        <p>The Enterprise Navigator item has a Managed System Status workspace that you can use to
+            check for any offline managed systems and remove them from the Navigator view. When the
+            monitoring agent comes online again, it will reappear. Use these steps to clear an
+            offline entry:</p>
+    </conbody>
+</concept>

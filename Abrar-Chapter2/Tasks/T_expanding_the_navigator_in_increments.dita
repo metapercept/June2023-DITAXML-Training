@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_expanding_the_navigator_in_increments">
+    <title>Expanding the Navigator in increments</title>
+    <shortdesc><image href="../Images/I_more_icon.png" id="image_vbz_knf_vxb"/>
+        <b>More</b> indicators in the Navigator keep the tree compact. Click the indicator to open
+        that branch of the tree. You can specify how many items to expand at one time.</shortdesc>
+    <taskbody>
+        <context>
+            <p>When clicking <image href="../Images/I_expand_icon.png" id="image_g11_tnf_vxb"/>
+                Expand on a Navigator branch of more than, by default, 25 child items, you are
+                prompted to enter the number to expand at one time.</p>
+            <sectiondiv><b>Procedure</b></sectiondiv>
+        </context>
+        <steps>
+            <step>
+                <cmd>Set the number of items to expand:</cmd>
+                <substeps id="substeps_igg_f4f_vxb">
+                    <substep>
+                        <cmd>If the Expand child items window is not open, right-click the Navigator
+                            item whose child items you want to expand incrementally and click <image
+                                href="../Images/I_expand_icon.png" id="image_apf_k4f_vxb"/>
+                            <b>Expand</b>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter the number to expand and click OK to open that number of child
+                            items.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click <image href="../Images/I_more_icon.png" id="image_ef3_q4f_vxb"
+                                /><b>More</b> when you want to open the next group of child
+                            items.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Expand child items. You can expand all the child items of a Navigator item. The
+                    entire branch does not expand, just the children of the selected item. If the
+                    Expand child items window is not open, right-click the Navigator item whose
+                    child items you want to expand and click <image
+                        href="../Images/I_expand_icon.png" id="image_qsd_54f_vxb"/>
+                    <b>Expand Child Items.</b></cmd>
+            </step>
+        </steps>
+        <example id="example_vxd_dpf_vxb">
+            <p>In large managed environments the expand feature helps you control the Navigator
+                display and its performance. In this example, the expansion limit of 4 was chosen
+                for the Windows Server child items:</p>
+            <p><image href="../Images/I_minimize_icon.png" id="image_z3z_gqf_vxb"/><image
+                    href="../Images/I_enterprise_bullet_type.png" id="image_ncc_zpf_vxb"
+                />Enterprise</p>
+            <p><image href="../Images/I_minimize_icon.png" id="image_tjw_hqf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_zkw_3qf_vxb"/>Windows
+                Systems</p>
+            <p><image href="../Images/I_minimize_icon.png" id="image_zhv_rqf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_xbl_5qf_vxb"
+                />Computer1</p>
+            <p><image href="../Images/I_minimize_icon.png" id="image_k2b_wqf_vxb"/><image
+                    href="../Images/I_agent_bullet_type.png" id="image_ykw_wqf_vxb"/>Windows
+                Server</p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_nmb_zqf_vxb"/>Disk</p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_ofz_zqf_vxb"/>Enterprise
+                Services</p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_lcw_1rf_vxb"/>Memory</p>
+            <p><image href="../Images/I_resource_bullet_type.png" id="image_d1p_brf_vxb"
+                />Network</p>
+            <p><image href="../Images/I_more_icon.png" id="image_s2w_crf_vxb"/>More...4:8</p>
+            <p>This example illustrates the result of selecting Expand Child Items at the platform
+                level of the Navigator. The site is monitoring 500 Windows-based systems. The user
+                can quickly see which systems have situation events and at what severity.</p>
+            <p><image href="../Images/I_minimize_icon.png" id="image_ozs_x5f_vxb"/><image
+                    href="../Images/I_enterprise_2_icon.png" id="image_c5m_y5f_vxb"/>Enterprise</p>
+            <p><image href="../Images/I_minimize_icon.png" id="image_ebw_bvf_vxb"/><image
+                    href="../Images/I_windows_sytems_icon.png" id="image_ztl_1vf_vxb"/>Windows
+                Systems</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_tjg_dvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_sns_dvf_vxb"/>Computer
+                1</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_ifv_2vf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_jfv_2vf_vxb"/>Computer
+                2</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_azg_fvf_vxb"/><image
+                    href="../Images/I_computer_3.png" id="image_qns_gvf_vxb"/>Computer 3</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_nmh_fvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_omh_fvf_vxb"/>Computer
+                4</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_x4n_jvf_vxb"/><image
+                    href="../Images/I_computer_3.png" id="image_y4n_jvf_vxb"/>Computer 5</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_msx_mvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_nsx_mvf_vxb"/>Computer
+                6</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_c3y_mvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_d3y_mvf_vxb"/>Computer
+                7</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_l4x_nvf_vxb"/><image
+                    href="../Images/I_computer_8.png" id="image_cnl_4vf_vxb"/>Computer 8</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_c1y_nvf_vxb"/><image
+                    href="../Images/I_computer_8.png" id="image_pqt_4vf_vxb"/>Computer 9</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_k5r_pvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_l5r_pvf_vxb"/>Computer
+                10</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_mbs_pvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_nbs_pvf_vxb"/>Computer
+                11</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_f3s_pvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_g3s_pvf_vxb"/>Computer
+                12</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_vwt_pvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_wwt_pvf_vxb"/>Computer
+                13</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_jcv_pvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_kcv_pvf_vxb"/>Computer
+                14</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_jpx_qvf_vxb"/><image
+                    href="../Images/I_platform_bullet_type.png" id="image_kpx_qvf_vxb"/>Computer
+                15</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p><image href="../Images/I_expand_icon.png" id="image_bq5_svf_vxb"/><image
+                    href="../Images/I_computer_3.png" id="image_ony_tvf_vxb"/>Computer 500</p>
+        </example>
+    </taskbody>
+</task>

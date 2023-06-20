@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_sus_and_stop_refr">
+    <title>Suspending and stopping refresh</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>If the workspace is set to refresh automatically at timed intervals or it includes
+                event status views, you can suspend refreshes to keep the data from changing while
+                you investigate a problem.</p>
+            <p><b>About this task</b></p>
+            <p>When you open a workspace that includes table or chart views, the Tivoli Enterprise
+                Portal receives the most recently sampled monitoring data from the agents. Take one
+                of these steps to suspend data refreshes or to stop receiving the data that
+                populates the workspace.</p>
+            <p><b>Procedure</b><ul id="ul_lpx_xvq_vxb">
+                    <li>To suspend automatic refreshing of the workspace, click <image
+                            href="../Images/22.jpg" id="image_u1q_zvq_vxb"/> Pause Refresh;
+                            click<image href="../Images/23.jpg" id="image_pwl_bwq_vxb"/>
+                        <b>Resume Refresh</b> to turn on automatic refresh again.</li>
+                </ul><ul id="ul_n3t_2wq_vxb">
+                    <li>To stop loading the workspace, click <image href="../Images/24.jpg"
+                            id="image_utv_gwq_vxb"/><b>Stop</b>.</li>
+                </ul></p>
+            <p> Related tasks:</p>
+            <p>“Refreshing a workspace” on page 39</p>
+            <p>You can refresh the data that is displayed in the workspace on demand or at a set
+                interval.</p>
+        </context>
+    </taskbody>
+</task>

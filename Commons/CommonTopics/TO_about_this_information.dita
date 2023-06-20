@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="TO_about_this_information">
+    <title>About this information</title>
+    <body>
+        <p>The Marvel Monitoring Enterprise Portal User's Guide describes the Marvel Enterprise
+            Portal features for working with your Marvel Monitoring products.</p>
+        <p>Users of this book should be familiar with performance monitoring concepts. If you use
+            the Marvel Data Warehouse, you need to be familiar with the operating system that hosts
+            the warehouse.</p>
+        <p>The document assumes no previous experience with Marvel Monitoring. To learn more about
+            this family of products:</p>
+    </body>
+</topic>

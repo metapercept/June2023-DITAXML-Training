@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_Properties">
+    <title>Properties</title>
+    <shortdesc>Use Properties editor to edit the appearance and content of the views chosen for a
+        workspace.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ek2_qs2_vxb">To view the Properties editor, your user ID must have
+            necessary permissions.</prereq>
+        <context>
+            <p>To open a Properties, do the following steps: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click <b>Properties</b>. </cmd>
+            </step>
+            <step>
+                <cmd>The <b>Properties</b> editor opens with a list of the views on the left,
+                    grouped by type. </cmd>
+            </step>
+            <step>
+                <cmd>On the right, the general workspace properties will appear. </cmd>
+            </step>
+            <step>
+                <cmd>Select one of the views in the <b>Properties</b> tree. All types of views have
+                    a <b>Style</b> tab, with different options for the type of view. The table,
+                    charts, and topology views have <b>Query</b> and <b>Filters</b> tabs, table and
+                    topology have a <b>Thresholds</b> tab, and terminal emulators have a
+                        <b>Configuration</b> tab. </cmd>
+            </step>
+            <step>
+                <cmd>Change the data elements for a chart or table or change the styling of a view.
+                </cmd>
+            </step>
+            <step>
+                <cmd>When you are done, you can close the <b>Properties</b> editor by clicking on
+                    the <b>Cancel</b> button. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

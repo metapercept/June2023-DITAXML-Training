@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Using_Workspaces">
+    <title>Using Workspaces</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The workspace is the working area of the Tivoli Enterprise Portal window, divided into
+            panes to show different types of views. You can start monitoring activity and system
+            status immediately with the predefined workspaces.</p>
+        <p>You can tailor your own workspaces to give you summary overviews or to look at specific
+            conditions.</p>
+    </conbody>
+</concept>

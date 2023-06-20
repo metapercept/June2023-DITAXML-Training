@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_opening_a_new_window">
+    <title>Opening a new window</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Have multiple workspaces open on your desktop at the same time by opening multiple
+                Tivoli Enterprise Portal windows.</p>
+            <p><b>About this task</b></p>
+            <p>You can add more dashboard views to your desktop by opening more Tivoli Enterprise
+                Portal windows. Any changes you make these window are saved with the
+                application.</p>
+            <p><b>Procedure</b><ul id="ul_gct_mbr_vxb">
+                    <li>To open a new window in the desktop client, click <image
+                            href="../Images/41.jpg" id="image_yf4_qbr_vxb"/>
+                        <b>New Window</b>.</li>
+                </ul><ul id="ul_sdx_wbr_vxb">
+                    <li>To open a new window in the browser client running in Internet Explorer,
+                        press Ctrl + N.</li>
+                </ul><ul id="ul_xx3_zbr_vxb">
+                    <li>To open another workspace in a new window and keep the original intact in
+                        this window, click <image href="../Images/1.jpg" id="image_dhj_ccr_vxb"/>
+                        Workspace gallery and Ctrl + Shift + click the workspace.</li>
+                </ul></p>
+            <p><b>Results</b></p>
+            <p>The new window is opened as a duplicate of the original; any changes you make to the
+                new window are independent of the original.</p>
+            <p><b>What to do next</b></p>
+            <p>Any previously visited workspaces are retained from the parent window; use <image
+                    href="../Images/11.jpg" id="image_vmk_hcr_vxb"/>and <image
+                    href="../Images/10.jpg" id="image_fv1_jcr_vxb"/> to revisit them. Further
+                navigation to other workspaces in either window, however, is independent of the
+                other window.</p>
+            <p>You can close duplicate windows (click File > Close) or the original; the work
+                session remains active as long as one window is open.</p>
+            <p><b>Related tasks:</b></p>
+            <p>“Opening a workspace” on page 36</p>
+            <p>Use the Navigator to open the default workspace for the selected item, then the
+                Workspace Gallery to see and select from a thumbnail display of available
+                workspaces.</p>
+            <p><b>Related reference:</b></p>
+            <p>“Tabbed workspaces”</p>
+            <p>Use the tabbed pages capability of your browser to open workspaces, linked
+                workspaces, and Navigator views in new tabs.</p>
+        </context>
+    </taskbody>
+</task>

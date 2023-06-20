@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="C_collapsing_and_expanding_the_navigator">
+    <title>Collapsing and expanding the Navigator</title>
+    <taskbody>
+        <context>
+            <p>To provide more space for workspace views, you can hide the Navigator, then restore
+                it when you want to see it.  </p>
+            <p>You can also can save the workspace with the Navigator minimized.</p>
+            <sectiondiv><b>Procedure</b></sectiondiv>
+        </context>
+        <steps>
+            <step>
+                <cmd> To collapse the Navigator view, click the <image
+                        href="../Images/I_expand_bar_icon.png" id="image_pjm_pzf_vxb"/>
+                    <b>Collapse</b> bar on the right border. (You can also drag the right border if
+                    you prefer to manually adjust the Navigator width.) The adjacent workspace views
+                    expand to fill the gap and the status bar shows the Navigator view icon and name
+                    in the right-most section.</cmd>
+            </step>
+            <step>
+                <cmd>To restore the Navigator view, either click the <image
+                        href="../Images/I_expand_bar_icon.png" id="image_kl2_tzf_vxb"/> Expand bar
+                    on the left border or click <image href="../Images/I_show_navigator_list.png"
+                        id="image_s2m_5zf_vxb"/>
+                    <uicontrol>&lt;Navigator name> </uicontrol>in the status bar. There is an
+                    additional option to open a different Navigator view instead of restoring the
+                    original by right-clicking <uicontrol>&lt;Navigator name> </uicontrol> to see
+                    and select from a list of available Navigator views.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_finding_navigator_items">
+    <title>Finding Navigator items</title>
+    <shortdesc>The Navigator shows all the managed systems that run on an operating system and this
+        list can get very long. Use the Find tool to locate Navigator items based on properties such
+        as IP address or associated situations.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Take these steps to find a Navigator item:</p>
+            <sectiondiv><b>Procedure</b></sectiondiv>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click <image href="../Images/I_find_icon.png" id="image_unr_rbg_vxb"/> Find in
+                    the Navigator toolbar.</cmd>
+            </step>
+            <step>
+                <cmd>If the item you want to search for is in a different Navigator view, select it
+                    from the <b>For Navigator</b><image href="../Images/I_list_box.png"
+                        id="image_gm5_5bg_vxb"/>  list.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the values of the properties to search by:</cmd>
+                <choicetable frame="all" relcolwidth="1* 1*" id="choicetable_vhy_kcg_vxb">
+                    <chhead>
+                        <choptionhd>Properties</choptionhd>
+                        <chdeschd>Value</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>IP Address</choption>
+                        <chdesc>
+                            <p>(Distributed systems only) If you know the IP address, you can enter
+                                it here. Example: <codeph>SCAN == 9.55.1*</codeph> finds computers
+                                that start with 9.55.1, such as 9.55.105.180 and 9.55.110.180</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Hostname</choption>
+                        <chdesc>
+                            <p>(Distributed systems only) Specify all or part of the host name here.
+                                Example: <codeph>SCAN == MYHOST??</codeph> finds computers that
+                                start with MYHOST and have two trailing characters, such as MYHOSTEL
+                                and MYHOST33 but not MYHOSTA or myhostess.</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>SMFID Name</choption>
+                        <chdesc>
+                            <p>(z/OS-based systems only) Find the item by the session ID value.</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Sysplex Name</choption>
+                        <chdesc>
+                            <p>(z/OS-based systems only) Specify the item by system complex
+                                name.</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Product Code</choption>
+                        <chdesc>
+                            <p>Select the product name from the <image
+                                    href="../Images/I_list_box.png" id="image_pd4_fdg_vxb"/> list to
+                                specify the managed system type to find.</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Managed System Name</choption>
+                        <chdesc>
+                            <p>The managed system name is often the same as the host name. Example:
+                                    <codeph>SCAN == *UAGENT0?</codeph> finds Universal Agents
+                                Navigator items such as onionASFSdp:UAGENT00 and
+                                garlicASFSdp:UAGENT05.</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Associated Situation Name</choption>
+                        <chdesc>
+                            <p>Enter a situation name to find the Navigator items that the situation
+                                is associated with. (For an alert indicator to display in the
+                                Navigator for a situation that has become true, the situation must
+                                be associated with a Navigator item.)</p>
+                        </chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <step>
+                <cmd>If you want to show the found Navigator items at the agent level (and subagent
+                    if applicable) but to exclude the child Navigator items (attribute level),
+                    select the <image href="../Images/I_include_checkbox_icon.png"
+                        id="image_xst_pdg_vxb"/>
+                    <b>Include only managed system items</b> check box.</cmd>
+            </step>
+            <step>
+                <cmd>If you want to control the number of Navigator items to list per page in the
+                    find results, click Advanced and specify the page size. The default is 100 rows
+                    per page. By reducing the number, you can have the results displayed more
+                    quickly and in smaller, more manageable pages; then move through the pages with
+                        <image href="../Images/I_page_down_icon.png" id="image_qxd_vdg_vxb"/> Page
+                    down and <image href="../Images/I_page_up_icon.png" id="image_vrs_vdg_vxb"/>
+                    Page up. By increasing the number, you increase the processing time but you can
+                    see all the results on one table page.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Find</b>. The <b>Find results</b> area is appended to the window with
+                    a list of Navigator items that meet the criteria.</cmd>
+            </step>
+            <step>
+                <cmd>Click a Navigator item in the Find results area and click Switch to after
+                    selecting any or none of these check boxes:</cmd>
+                <choices id="choices_hhh_cfg_vxb">
+                    <choice><image href="../Images/I_include_checkbox_icon.png"
+                            id="image_tzf_2fg_vxb"/><b>Open workspace in new window</b><p>Keep the
+                            current workspace open and open the workspace at the selected Navigator
+                            item in a new window (or separate tab if you are in browser mode and
+                            your browser is configured for tabbed windows).</p></choice>
+                    <choice><image href="../Images/I_include_checkbox_icon.png"
+                            id="image_sv4_gfg_vxb"/><b>Close after switching to
+                            workspace</b><p>Close the Find window after opening the workspace for
+                            the selected Navigator item.</p></choice>
+                </choices>
+            </step>
+        </steps>
+        <result id="result_b1k_mfg_vxb">The default workspace for the selected Navigator item is
+            opened.</result>
+        <example id="example_ukd_nfg_vxb">In this example, the find criteria looks on the MySystem
+            computers for Navigator items with associated situations that have "CPU" in the
+            situation name.<p>Find criteria<simpletable frame="all" relcolwidth="1* 1*"
+                    id="simpletable_ylh_njg_vxb">
+                    <sthead>
+                        <stentry>Properties</stentry>
+                        <stentry>Value</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>IP Address</stentry>
+                        <stentry/>
+                    </strow>
+                    <strow>
+                        <stentry>Hostname</stentry>
+                        <stentry><image href="../Images/I_abc==_icon.png" id="image_jm4_yjg_vxb"
+                                /><codeph>'MySystem?'</codeph></stentry>
+                    </strow>
+                    <strow>
+                        <stentry>SMFID Name</stentry>
+                        <stentry/>
+                    </strow>
+                    <strow>
+                        <stentry>Sysplex Name</stentry>
+                        <stentry/>
+                    </strow>
+                    <strow>
+                        <stentry>Product Code</stentry>
+                        <stentry/>
+                    </strow>
+                    <strow>
+                        <stentry>Managed System Name</stentry>
+                        <stentry/>
+                    </strow>
+                    <strow>
+                        <stentry>Associated Situation Name</stentry>
+                        <stentry><image href="../Images/I_abc==_icon.png" id="image_rk4_1kg_vxb"
+                                /><codeph>'*CPU*'</codeph></stentry>
+                    </strow>
+                </simpletable></p><p><b>Find results</b></p><simpletable frame="all"
+                relcolwidth="1* 1* 1*" id="simpletable_pld_2kg_vxb">
+                <sthead>
+                    <stentry>Item</stentry>
+                    <stentry>View</stentry>
+                    <stentry>Item Path</stentry>
+                </sthead>
+                <strow>
+                    <stentry>Process</stentry>
+                    <stentry>Physical</stentry>
+                    <stentry>
+                        <p><codeph>WindowsOS/MySystem1/Windows Systems/Enterprise</codeph></p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>Processor</stentry>
+                    <stentry>Physical</stentry>
+                    <stentry>
+                        <p><codeph>WindowsOS/MySystem1/Windows Systems/Enterprise</codeph></p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>Process</stentry>
+                    <stentry>Physical</stentry>
+                    <stentry>
+                        <p><codeph>WindowsOS/MySystem2/Windows Systems/Enterprise</codeph></p>
+                    </stentry>
+                </strow>
+                <strow>
+                    <stentry>Processor</stentry>
+                    <stentry>Physical</stentry>
+                    <stentry>
+                        <p><codeph>WindowsOS/MySystem2/Windows Systems/Enterprise</codeph></p>
+                    </stentry>
+                </strow>
+            </simpletable></example>
+        <postreq id="postreq_ylr_4kg_vxb">You can keep the window open to switch between one found
+            Navigator item and another or to change the criteria and find other Navigator
+            items.</postreq>
+    </taskbody>
+</task>

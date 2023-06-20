@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Server">
+    <title>Server</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The Marvel Enterprise Portal client connects to its application server, the Marvel
+            Enterprise Portal Server. The Marvel Enterprise Portal Server is a collection of
+            software services for the client that enables retrieval, manipulation and analysis of
+            data from the monitoring agents on your enterprise. This server connects to the Marvel
+            Enterprise Monitoring Server, which acts as a collection and control point for alerts
+            received from the monitoring agents, and collects performance and availability data. The
+            main, or hub, Marvel Enterprise Monitoring Server correlates the monitoring data
+            collected by agents and remote servers and passes it to the Marvel Enterprise Portal
+            Server for presentation and your evaluation.</p>
+    </conbody>
+</concept>
