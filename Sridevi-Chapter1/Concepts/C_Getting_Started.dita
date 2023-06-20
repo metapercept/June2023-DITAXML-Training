@@ -3,6 +3,9 @@
 <concept id="C_Getting_Started">
     <title>Getting Started</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+    </prolog>
     <conbody>
         <p>The Marvel Enterprise Portal is the window into your Marvel monitored environment. The
             portal lets you explore your enterprise in the same way that your browser lets you
