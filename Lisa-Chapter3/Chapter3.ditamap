@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Chapter 3</title>
+    <topicref href="Concepts/C_Using_Workspaces.dita">
+        <topicref href="Concepts/C_workspace_characteristics.dita"/>
+        <topicref href="Concepts/C_org_of_predef_ws.dita"/>
+    </topicref>
+    <topicref href="Tasks/t_opening_a_workspace.dita"/>
+    <topicref href="Tasks/t_opening_a_new_window.dita"/>
+    <topicref href="Concepts/C_tabbed_workspaces.dita"/>
+    <topicref href="Tasks/t_refreshing_a_workspace.dita"/>
+    <topicref href="Concepts/c_view_title_bar_and_toolbar.dita"/>
+</map>

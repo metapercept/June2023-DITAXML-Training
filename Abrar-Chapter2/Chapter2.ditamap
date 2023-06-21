@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Chapter 2</title>
+    <topicref href="Concepts/C_using_the_navigator.dita">
+        <topicref href="Concepts/C_navigator_overview.dita"/>
+        <topichead navtitle="Types of Navigator views" locktitle="yes">
+            <topicref href="Concepts/C_types_of_navigator_views.dita"/>
+            <topicref href="Concepts/C_Custom_Navigator_views.dita"/>
+            <topicref href="Concepts/C_NavigatorLogical_view.dita"/>
+        </topichead>
+        <topicref href="Tasks/T_collapsing_and_expanding_the_navigator.dita"/>
+    </topicref>
+</map>

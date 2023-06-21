@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_wpc_nz1_vxb">
+    <title>Custom Navigator views</title>
+    <conbody>
+        <p>Your Marvel Enterprise Portal configuration can also have custom-designed Navigator
+            views. These views are selectable from the Navigator toolbar, navigable and show event
+            indicators (described below) in the same way as the Navigator Physical view. Unlike the
+            Navigator Physical view, custom Navigator views can be edited. You can, for example,
+            design a Navigator view for Manufacturing and another for Marketing.</p>
+        <p>Your user ID can be assigned to all or a subset of the defined Navigator views, and your
+            access in any of these views can be restricted to a certain branch. To see the list of
+            available Navigator views, click the <image href="../Images/I_list_box.png"
+                id="image_rjn_g1b_vxb"/> list box in the Navigator toolbar. </p>
+        <p>A small white cross over a Navigator item icon means one or more other Navigator items
+            share the characteristics of that item. This happens when an item from one Navigator
+            view has been copied to another Navigator view. All the managed systems, workspaces,
+            link definitions, situations, and policies associated with the original (source) item
+            are applied to the new item. And from then on, changes to one item (such as a new
+            workspace is added) are applied to the other. Right-click a Navigator item and click
+                <image href="../Images/I_show_navigator_list.png" id="image_zgx_h1b_vxb"/><b> Show
+                Navigator List</b> to see the other Navigator views it is contained in.</p>
+    </conbody>
+</concept>
