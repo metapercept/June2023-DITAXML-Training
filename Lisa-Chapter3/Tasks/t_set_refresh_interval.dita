@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_set_refresh_interval">
+    <title>Set a refresh interval</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>To set a refresh interval manually:</context>
+        <steps>
+            <step id="step_in5_gyj_wxb">
+                <cmd>Click <menucascade>
+                        <uicontrol>View</uicontrol>
+                        <uicontrol>Refresh Every</uicontrol>
+                    </menucascade>, and select one of the intervals: </cmd>
+                <choicetable frame="all" relcolwidth="1* 1*" id="choicetable_xkl_xxj_wxb">
+                    <chhead>
+                        <choptionhd/>
+                        <chdeschd/>
+                    </chhead>
+                    <chrow>
+                        <choption><image href="../Images/37.jpg" id="image_tzp_2tq_vxb"/></choption>
+                        <chdesc><uicontrol>30 seconds</uicontrol></chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption><image href="../Images/18.jpg" id="image_qpj_gtq_vxb"/></choption>
+                        <chdesc><uicontrol>60 seconds</uicontrol></chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption><image href="../Images/19.jpg" id="image_z35_htq_vxb"/></choption>
+                        <chdesc><uicontrol>5 minutes</uicontrol></chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption><image href="../Images/20.jpg" id="image_ql5_3tq_vxb"/></choption>
+                        <chdesc><uicontrol>15 minutes</uicontrol></chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption><image href="../Images/21.jpg" id="image_gx4_rtq_vxb"/></choption>
+                        <chdesc><uicontrol>60 minutes</uicontrol></chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption><uicontrol>On Demand</uicontrol></choption>
+                        <chdesc><userinput>Custom Time/ Duration</userinput></chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+        </steps>
+    </taskbody>
+</task>

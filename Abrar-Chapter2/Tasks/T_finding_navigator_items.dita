@@ -6,6 +6,11 @@
         list can get very long. Use the Find tool to locate Navigator items based on properties such
         as IP address or associated situations.</shortdesc>
     <taskbody>
+        <prereq id="prereq_fyx_f1k_wxb">
+            <note
+                conref="../../Lisa-Chapter3/Tasks/T_refreshing_a_workspace.dita#t_refreshing_a_workspace/note_kvg_bzf_wxb"
+                id="note_mby_r1k_wxb"/>
+        </prereq>
         <context>
             <p>Take these steps to find a Navigator item:</p>
             <sectiondiv><b>Procedure</b></sectiondiv>
