@@ -23,7 +23,11 @@
                     Navigator:</cmd>
                 <substeps id="substeps_fp4_kn2_wxb">
                     <substep>
+<<<<<<< Updated upstream
                         <cmd>Physical view: <image href="../Images/42.jpg" id="image_vqm_mzj_wxb"
+=======
+                        <cmd>Physical view: <image href="../Images/42.jpg" id="image_pdt_ln2_wxb"
+>>>>>>> Stashed changes
                             /></cmd>
                     </substep>
                     <substep>

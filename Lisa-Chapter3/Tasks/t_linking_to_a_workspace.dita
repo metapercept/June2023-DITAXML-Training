@@ -39,11 +39,19 @@
             </step>
             <step>
                 <cmd>Click <uicontrol>Link To</uicontrol> and click the target workspace in the
+<<<<<<< Updated upstream
                         <image conref="#t_linking_to_a_workspace/image_scm_5dr_vxb"
                         id="image_itm_xzj_wxb"/> list. The target filter or link expression is used
                     to select the information displayed in the views of the target workspace. If,
                     instead of the workspace opening, you get a "Target not found" message, the
                     definition of the target workspace could not be resolved.</cmd>
+=======
+                        <image href="../Images/2.jpg" id="image_h12_wdr_vxb"/> list. The target
+                    filter or link expression is used to select the information displayed in the
+                    views of the target workspace. If, instead of the workspace opening, you get a
+                    "Target not found" message, the definition of the target workspace could not be
+                    resolved.</cmd>
+>>>>>>> Stashed changes
             </step>
             <step>
                 <cmd>If there is more than one workspace you can link to, the Select Target window
