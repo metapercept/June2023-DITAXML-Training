@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_linking_to_a_workspace">
+    <title>Linking to a workspace</title>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>workspace</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Use these steps to link to a workspace that has been targeted from the current Navigator
+            item or view.</p>
+        <p>Many monitoring agent products have workspace links available through their predefined
+            workspaces. You can also create and use links to workspaces that follow a logical
+            progression of investigation into performance and operation issues.</p>
+    </conbody>
+</concept>

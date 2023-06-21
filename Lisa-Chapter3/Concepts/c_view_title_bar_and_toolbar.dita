@@ -2,16 +2,18 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_view_title_bar_and_toolbar">
     <title>View title bar and toolbar</title>
-    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>title bar</indexterm>
+                <indexterm>toolbar</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <p>Every workspace view and the Navigator view has a title bar with some or all of these
-            controls.</p>
-        <p>
-            <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_qd3_yqv_vxb">
-                <sthead>
-                    <stentry>Icons</stentry>
-                    <stentry>Description</stentry>
-                </sthead>
+                controls.<simpletable frame="all" id="simpletable_mpv_kfg_wxb">
                 <strow>
                     <stentry><image href="../Images/30.jpg" id="image_psb_xzq_vxb"/></stentry>
                     <stentry>Opens the Properties editor to the properties for the view.</stentry>
@@ -28,38 +30,27 @@
                 </strow>
                 <strow>
                     <stentry><image href="../Images/33.jpg" id="image_avm_11r_vxb"/></stentry>
-                    <stentry>Maximizes a view for a closer look. Click
-                            <uicontrol>Restore</uicontrol> to return to the original size. You can
-                        save the workspace with the view maximized.</stentry>
+                    <stentry>Maximizes a view for a closer look. Click <uicontrol>Restore
+                        </uicontrol>to return to the original size. You can save the workspace with
+                        the view maximized.</stentry>
                 </strow>
                 <strow>
-                    <stentry><image href="../Images/35.jpg" id="image_cj3_krv_vxb"/></stentry>
-                    <stentry>Removes a view. <p>There is no undo for this action except to open a
-                            different workspace and answer No when a message asks if you want to
-                            save the workspace</p><p>OR</p><p>Select <menucascade>
-                                <uicontrol>File</uicontrol>
-                                <uicontrol>Save As</uicontrol>
-                            </menucascade>to keep the original workspace with the view intact and
-                            create a new workspace without this view.</p></stentry>
+                    <stentry><image href="../Images/35.jpg" id="image_fwk_b1r_vxb"/></stentry>
+                    <stentry>Removes a view. There is no undo for this action except to open a
+                        different workspace and answer No when a message asks if you want to save
+                        the workspace; -OR- Select <menucascade>
+                            <uicontrol>File</uicontrol>
+                            <uicontrol>Save As</uicontrol>
+                        </menucascade>   to keep the original workspace with the view intact and
+                        create a new workspace without this view.</stentry>
                 </strow>
-                <strow>
-                    <stentry/>
-                    <stentry/>
-                </strow>
-            </simpletable>
-        </p>
-        <p/>
-        <p/>
-        <p/>
-        <p/>
-        <p><image href="../Images/35.jpg" id="image_fwk_b1r_vxb"/>
-        </p>
+            </simpletable></p>
         <p>Most view types have a toolbar for performing specific actions in the view. A common tool
-            is <image href="../Images/14.jpg" id="image_xzq_q1r_vxb"/>
-            <b>Find</b>, which is available for finding values in the browser view, notepad view,
-            table view, message log view, and the event console views. Another tool, <image
+            is <image href="../Images/14.jpg" id="image_xzq_q1r_vxb"/><uicontrol>Find</uicontrol>,
+            which is available for finding values in the browser view, notepad view, table view,
+            message log view, and the event console views. Another tool, <image
                 href="../Images/40.jpg" id="image_vj3_51r_vxb"/>
-            <b>Time span</b>, is for specifying the time period to be displayed in a query-based
-            view when historical data is being collected for it.</p>
+            <uicontrol>Time span</uicontrol>, is for specifying the time period to be displayed in a
+            query-based view when historical data is being collected for it.</p>
     </conbody>
 </concept>

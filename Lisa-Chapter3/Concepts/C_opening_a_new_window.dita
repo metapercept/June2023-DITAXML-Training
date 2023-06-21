@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_opening_a_new_window">
+    <title>Opening a new window</title>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>window</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Have multiple workspaces open on your desktop at the same time by opening multiple Tivoli
+            Enterprise Portal windows.</p>
+        <p>You can add more dashboard views to your desktop by opening more Tivoli Enterprise Portal
+            windows. Any changes you make these window are saved with the application.</p>
+    </conbody>
+</concept>

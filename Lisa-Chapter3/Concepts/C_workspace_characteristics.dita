@@ -2,7 +2,14 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_workspace_characteristics">
     <title>Workspace Characteristics</title>
-    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>Workspace</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <p>Every Navigator item has at least one predefined workspace that you can open. Every
             workspace characteristics such as editable properties and views.</p>
@@ -64,8 +71,8 @@
             Physical view, for example, is the attribute level. The views you can show for the
             workspaces at that level can draw only from the attribute groups represented by that
             level. If you were to build a workspace for the <image href="../Images/7.jpg"
-                id="image_y1f_zpp_vxb"/>Disk Navigator item, for example, you could create a chart
-            with data from the Logical Disk attributes and another with data from the Physical Disk
-            attributes.</p>
+                id="image_y1f_zpp_vxb"/><uicontrol>Disk Navigator </uicontrol>item, for example, you
+            could create a chart with data from the <uicontrol>Logical Disk</uicontrol> attributes
+            and another with data from the <uicontrol>Physical Disk</uicontrol> attributes.</p>
     </conbody>
 </concept>

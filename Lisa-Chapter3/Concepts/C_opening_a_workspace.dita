@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_opening_a_workspace">
+    <title>Opening a workspace</title>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>workspace</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Use the Navigator to open the default workspace for the selected item, then the Workspace
+            Gallery to see and select from a thumbnail display of available workspaces.</p>
+        <p>As well as a convenient way to open workspaces, you can also move the workspaces around
+            the gallery to change their order. The changes you make are saved with the workspace
+            definition for the Navigator item. If you are in workspace administration mode when you
+            reorder the thumbnail graphics, the reorganization will be reflected in the workspace
+            gallery of all Tivoli Enterprise Portal clients connected to this Tivoli Enterprise
+            Portal Server.</p>
+    </conbody>
+</concept>
