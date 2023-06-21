@@ -1,81 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_opening_a_workspace">
-    <title>Opening a workspace</title>
-    <shortdesc></shortdesc>
+<task id="task_ndb_xl2_wxb">
+    <title>Procedure</title>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>workspaces</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <taskbody>
-        <prereq id="prereq_pqq_rsv_vxb"/>
         <context>
-            <p>Use the Navigator to open the default workspace for the selected item, then the
-                Workspace Gallery to see and select from a thumbnail display of available
-                workspaces.</p>
-            <p><b>Before you begin</b></p>
-            <p>As well as a convenient way to open workspaces, you can also move the workspaces
-                around the gallery to change their order. The changes you make are saved with the
-                workspace definition for the Navigator item. If you are in workspace administration
-                mode when you reorder the thumbnail graphics, the reorganization will be reflected
-                in the workspace gallery of all Tivoli Enterprise Portal clients connected to this
-                Tivoli Enterprise Portal Server.</p>
-            <p><b>About this task</b></p>
             <p>Every item in the Navigator has a workspace associated with it, called the default
                 workspace. Some items have multiple workspaces that you can open, although only one
                 workspace can be open in the Tivoli Enterprise Portal window at one time. Some
                 workspaces are only accessible by linking to them from another workspace.</p>
-            <p><b>Procedure</b></p>
-            <p>
-                <ul id="ul_jnh_mvp_vxb">
-                    <li>To open the default workspace, click the item name or icon in the
-                            Navigator:<ul id="ul_mjh_qvp_vxb">
-                            <li>Physical view:  <image href="../Images/3.jpg" id="image_nnz_svp_vxb"
-                                /> ,   <image href="../Images/4.jpg" id="image_lyx_tvp_vxb"/> ,
-                                    <image href="../Images/6.jpg" id="image_ozv_1wp_vxb"/> ,
-                                    <image href="../Images/5.jpg" id="image_ump_bwp_vxb"/>,  or
-                                    <image href="../Images/7.jpg" id="image_cv4_cwp_vxb"/>.</li>
-                        </ul><ul id="ul_hnp_qwp_vxb">
-                            <li>Logical view or other custom Navigator view:  <image
-                                    href="../Images/4.jpg" id="image_ftx_swp_vxb"/>.</li>
-                        </ul></li>
-                </ul>
-            </p>
-            <p>The default workspace for that item is displayed, replacing the workspace of the
-                previously selected item. If the workspace shows no data for a chart or table view,
-                it means there is no data to display. This can occur with monitoring data that is
-                not constantly generated, such as Archive Errors, which collects data only when
-                archive errors occur.</p>
-            <p>To open another workspace associated with the Navigator item:</p>
         </context>
         <steps>
             <step>
-                <cmd>Click <image href="../Images/1.jpg" id="image_mbd_hxp_vxb"/><b>Workspace
-                        gallery</b>.</cmd>
-            </step>
-            <step>
-                <cmd>Click the thumbnail graphic of the workspace to open. (To open the workspace in
-                    a new window instead of replacing the current workspace, use Ctrl + Shift +
-                    click the thumbnail graphic.)</cmd>
+                <cmd>To open the default workspace, click the item name or icon in the
+                    Navigator:</cmd>
+                <substeps id="substeps_fp4_kn2_wxb">
+                    <substep>
+                        <cmd>Physical view: <image href="../Images/42.jpg" id="image_pdt_ln2_wxb"
+                            /></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Logical view or other custom Navigator view:  <image
+                                href="../Images/4.jpg" id="image_bvs_tn2_wxb"/>.</cmd>
+                    </substep>
+                </substeps>
                 <info>
-                    <p>If this is a new installation, you will see the splash screen instead of a
-                        thumbnail version of the workspace in the gallery until you or another user
-                        who is logged on to the same Tivoli Enterprise Portal Server opens the
-                        workspace for the first time. A check mark by a workspace name indicates
-                        that it is the default workspace for this Navigator item. You can reorder
-                        the workspaces in your copy of the gallery by clicking a thumbnail graphic
-                        and dragging it on top of the workspace to swap positions with.</p>
-                    <p><b>Related tasks:</b></p>
-                    <p>Starting workspace administration mode</p>
-                    <p>Typically, workspaces you create are saved with your user ID and no other
-                        users can see them. You can turn on administration mode so that all
-                        workspaces you edit and save while in this mode are shared with all users
-                        who log on to the same Tivoli Enterprise Portal Server.</p>
-                    <p>“Opening a new window”</p>
-                    <p>Have multiple workspaces open on your desktop at the same time by opening
-                        multiple Tivoli Enterprise Portal windows.</p>
-                    <p><b>Related reference:</b></p>
-                    <p>“Tabbed workspaces” on page 38</p>
-                    <p>Use the tabbed pages capability of your browser to open workspaces, linked
-                        workspaces, and Navigator views in new tabs.</p>
+                    <p>The default workspace for that item is displayed, replacing the workspace of
+                        the previously selected item. If the workspace shows no data for a chart or
+                        table view, it means there is no data to display. This can occur with
+                        monitoring data that is not constantly generated, such as Archive Errors,
+                        which collects data only when archive errors occur.</p>
                 </info>
             </step>
+            <step>
+                <cmd>To open another workspace associated with the Navigator item:</cmd>
+                <substeps id="substeps_add_d42_wxb">
+                    <substep>
+                        <cmd>Click <image href="../Images/1.jpg" id="image_tyr_242_wxb"
+                                /><uicontrol>Workspace gallery.</uicontrol></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click the thumbnail graphic of the workspace to open. (To open the
+                            workspace in a new window instead of replacing the current workspace,
+                            use <uicontrol>Ctrl + Shift + Click </uicontrol>the thumbnail
+                            graphic.</cmd>
+                        <info>
+                            <p>If this is a new installation, you will see the splash screen instead
+                                of a thumbnail version of the workspace in the gallery until you or
+                                another user who is logged on to the same Tivoli Enterprise Portal
+                                Server opens the workspace for the first time. A check mark by a
+                                workspace name indicates that it is the default workspace for this
+                                Navigator item. You can reorder the workspaces in your copy of the
+                                gallery by clicking a thumbnail graphic and dragging it on top of
+                                the workspace to swap positions with.</p>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
         </steps>
+        <!--Related tasks:
+Starting workspace administration mode
+Typically, workspaces you create are saved with your user ID and no other users can see them. You can turn on administration mode so that all workspaces you edit and save while in this mode are shared with all users who log on to the same Tivoli Enterprise Portal Server.
+“Opening a new window”
+Have multiple workspaces open on your desktop at the same time by opening multiple Tivoli Enterprise Portal windows.-->
+        <!--Related reference:
+“Tabbed workspaces” on xref
+Use the tabbed pages capability of your browser to open workspaces, linked workspaces, and Navigator views in new tabs.-->
     </taskbody>
 </task>

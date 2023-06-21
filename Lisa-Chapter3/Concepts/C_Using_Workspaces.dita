@@ -2,7 +2,14 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="C_Using_Workspaces">
     <title>Using Workspaces</title>
-    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>workspaces</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <p>The workspace is the working area of the Tivoli Enterprise Portal window, divided into
             panes to show different types of views. You can start monitoring activity and system

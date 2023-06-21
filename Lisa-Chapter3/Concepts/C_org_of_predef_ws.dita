@@ -2,14 +2,21 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_org_of_predef_ws">
     <title>Organization of predefined workspaces</title>
-    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>workspaces</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <p>The Enterprise Navigator item has workspaces that query the Tivoli Enterprise Monitoring
             Server. Use these predefined workspaces to get status information about the monitoring
             server and monitoring agents and about situations and policies.</p>
-        <p>Use the  <image href="../Images/1.jpg" id="image_es4_mqp_vxb"/>Workspace Gallery to see
-            what is available for the Navigator item. These are the Enterprise Navigator item
-            workspaces and the workspaces they link to:</p>
+        <p>Use the <image href="../Images/1.jpg" id="image_es4_mqp_vxb"/><uicontrol>Workspace
+                Gallery</uicontrol> to see what is available for the Navigator item. These are the
+            Enterprise Navigator item workspaces and the workspaces they link to:</p>
         <p><b>Enterprise Status</b></p>
         <p>The default workspace is Enterprise Status, which gives an overview of the situation
             event status throughout your enterprise.<ul id="ul_m21_crp_vxb">
@@ -71,28 +78,28 @@
         <p>The Deployment Status Summary by Transaction workspace shows summary status information
             about remote agent deployments, sorted by transaction.</p>
         <p><b>Related reference:</b></p>
-        <p>“Enterprise Status workspace” on page 55</p>
+        <p>“Enterprise Status workspace” on <b>xref</b></p>
         <p>At the highest level of the Navigator Physical view is the <image href="../Images/3.jpg"
                 id="image_xvg_rtp_vxb"/>Enterprise item. The default workspace for the Enterprise is
             called Enterprise Status.</p>
-        <p>“Manage Tivoli Enterprise Monitoring Servers workspaces” on page 394</p>
+        <p>“Manage Tivoli Enterprise Monitoring Servers workspaces” on <b>xref</b></p>
         <p>Use the Manage Tivoli Enterprise Monitoring Servers workspaces and situations to gather
             information for diagnosing and correcting typical monitoring server configuration
             issues.</p>
-        <p>“Managed System Status workspace” on page 388</p>
+        <p>“Managed System Status workspace” on <b>xref</b></p>
         <p>The Managed System Status workspace is one of the predefined workspaces for the
             Enterprise Navigator item, and offers a high level overview of your managed network. The
             workspace has a single view: Managed System Status table view.</p>
-        <p>“EIB Change Log workspace” on page 392</p>
+        <p>“EIB Change Log workspace” on <b>xref</b></p>
         <p>The Enterprise Information Base (EIB) is a database used by the Tivoli Enterprise
             Monitoring Server to store situation, policy, user definitions and configuration
             information. The EIB Change Log view is a log with details of changes made to
             information in the database.</p>
-        <p>“Self-Monitoring Topology workspace” on page 393</p>
+        <p>“Self-Monitoring Topology workspace” on <b>xref</b></p>
         <p>The Self-Monitoring Topology workspace provides a high level overview of your managed
             infrastructure and its health and introduces you to the Tivoli Enterprise Portal
             self-monitoring capabilities.</p>
-        <p>“Agent deployment workspaces” on page 396</p>
+        <p>“Agent deployment workspaces” on <b>xref</b></p>
         <p>Use the agent deployment workspaces to see your package list, the results of a deployment
             prerequisite check, and the progress of the agent deployment process.</p>
     </conbody>

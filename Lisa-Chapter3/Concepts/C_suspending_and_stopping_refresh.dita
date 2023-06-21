@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_suspending_and_stopping_refresh">
+    <title>Suspending and stopping refresh</title>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm>refresh</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>If the workspace is set to refresh automatically at timed intervals or it includes event
+            status views, you can suspend refreshes to keep the data from changing while you
+            investigate a problem.</p>
+        <p>When you open a workspace that includes table or chart views, the Tivoli Enterprise
+            Portal receives the most recently sampled monitoring data from the agents. Take one of
+            these steps to suspend data refreshes or to stop receiving the data that populates the
+            workspace.</p>
+    </conbody>
+</concept>
