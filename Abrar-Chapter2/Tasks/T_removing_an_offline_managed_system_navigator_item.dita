@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T_removing_an_offline_managed_system_navigator_item">
-    <title>Procedure</title>
+    <title>Removing an offline managed system Navigator item</title>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Removing an offline managed system Navigator
+                        item</keyword><keyword>Removing an offline managed system
+                    </keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <taskbody>
+        <context/>
         <steps>
             <step>
-                <cmd><image href="../Images/I_enterprise_bullet_type.png" id="image_bvd_cwg_vxb"
-                    />Click the Enterprise Navigator item. The default workspace opens.</cmd>
+                <cmd>Click the <image href="../Images/I_enterprise_bullet_type.png"
+                        id="image_bvd_cwg_vxb"/>
+                    <uicontrol>Enterprise Navigator</uicontrol> item. The default workspace
+                    opens.</cmd>
             </step>
             <step>
                 <cmd>Click <image href="../Images/I_workspace_gallery_icon.png"
                         id="image_exm_gwg_vxb"/>
-                    <b>Workspace gallery</b>, scroll to <b>Managed System Status</b>, and click the
-                    workspace.</cmd>
+                    <uicontrol>Workspace gallery</uicontrol>, scroll to <uicontrol>Managed System
+                        Status</uicontrol>, and click the <uicontrol>workspace</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>Right-click an <b>*OFFLINE</b> row, then click <image
+                <cmd>Right-click an <uicontrol>*OFFLINE</uicontrol> row, then click <image
                         href="../Images/I_clear_offline_entry_icon.png" id="image_mlb_mwg_vxb"/>
-                    <b>Clear offline entry</b>.</cmd>
+                    <uicontrol>Clear offline entry</uicontrol>.</cmd>
             </step>
         </steps>
         <result id="result_tlz_mwg_vxb">The offline entry is now cleared from the Navigator and will

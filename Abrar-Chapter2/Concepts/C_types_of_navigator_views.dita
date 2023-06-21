@@ -2,36 +2,168 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="C_types_of_navigator_views">
     <title>Types of Navigator views</title>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Types of Navigator views</keyword><keyword>Navigator Physical
+                        view</keyword><keyword>Custom Navigator views</keyword><keyword>Navigator
+                        Logical view</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <concept id="concept_fvy_4t1_vxb">
         <title>Navigator Physical view</title>
         <conbody>
             <p>The default Navigator view is Physical and shows the hierarchy of your monitored
                 enterprise. The Navigator Physical view is a discovered view: as new managed systems
                 come online or when they become disconnected, the view is adjusted accordingly.</p>
-            <p><image href="../Images/I_enterprise_bullet_type.png" id="image_rt5_4w1_vxb"
-                    /><b>Enterprise</b>, or root, level contains all managed systems</p>
-            <p><image href="../Images/I_platform_bullet_type.png" id="image_xbz_rw1_vxb"
-                    /><b>Platform</b> is the operating system</p>
-            <p><image href="../Images/I_system_bullet_type.png" id="image_ms3_3x1_vxb"
-                    /><b>System</b>, or node, is the name of the computer or z/OS image</p>
-            <p><image href="../Images/I_agent_bullet_type.png" id="image_wcc_lx1_vxb"/><b>Agent</b>
-                type. Multiple instance agents have child items; some are grouped into one
-                folder</p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_rv4_rx1_vxb"
-                    /><b>Resource</b> category being monitored</p>
+            <table frame="all" id="table_cvj_5mw_vxb">
+                <title>Hierarchy of monitored enterprise</title>
+                <tgroup cols="6">
+                    <colspec colname="c1" colnum="1" colwidth="1.09*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1.1*"/>
+                    <colspec colname="c2" colnum="4" colwidth="1*"/>
+                    <colspec colname="newCol5" colnum="5" colwidth="1*"/>
+                    <colspec colname="newCol6" colnum="6" colwidth="19.68*"/>
+                    <tbody>
+                        <row>
+                            <entry><image href="../Images/I_enterprise_bullet_type.png"
+                                    id="image_epg_zmw_vxb"/></entry>
+                            <entry namest="newCol2" nameend="newCol6">
+                                <p><b>Enterprise</b>, or root, level contains all managed
+                                    systems</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_kwr_cnw_vxb"/></entry>
+                            <entry namest="newCol3" nameend="newCol6">
+                                <p><b>Platform</b> is the operating system</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_system_bullet_type.png"
+                                    id="image_lmw_dnw_vxb"/></entry>
+                            <entry namest="c2" nameend="newCol6">
+                                <p><b>System</b>, or node, is the name of the computer or z/OS
+                                    image</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_agent_bullet_type.png"
+                                    id="image_xzf_gnw_vxb"/></entry>
+                            <entry namest="newCol5" nameend="newCol6">
+                                <p><b>Agent</b> type. Multiple instance agents have child items;
+                                    some are grouped into one folder</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_resource_bullet_type.png"
+                                    id="image_uk3_3nw_vxb"/></entry>
+                            <entry>
+                                <p><b>Resource</b> category being monitored</p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
             <p>Here is an example of a system named JDOE, running on Windows, with the Windows OS
                 agent.</p>
-            <p><image href="../Images/I_enterprise_bullet_type.png" id="image_ex5_ky1_vxb"
-                />Enterprise</p>
-            <p><image href="../Images/I_platform_bullet_type.png" id="image_fx5_ky1_vxb"/>Windows
-                Systems</p>
-            <p><image href="../Images/I_system_bullet_type.png" id="image_gx5_ky1_vxb"/>JDOE</p>
-            <p><image href="../Images/I_agent_bullet_type.png" id="image_hx5_ky1_vxb"/>Windows
-                OS</p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_ix5_ky1_vxb"/> Disk </p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_lsf_sy1_vxb"/>
-                Monitoring Services </p>
-            <p><image href="../Images/I_resource_bullet_type.png" id="image_jch_sy1_vxb"/> Memory </p>
+            <table frame="all" id="table_ux5_spw_vxb">
+                <title>JDOE enterprise example</title>
+                <tgroup cols="6">
+                    <colspec colname="c1" colnum="1" colwidth="1.09*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1.1*"/>
+                    <colspec colname="c2" colnum="4" colwidth="1*"/>
+                    <colspec colname="newCol5" colnum="5" colwidth="1*"/>
+                    <colspec colname="newCol6" colnum="6" colwidth="19.68*"/>
+                    <tbody>
+                        <row>
+                            <entry><image href="../Images/I_enterprise_bullet_type.png"
+                                    id="image_vx5_spw_vxb"/></entry>
+                            <entry namest="newCol2" nameend="newCol6">
+                                <p><b>Enterprise</b></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_wx5_spw_vxb"/></entry>
+                            <entry namest="newCol3" nameend="newCol6">
+                                <p><b>Windows Systems</b></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_system_bullet_type.png"
+                                    id="image_xx5_spw_vxb"/></entry>
+                            <entry namest="c2" nameend="newCol6">
+                                <p><b>JDOE</b></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_agent_bullet_type.png"
+                                    id="image_yx5_spw_vxb"/></entry>
+                            <entry namest="newCol5" nameend="newCol6">
+                                <p><b>Windows OS</b></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_resource_bullet_type.png"
+                                    id="image_zx5_spw_vxb"/></entry>
+                            <entry>
+                                <p><b>Disk</b>
+                                </p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_resource_bullet_type.png"
+                                    id="image_bfp_zpw_vxb"/></entry>
+                            <entry>
+                                <p><b>Monitoring Services</b>
+                                </p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_resource_bullet_type.png"
+                                    id="image_mjr_zpw_vxb"/></entry>
+                            <entry>
+                                <p><b>Memory</b>
+                                </p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
             <p>You can collapse the tree by double-clicking the <image
                     href="../Images/I_enterprise_bullet_type.png" id="image_unj_4z1_vxb"/>Enterprise
                 item, and expand it by double-clicking again.</p>
