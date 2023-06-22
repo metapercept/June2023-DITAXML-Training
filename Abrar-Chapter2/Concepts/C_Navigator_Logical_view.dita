@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zyg_j1b_vxb">
+    <title>Navigator Logical view</title>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Types of Navigator views</keyword><keyword>Navigator Physical
+                        view</keyword><keyword>Custom Navigator views</keyword><keyword>Navigator
+                        Logical view</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Users initially have one custom Navigator view called Logical with a single Navigator
+            item for <image href="../Images/I_platform_bullet_type.png" id="image_k43_n1b_vxb"
+            />Enterprise. Click the <image href="../Images/I_list_box.png" id="image_ecd_41b_vxb"/>
+            list box and select the Navigator Logical view from the list.</p>
+    </conbody>
+</concept>
