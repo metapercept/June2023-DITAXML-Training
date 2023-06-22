@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_Installing_the_Installation_Manager_via_Command_Line">
+    <title>Installing the  Installation Manager via Command Line</title>
+    <shortdesc>You can perform a silent installation with the help of instructions provided
+        here.</shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+        <metadata>
+            <keywords>
+                <indexterm>AMC</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <prereq id="prereq_hvy_k3h_wxb">To perform a silent installation you must need a
+                file.<p>During silent installation of IBM Security Directory Integrator on UNIX
+                systems, ensure that the service name for IBM® Security Directory Integrator and AMC
+                does not exceed the maximum length of 4 characters.</p></prereq>
+        <context>
+            <p>Follow the steps below for a silent installation: </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open the IBM Power Shell and enter the following syntax:<cmdname/></cmd>
+                <info>
+                    <p>TDI_SERVER_SERVICENAME=tdisrv_silent TDI_AMC_SERVICENAME=tdiamc_silent</p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_cgj_wjh_wxb">You should a get similar
+            result.<codeblock id="codeblock_z3d_yjh_wxb">tdisrv_silent must be 4 characters or less.
+A service already exists with that name or the name is invalid. 
+UNIX based platforms, maximum 4 characters name is valid.</codeblock></result>
+        <tasktroubleshooting id="tasktroubleshooting_bnm_zjh_wxb">
+            <p>If there is any errors, you must edit the response file and change the values of the
+                    <cmdname>TDI_SERVER_SERVICENAME</cmdname> and
+                    <cmdname>TDI_AMC_SERVICENAME</cmdname> properties to be 4 characters or
+                less.</p>
+        </tasktroubleshooting>
+    </taskbody>
+</task>

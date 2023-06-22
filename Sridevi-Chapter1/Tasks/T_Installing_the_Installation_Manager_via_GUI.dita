@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_Installing_the_Installation_Manager">
+    <title>Installing the Installation Manager via GUI</title>
+    <shortdesc>Installation Manager is a common installer for many IBM software products that you
+        use to install this version of Edge Components.</shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+        <metadata>
+            <keywords>
+                <indexterm>BOOTCAMP<keyword>Graphical User Interface</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <prereq id="prereq_ekn_wzg_wxb">Before you install install IBM Installation Manager make
+            sure that Edge Components products are installed.</prereq>
+        <context>To install via Graphical User Interface follow the steps below:<p/></context>
+        <steps>
+            <step>
+                <cmd>In the Windows installer, follow the onscreen instructions until you are asked
+                    whether to do an upgrade or custom installation. Choose
+                        <uicontrol>Custom</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>When you are asked where to install Windows, select the partition named
+                        <uicontrol>BOOTCAMP</uicontrol>.<image href="../Images/Install_1.png"
+                        width="10cm" height="10cm" id="image_xgk_g1h_wxb"/></cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Next</uicontrol>.<image href="../Images/Install_2.png"
+                        width="10cm" height="10cm" id="image_odz_41h_wxb"/></cmd>
+            </step>
+            <step>
+                <cmd>Follow the onscreen instructions to finish installing and configuring
+                    Windows.</cmd>
+                <stepresult>After you install the software, your machine automatically restarts. Use
+                    the Windows setup screens to configure Windows.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
