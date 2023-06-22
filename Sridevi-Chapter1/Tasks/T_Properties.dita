@@ -10,35 +10,26 @@
     <taskbody>
         <prereq id="prereq_ek2_qs2_vxb">Your user account must have necessary permissions to view
             the Properties editor.</prereq>
-        <context>
-            <p>To open a Properties, do the following steps: </p>
-        </context>
+        <context>To open a Properties, do the following steps: </context>
         <steps>
             <step>
                 <cmd>Click <uicontrol>Properties</uicontrol>. </cmd>
             </step>
             <step>
                 <cmd>The <uicontrol>Properties</uicontrol> editor opens with a list of the views on
-                    the left, grouped by type. </cmd>
+                    the left, grouped by type. On the right, the general workspace properties will
+                    appear.</cmd>
             </step>
             <step>
-                <cmd>On the right, the general workspace properties will appear. </cmd>
-            </step>
-            <step>
-                <cmd>Select one of the views in the <uicontrol>Properties</uicontrol> tree. All
-                    types of views have a <uicontrol>Style</uicontrol> tab, with different options
-                    for the type of view. The table, charts, and topology views have
-                        <uicontrol>Query</uicontrol> and <uicontrol>Filters</uicontrol> tabs, table
-                    and topology have a <uicontrol>Thresholds</uicontrol> tab, and terminal
-                    emulators have a <uicontrol>Configuration</uicontrol> tab. </cmd>
+                <cmd>Select one of the views in the <uicontrol>Properties</uicontrol> tree.</cmd>
             </step>
             <step>
                 <cmd>Change the data elements for a chart or table or change the styling of a
                     view.</cmd>
             </step>
             <step>
-                <cmd>When you are done, you can close the <uicontrol>Properties</uicontrol> editor
-                    by clicking on the <uicontrol>Cancel</uicontrol> button. </cmd>
+                <cmd>Close the <uicontrol>Properties</uicontrol> editor by clicking on the
+                        <uicontrol>Cancel</uicontrol> button.</cmd>
             </step>
         </steps>
     </taskbody>

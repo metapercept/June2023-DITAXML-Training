@@ -15,8 +15,8 @@
             the Situation editor.<note id="note_drb_dm2_vxb"> If you see any of these icons in the
                 Navigator now, move the mouse pointer over an event indicator to open a flyover
                 listing of the situations that caused the events at that level of the Navigator and
-                below.</note><p>When a condition changes, the associated item is marked with an icon
-                as mentioned in the table below:<simpletable frame="all" relcolwidth="1.0* 1.27*"
+                below.</note><p>When a condition changes, the associated item is marked with an icon as mentioned in the table
+                    below:<simpletable frame="all" relcolwidth="1.0* 2.42*"
                     id="simpletable_uhy_ym2_vxb">
                     <sthead>
                         <stentry>Icon</stentry>
@@ -66,31 +66,40 @@
             </step>
             <step>
                 <cmd>Click anyone of the situation name in the tree to see the
-                        <uicontrol>Situations</uicontrol> editor tabs. </cmd>
+                        <uicontrol>Situations</uicontrol> editor tabs.</cmd>
+                <choicetable frame="all" relcolwidth="1.0* 4.53*" id="choicetable_kwl_vbp_wxb">
+                    <chhead>
+                        <choptionhd>Situations Name</choptionhd>
+                        <chdeschd>Actions </chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>Formula</choption>
+                        <chdesc>To view, add, and change the conditions being tested.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Distribution</choption>
+                        <chdesc>To view and specify the systems on which to run the
+                            situation.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Expert Advice</choption>
+                        <chdesc>To write comments or instructions to be read in the event results
+                            workspace.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Action</choption>
+                        <chdesc>To send a command to the managed system.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Until</choption>
+                        <chdesc>To close the event after a period of time or when another situation
+                            is true.</chdesc>
+                    </chrow>
+                </choicetable>
             </step>
             <step>
-                <cmd>To view, add, and change the conditions being tested, click
-                        <uicontrol>Formula</uicontrol>.</cmd>
-            </step>
-            <step>
-                <cmd>To view and specify the systems on which to run the situation click
-                        <uicontrol>Distribution</uicontrol>.</cmd>
-            </step>
-            <step>
-                <cmd>To write comments or instructions to be read in the event results workspace,
-                    click <uicontrol>Expert Advice</uicontrol>. </cmd>
-            </step>
-            <step>
-                <cmd>To send a command to the managed system, click <uicontrol>Action</uicontrol>.
-                </cmd>
-            </step>
-            <step>
-                <cmd>Click <b>Until</b> to close the event after a period of time or when another
-                    situation is true.</cmd>
-            </step>
-            <step>
-                <cmd>When you are done, you can close the <uicontrol>Situations</uicontrol> editor
-                    by clicking on the <uicontrol>Cancel</uicontrol> button. </cmd>
+                <cmd>Click  <uicontrol>Cancel</uicontrol> to close
+                    <uicontrol>Situations</uicontrol>editor. </cmd>
             </step>
         </steps>
     </taskbody>

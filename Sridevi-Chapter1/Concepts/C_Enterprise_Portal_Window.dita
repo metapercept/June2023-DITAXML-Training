@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Enterprise_Portal_Window">
+    <title>Enterprise Portal Window</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+    </prolog>
+    <conbody>
+        <p>The Marvel Enterprise Portal window displays information about monitored resources in
+            your enterprise. On the left is the Navigator, which shows the arrangement of your
+            monitored network and allows you to access information collected by different agents on
+            your monitored systems. On the right is a workspace. The workspace can be divided into
+            as many smaller frames, or panes,as you can reasonably fit inside the window. When you
+            select an item in the Navigator, a new workspace opens with a set of views for that
+            item.</p>
+        <p></p>
+    </conbody>
+</concept>

@@ -28,7 +28,7 @@
                 </info>
             </step>
         </steps>
-        <result id="result_cgj_wjh_wxb">You should a get similar
+        <result id="result_cgj_wjh_wxb">You should get a similar
             result.<codeblock id="codeblock_z3d_yjh_wxb">tdisrv_silent must be 4 characters or less.
 A service already exists with that name or the name is invalid. 
 UNIX based platforms, maximum 4 characters name is valid.</codeblock></result>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_Portal_Window_Elements">
+    <title>Portal Window Elements</title>
+    <shortdesc>The window comprises the following elements:</shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+        <metadata>
+            <keywords>
+                <keyword>message log</keyword>
+                <keyword>notepad view</keyword>
+                <keyword>table view</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>
+            <dl id="dl_rz2_v2p_wxb">
+                <dlentry>
+                    <dt>Title bar</dt>
+                    <dd>
+                        <p>In browser mode (as shown), the title bar shows the name of the
+                            workspace. In desktop mode, the title bar shows the name of the
+                            workspace, the name and port number of the Marvel Enterprise Portal
+                            Server, and the user name</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_scw_w2p_wxb">
+                <dlentry>
+                    <dt>Banner</dt>
+                    <dd>Marvel Enterprise Portal has a menu bar that includes the four menus File,
+                        Edit, View and Help.</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_qcb_y2p_wxb">
+                <dlentry>
+                    <dt>Toolbar</dt>
+                    <dd>Your user ID requires Workspace Author Mode permission to create and
+                        maintain workspaces, including links. The toolbar has three tool
+                            groupings:<simpletable frame="all" relcolwidth="1.0* 4.71*"
+                            id="simpletable_bmy_bfp_wxb">
+                            <sthead>
+                                <stentry>Toolbar menu</stentry>
+                                <stentry>Description </stentry>
+                            </sthead>
+                            <strow>
+                                <stentry><image
+                                        conref="C_Features.dita#C_Features/image_qgq_tv2_vxb"
+                                        id="image_nyr_djp_wxb"/></stentry>
+                                <stentry>
+                                    <p>The message log view shows the status of events that have
+                                        been opened on the entire monitored enterprise and can
+                                        include up to 100 row entries at a time.</p>
+                                </stentry>
+                            </strow>
+                            <strow>
+                                <stentry><image
+                                        conref="C_Features.dita#C_Features/image_mpq_4v2_vxb"
+                                        id="image_od5_gjp_wxb"/></stentry>
+                                <stentry>The notepad view is a simple text editor for writing notes
+                                    about the workspace.</stentry>
+                            </strow>
+                            <strow>
+                                <stentry><image
+                                        conref="C_Features.dita#C_Features/image_qgh_rv2_vxb"
+                                        id="image_y5r_hjp_wxb"/></stentry>
+                                <stentry>
+                                    <p>The table view shows a column for each attribute requested by
+                                        the query and one or more rows of data. You can also get
+                                        table views to show data samplings over a period of
+                                        time.</p>
+                                </stentry>
+                            </strow>
+                        </simpletable></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_kky_2fp_wxb">
+                <dlentry>
+                    <dt>Navigator</dt>
+                    <dd>
+                        <p>The Navigator provides a physical view of your monitored network,
+                            organized by operating system platform, system type, Marvel Enterprise
+                            Monitoring product (agents), and the attribute groups from which the
+                            agents can collect information.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_kl5_hfp_wxb">
+                <dlentry>
+                    <dt>Workspace</dt>
+                    <dd>The workspace is the working area of the application window and consists of
+                        one or more views.</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_hkw_3fp_wxb">
+                <dlentry>
+                    <dt>Status bar</dt>
+                    <dd>The status bar has several sections showing the Hub Time, Server Available,
+                        and Workspace name. You can turn off the display of the status bar through
+                        the View menu.</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_fwn_2gp_wxb">
+                <dlentry>
+                    <dt>Status bar</dt>
+                    <dd>The status bar has several sections showing the Hub Time, Server Available,
+                        and Workspace name. You can turn off the display of the status bar through
+                        the View menu.</dd>
+                </dlentry>
+            </dl>
+        </p>
+    </conbody>
+</concept>
