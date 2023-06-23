@@ -2,7 +2,15 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_tabbed_workspaces">
     <title>Tabbed workspaces</title>
-    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata/>
+        <metadata>
+            <keywords>
+                <indexterm>workspaces</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
     <conbody>
         <p>Use the tabbed pages capability of your browser to open workspaces, linked workspaces,
             and Navigator views in new tabs.</p>
@@ -11,9 +19,9 @@
             uses the browser's tab settings to determine how to open a workspace: When tabs are
             enabled, the workspace is opened in a new tab. You can set the properties of a workspace
             or the target of a workspace link to always open in a new tab, or you can open a
-            workspace in a new tab by holding down the Ctrl + Shift keys while selecting the
-            workspace with a mouse click. Then use the Ctrl + Tab keys to switch focus to the next
-            tabbed workspace.</p>
+            workspace in a new tab by holding down the <uicontrol>Ctrl + Shift</uicontrol> keys
+            while selecting the workspace with a mouse click. Then use the <uicontrol>Ctrl +
+                Tab</uicontrol> keys to switch focus to the next tabbed workspace.</p>
         <p>The desktop client and Java Web Start client use these same features to open a workspace,
             but it is always opened in a new window.</p>
         <p><b>Workspace properties</b></p>
@@ -29,61 +37,13 @@
             <i>openTargetInNewWindow</i>. When enabled, this option opens the targeted workspace in
             a new tab if you are logged on from a tab-enabled browser.</p>
         <p><b>Navigator item find</b></p>
-        <p><image href="../Images/14.jpg" id="image_ztl_2cq_vxb"/>Find in the Navigator toolbar
-            enables you to locate any Navigator item using simple or advanced search criteria. The
-            Find window has an option to <image href="../Images/12.jpg" id="image_uzn_gcq_vxb"
-                /><b>Open workspace in new window </b>that will open the default workspace for the
-            found Navigator item in a new tab if you are logged on from a tab-enabled browser.</p>
+        <p><image href="../Images/14.jpg" id="image_ztl_2cq_vxb"/><uicontrol>Find</uicontrol> in the
+            Navigator toolbar enables you to locate any Navigator item using simple or advanced
+            search criteria. The Find window has an option to <image href="../Images/12.jpg"
+                id="image_uzn_gcq_vxb"/><b>Open workspace in new window </b>that will open the
+            default workspace for the found Navigator item in a new tab if you are logged on from a
+            tab-enabled browser.</p>
         <p><b>On demand</b></p>
         <p>You can open a workspace in a new tab from any context:</p>
-        <p><image href="../Images/15.jpg" id="image_prg_pcq_vxb"/><b> Open a workspace</b><ul
-                id="ul_lfn_rcq_vxb">
-                <li>Ctrl + Shift + click a Navigator item to open its default workspace.</li>
-            </ul><ul id="ul_urj_jdq_vxb">
-                <li>Click <image href="../Images/1.jpg" id="image_ag4_ldq_vxb"/>
-                    <b>Workspace gallery</b> and Ctrl + Shift + click the workspace.</li>
-            </ul><ul id="ul_um4_rdq_vxb">
-                <li>Right-click the active Navigator item, point to <b>Workspace</b>, and Ctrl +
-                    Shift + click the workspace that you want to open.</li>
-            </ul><ul id="ul_irl_vdq_vxb">
-                <li>View > Workspace > Ctrl + Shift + click the workspace that you want to
-                    open.</li>
-            </ul></p>
-        <p><image href="../Images/2.jpg" id="image_xf3_wfq_vxb"/><b>Link to a workspace</b><ul
-                id="ul_gv1_tfq_vxb">
-                <li>Ctrl + Shift + click the link anchor. If there are multiple choices, click the
-                    one you want.</li>
-            </ul><ul id="ul_mjh_5fq_vxb">
-                <li>Right-click the source of a defined link (Navigator item, table view row, pie
-                    chart slice, bar chart bar, plot chart point, area chart point), point to Link
-                    to, and Ctrl + Shift + click the link name.</li>
-            </ul></p>
-        <p><image href="../Images/14.jpg" id="image_d24_1gq_vxb"/><b>Open a found Navigator item at
-                its default workspace</b><ol id="ol_esm_hgq_vxb">
-                <li>In the Navigator view toolbar, click <image href="../Images/14.jpg"
-                        id="image_vff_jgq_vxb"/>
-                    <b>Find</b>, enter the find criteria and click <b>Find</b>.</li>
-                <li>From the list of Navigator items that is displayed in the Find results area,
-                    point to a row and Ctrl + Shift + click to open the default workspace for that
-                    Navigator item in a new tab.</li>
-            </ol></p>
-        <p><image href="../Images/25.jpg" id="image_px1_2hq_vxb"/>Open a Navigator view at its
-            default workspace<ul id="ul_afh_b3q_vxb">
-                <li>In the Navigator view toolbar, click the View <image href="../Images/26.jpg"
-                        id="image_vw4_jhq_vxb"/> list box and Ctrl + Shift + click the Navigator
-                    view.</li>
-            </ul><ul id="ul_qqm_d3q_vxb">
-                <li>View > Navigator View > Ctrl + Shift + click the Navigator view.</li>
-            </ul><ul id="ul_m1v_23q_vxb">
-                <li>Ctrl + Shift + click a Navigator tab.</li>
-            </ul></p>
-        <p><b>Troubleshooting</b></p>
-        <p>If the workspace or Navigator view opens in a new window rather than a new tab, review
-            the tab options in your browser to ensure that the tab feature is enabled. If you are
-            using Microsoft Internet Explorer 7, be aware that tabbed workspaces are treated as
-            pop-ups: In the Tabbed Browsing Settings window (Tools > Internet Options > General >
-            Tabs > Settings),</p>
-        <p><image href="../Images/29.jpg" id="image_rmx_vhq_vxb"/><b>Always open pop-ups in a new
-                tab</b> must be selected.</p>
     </conbody>
 </concept>

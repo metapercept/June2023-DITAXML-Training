@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">Chapter 2<\/span>","topics":[{"title":"Using the Navigator","shortdesc":"<p class=\"shortdesc\"\/>","href":"Concepts\/C_Using_the_Navigator.html","attributes":{"data-id":"C_using_the_navigator"},"menu":{"hasChildren":true},"tocID":"C_using_the_navigator-d209e11","next":"C_using_the_navigator-d209e11"}]});

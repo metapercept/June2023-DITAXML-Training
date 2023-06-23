@@ -8,7 +8,7 @@
             <keywords>
                 <indexterm><keyword>Collapsing and expanding the
                         Navigator</keyword><keyword>Collapsing the
-                        Navigator</keyword><keyword>Expanding the Navigator</keyword></indexterm>
+                        Navigator</keyword><keyword>Restore the Navigator view</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
@@ -22,7 +22,8 @@
         <steps>
             <step>
                 <cmd> To collapse the <uicontrol>Navigator</uicontrol> view, click the <image
-                        href="../Images/I_expand_bar_icon.png" id="image_pjm_pzf_vxb"/>
+                        href="../Images/I_expand_bar_icon.png" width="10" height="20"
+                        id="image_xgz_lfx_wxb"/>
                     <b><uicontrol>Collapse</uicontrol></b> bar on the right border. (You can also
                     drag the right border if you prefer to manually adjust the
                         <uicontrol>Navigator</uicontrol> width.) The adjacent workspace views expand
@@ -31,7 +32,8 @@
             </step>
             <step>
                 <cmd>To restore the Navigator view, either click the <image
-                        href="../Images/I_expand_bar_icon.png" id="image_kl2_tzf_vxb"/>
+                        href="../Images/I_expand_bar_icon.png" width="10" height="20"
+                        id="image_gy3_mfx_wxb"/>
                     <uicontrol>Expand</uicontrol> bar on the left border or click <image
                         href="../Images/I_show_navigator_list.png" id="image_s2m_5zf_vxb"/>
                     <uicontrol>&lt;Navigator name> </uicontrol>in the status bar. There is an

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap rev="1.0">
+    <booktitle>
+        <mainbooktitle>Marvel-Run</mainbooktitle>
+        <booktitlealt>User Guide</booktitlealt>
+    </booktitle>
+    <frontmatter>
+        <notices href="Commons/CommonTopics/TO_about_this_information.dita"/>
+        <preface href="Abrar-Chapter2/Commons/TO_preface.dita">
+            <topicmeta>
+                <author>Abrar Ahmed Syed</author>
+            </topicmeta>
+        </preface>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>
+    <chapter navtitle="Chapter 1">
+        <mapref href="Sridevi-Chapter1/Chapter1.ditamap"/>
+    </chapter>
+    <chapter navtitle="Chapter 2">
+        <mapref href="Abrar-Chapter2/Chapter2.ditamap"/>
+    </chapter>
+    <chapter navtitle="Chapter 3">
+        <mapref href="Lisa-Chapter3/Chapter3.ditamap"/>
+    </chapter>
+    <backmatter>
+        <booklists>
+            <indexlist/>
+        </booklists>
+    </backmatter>
+</bookmap>

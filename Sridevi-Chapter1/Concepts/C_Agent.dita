@@ -3,6 +3,9 @@
 <concept id="C_Agent">
     <title>Agent</title>
     <shortdesc></shortdesc>
+    <prolog>
+        <author>Sridevi</author>
+    </prolog>
     <conbody>
         <p>Marvel Enterprise Monitoring Agents are installed on the systems whose applications or
             resources you want to monitor. The monitoring agent collects the monitored data, and

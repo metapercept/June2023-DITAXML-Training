@@ -10,24 +10,24 @@
         <author>Abrar Ahmed Syed</author>
         <metadata>
             <keywords>
-                <indexterm><keyword>Finding Navigator items</keyword><keyword>Navigator Physical
-                        view</keyword><keyword>Custom Navigator views</keyword><keyword>Navigator
-                        Logical view</keyword></indexterm>
+                <indexterm><keyword>Finding Navigator items</keyword><keyword>Locate
+                        Navigator</keyword><keyword>Custom Navigator
+                        views</keyword><keyword>Navigator Logical view</keyword></indexterm>
+                <indexterm><keyword>Navigator items at the agent level </keyword></indexterm>
+                <indexterm><keyword>Find criteria</keyword></indexterm>
+                <indexterm><keyword>Find results</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
     <taskbody>
-        <prereq id="prereq_fyx_f1k_wxb">
-            <note
-                conref="../../Lisa-Chapter3/Tasks/T_refreshing_a_workspace.dita#t_refreshing_a_workspace/note_kvg_bzf_wxb"
-                id="note_mby_r1k_wxb"/>
-        </prereq>
+        <prereq id="prereq_fyx_f1k_wxb"/>
         <context>
             <p>Take these steps to find a Navigator item:</p>
         </context>
         <steps>
             <step>
-                <cmd>Click <image href="../Images/I_find_icon.png" id="image_unr_rbg_vxb"/>
+                <cmd>Click <image href="../Images/I_find_icon.png" width="15" height="15"
+                        id="image_p3w_rlx_wxb"/>
                     <uicontrol>Find</uicontrol> in the Navigator toolbar.</cmd>
             </step>
             <step>
@@ -129,13 +129,14 @@
                         <uicontrol>Switch</uicontrol> to after selecting any or none of these check
                     boxes:</cmd>
                 <choices id="choices_hhh_cfg_vxb">
-                    <choice><image href="../Images/I_include_checkbox_icon.png"
-                            id="image_tzf_2fg_vxb"/><b>Open workspace in new window</b><p>Keep the
-                            current workspace open and open the workspace at the selected Navigator
-                            item in a new window (or separate tab if you are in browser mode and
-                            your browser is configured for tabbed windows).</p></choice>
-                    <choice><image href="../Images/I_include_checkbox_icon.png"
-                            id="image_sv4_gfg_vxb"/><b>Close after switching to
+                    <choice><image href="../Images/I_include_checkbox_icon.png" width="10"
+                            height="10" id="image_tlm_vlx_wxb"/><b>Open workspace in new
+                            window</b><p>Keep the current workspace open and open the workspace at
+                            the selected Navigator item in a new window (or separate tab if you are
+                            in browser mode and your browser is configured for tabbed
+                        windows).</p></choice>
+                    <choice><image href="../Images/I_include_checkbox_icon.png" width="10"
+                            height="10" id="image_p3v_vlx_wxb"/><b>Close after switching to
                             workspace</b><p>Close the <wintitle>Find</wintitle> window after opening
                             the workspace for the selected Navigator item.</p></choice>
                 </choices>

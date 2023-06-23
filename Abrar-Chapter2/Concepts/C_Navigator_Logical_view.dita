@@ -6,9 +6,8 @@
         <author>Abrar Ahmed Syed</author>
         <metadata>
             <keywords>
-                <indexterm><keyword>Types of Navigator views</keyword><keyword>Navigator Physical
-                        view</keyword><keyword>Custom Navigator views</keyword><keyword>Navigator
-                        Logical view</keyword></indexterm>
+                <indexterm><keyword>Navigator Logical view</keyword><keyword>Custom Navigator view
+                        selection</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>

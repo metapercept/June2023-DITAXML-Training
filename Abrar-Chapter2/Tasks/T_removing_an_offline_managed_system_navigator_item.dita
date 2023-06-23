@@ -16,20 +16,21 @@
         <context/>
         <steps>
             <step>
-                <cmd>Click the <image href="../Images/I_enterprise_bullet_type.png"
-                        id="image_bvd_cwg_vxb"/>
+                <cmd>Click the <image href="../Images/I_enterprise_bullet_type.png" width="10"
+                        height="10" id="image_ay3_1mx_wxb"/>
                     <uicontrol>Enterprise Navigator</uicontrol> item. The default workspace
                     opens.</cmd>
             </step>
             <step>
-                <cmd>Click <image href="../Images/I_workspace_gallery_icon.png"
-                        id="image_exm_gwg_vxb"/>
+                <cmd>Click <image href="../Images/I_workspace_gallery_icon.png" width="10"
+                        height="10" id="image_wqm_bmx_wxb"/>
                     <uicontrol>Workspace gallery</uicontrol>, scroll to <uicontrol>Managed System
                         Status</uicontrol>, and click the <uicontrol>workspace</uicontrol>.</cmd>
             </step>
             <step>
                 <cmd>Right-click an <uicontrol>*OFFLINE</uicontrol> row, then click <image
-                        href="../Images/I_clear_offline_entry_icon.png" id="image_mlb_mwg_vxb"/>
+                        href="../Images/I_clear_offline_entry_icon.png" width="10" height="10"
+                        id="image_s4m_cmx_wxb"/>
                     <uicontrol>Clear offline entry</uicontrol>.</cmd>
             </step>
         </steps>

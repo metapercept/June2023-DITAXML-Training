@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="preface">
+    <title>Preface</title>
+    <body>
+        <p>Welcome to the Marvel Monitoring Enterprise Portal User's Guide. This document is
+            designed to provide you with comprehensive information about the Marvel Enterprise
+            Portal features for effectively working with your Marvel Monitoring products. Whether
+            you are a new user or seeking to enhance your understanding of the portal, this guide
+            will serve as a valuable resource.</p>
+        <p>To make the most of this guide, it is recommended that users have a basic familiarity
+            with performance monitoring concepts. This foundational knowledge will enable you to
+            grasp the concepts and functionalities discussed throughout the document, empowering you
+            to leverage the full potential of the Marvel Monitoring Enterprise Portal.</p>
+        <p>If you are utilizing the Marvel Data Warehouse, it is important to note that familiarity
+            with the operating system hosting the warehouse is necessary. Understanding the
+            operating system will facilitate a deeper comprehension of the integration between the
+            Marvel Monitoring products and the warehouse.</p>
+        <p>It is worth emphasizing that this user's guide is tailored for individuals with no prior
+            experience using Marvel Monitoring. The document has been structured to provide clear
+            and concise explanations, ensuring that users can easily follow along and apply the
+            information to their specific monitoring needs.</p>
+        <p>By leveraging the insights and instructions outlined in this guide, you will gain a
+            comprehensive understanding of the Marvel Enterprise Portal features and how they can be
+            effectively utilized in conjunction with your Marvel Monitoring products. We encourage
+            you to explore the various sections of this document, acquaint yourself with the
+            portal's capabilities, and harness its power to enhance your performance monitoring
+            processes.</p>
+        <p>Thank you for choosing the Marvel Monitoring Enterprise Portal User's Guide. We are
+            confident that it will equip you with the necessary knowledge and skills to maximize the
+            value and potential of your Marvel Monitoring products.</p>
+    </body>
+</topic>
