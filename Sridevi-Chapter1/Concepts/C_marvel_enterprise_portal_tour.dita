@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_marvel_enterprise_portal_tour">
+    <title>Marvel Enterprise Portal Tour</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Major features</keyword><keyword>Portal tour
+                        </keyword><keyword>Procedures</keyword><keyword>Edit the content of the
+                        views</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Welcome to the Marvel Enterprise Portal tour. In under 10 minutes, this hands-on practice
+            introduces you to some of the major features.</p>
+    </conbody>
+</concept>

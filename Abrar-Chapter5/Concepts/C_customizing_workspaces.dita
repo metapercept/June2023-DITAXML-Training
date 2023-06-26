@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_customizing_workspaces">
+    <title>Customizing Workspaces</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Customizing Workspaces</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Marvel Enterprise Portal product comes with a set of predefined workspaces for every item
+            in the Navigator Physical view. Use these as a starting point for creating and
+            customizing new workspaces to suit your environment.</p>
+    </conbody>
+</concept>

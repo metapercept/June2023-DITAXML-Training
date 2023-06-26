@@ -16,14 +16,17 @@
             <toc/>
         </booklists>
     </frontmatter>
-    <chapter navtitle="Chapter 1">
+    <chapter navtitle="Getting Started">
         <mapref href="Sridevi-Chapter1/Chapter1.ditamap"/>
     </chapter>
-    <chapter navtitle="Chapter 2">
+    <chapter navtitle="Using the Navigator">
         <mapref href="Abrar-Chapter2/Chapter2.ditamap"/>
     </chapter>
-    <chapter navtitle="Chapter 3">
-        <mapref href="Lisa-Chapter3/Chapter3.ditamap"/>
+    <chapter navtitle="Using Workspaces">
+        <mapref href="Lisa-Chapter3/Chapter3.ditamap" navtitle="Customizing Workspaces"/>
+    </chapter>
+    <chapter navtitle="Customizing Workspaces">
+        <mapref href="Abrar-Chapter5/chapter5.ditamap"/>
     </chapter>
     <backmatter>
         <booklists>

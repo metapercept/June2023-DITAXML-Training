@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Chapter5</title>
+    <topicref href="Concepts/C_customizing_workspaces.dita"/>
+    <topicref href="Concepts/C_custom_workspace_options_and_guidelines.dita">
+        <topicref href="Concepts/C_workspace_changes.dita"/>
+        <topicref href="Concepts/C_design_guidelines.dita"/>
+        <topicref href="Concepts/C_tips.dita"/>
+        <topicref href="Concepts/C_workspace_author_mode_permission.dita"/>
+    </topicref>
+    <topicref href="Concepts/C_tutorial_defining_a_workspace.dita">
+        <topicref href="Tasks/T_split_a_view.dita"/>
+        <topicref href="Tasks/T_change_the_view_type.dita"/>
+        <topicref href="Tasks/T_swap_views.dita"/>
+        <topicref href="Tasks/T_edit_view_properties.dita"/>
+        <topicref href="Tasks/T_save_a_new_workspace.dita"/>
+        <topicref href="Tasks/T_edit_workspace_properties.dita"/>
+        <topicref href="Tasks/T_opening_a_new_window.dita"/>
+        <topicref href="Concepts/C_conclusion.dita"/>
+    </topicref>
+</map>

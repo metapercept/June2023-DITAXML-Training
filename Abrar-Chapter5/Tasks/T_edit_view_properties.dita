@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_edit_view_properties">
+    <title>Edit View Properties</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Edit View Properties</keyword><keyword>Workspace View
+                        Properties</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Edit the properties for the table view to select what data must display.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the table view title bar, click <image href="../Images/I_properties.png"
+                        id="image_zrk_3hh_xxb"/>
+                    <uicontrol>Properties</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Query</uicontrol> tab, Click <image
+                        href="../Images/I_query_tab.png" id="image_gdf_nhh_xxb"/>here to assign a
+                    query.</cmd>
+                <info>Queries determine from which attribute group to draw data. The Select Query
+                    window opens.</info>
+            </step>
+            <step>
+                <cmd>In the Query tree, expand the <uicontrol>Marvel Enterprise Monitoring Server
+                    </uicontrol>branch, then<uicontrol> Managed System</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select <image href="../Images/I_query_tab.png" id="image_umg_jjh_xxb"/> Current
+                    Managed Systems Status and click <uicontrol>OK</uicontrol>.</cmd>
+                <info>Back in the Query tab, you can see a preview of the table.</info>
+            </step>
+            <step>
+                <cmd>Click the <image href="../Images/I_query_tab.png" id="image_zpw_njh_xxb"/>
+                    <uicontrol>Filters</uicontrol> tab and clear the boxes for these columns
+                    (attributes): <uicontrol>HostAddress, Affinities, Host Info</uicontrol>.</cmd>
+                <info>Filters is where you specify the attributes to include in the table and, if
+                    you like, show only those values that fall within a range.</info>
+            </step>
+            <step>
+                <cmd>6. Click <uicontrol>Test</uicontrol> to see a preview of your changes.</cmd>
+            </step>
+            <step>
+                <cmd>Click the <image href="../Images/I_thresholds.png" id="image_bvq_5jh_xxb"/>
+                    Thresholds tab to specify a threshold.</cmd>
+            </step>
+            <step>
+                <cmd>In row 1, click the colored column and select <image
+                        href="../Images/I_informational.png" id="image_nbn_xjh_xxb"/> Informational.
+                    This will be the background color of the cell when the threshold expression
+                    becomes true.</cmd>
+            </step>
+            <step>
+                <cmd>In row 1, click the <uicontrol>Status</uicontrol> cell, then the <image
+                        href="../Images/I_arrow.png" id="image_enb_ckh_xxb"/> arrow, and select
+                        <uicontrol>OFFLINE</uicontrol> from the list.</cmd>
+                <info>Any managed systems that are offline will have this background color.</info>
+            </step>
+            <step>
+                <cmd>Click the <image href="../Images/I_style.png" id="image_ibh_fkh_xxb"/>
+                    <uicontrol>Style</uicontrol> tab to change the appearance of the table.</cmd>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Header</uicontrol>, type the following title in the Title
+                    text box: <userinput>Marvel Enterprise Monitoring Agent
+                    Status</userinput>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

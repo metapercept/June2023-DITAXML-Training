@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_conclusion">
+    <title>Conclusion</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Concluding workspace techniques</keyword><keyword>workspace
+                        techniques summary</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>In this lesson you learned some of the techniques used to define and customize
+                workspaces:<ul id="ul_llr_pnh_xxb">
+                <li>Split a view.</li>
+                <li>Change to a different view: table and message log.</li>
+                <li>Swapping views by dragging one view over the other.</li>
+                <li>Edit the properties for a view: Select a query for the table, then filter it and
+                    add a threshold and title.</li>
+                <li>Save the workspace, making the new workspace the default for the Navigator
+                    item.</li>
+                <li>Edit the properties of the workspace to remove the default status.</li>
+            </ul></p>
+    </conbody>
+</concept>

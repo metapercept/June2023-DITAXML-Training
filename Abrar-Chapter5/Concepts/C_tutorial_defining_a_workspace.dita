@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_tutorial_defining_a_workspace">
+    <title>Tutorial: Defining a workspace</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Workspace
+                        tutorials</keyword><keyword>Tutorials</keyword><keyword>Defining a
+                        workspace</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>Use the tutorial to get hands on practice and experience defining a workspace.</p>
+        <p>In the tutorial exercises you will add new views to an undefined workspace, tailor them
+            with the Properties editor, save the workspace, and, finally, edit the workspace
+            properties.</p>
+        <p>If the split view and view tools are disabled (dimmed), the user ID does not have
+            Workspace Author Mode permission and is restricted from completing the tutorial.</p>
+    </conbody>
+</concept>

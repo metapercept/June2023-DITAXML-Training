@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\AbrarSyed\Downloads\Marvel DITA project\June2023-DITAXML-Training\temp\pdf\Sridevi-Chapter1\Concepts?><?workdir-uri file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/temp/pdf/Sridevi-Chapter1/Concepts/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="C_Server" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="concept:1;3:24" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="title:1;4:12">Server</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="shortdesc:1;5:16"/>
+    <prolog class="- topic/prolog " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="prolog:1;6:13">
+        <author class="- topic/author " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="author:1;7:17">Sridevi</author>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="conbody:1;9:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="p:1;10:12">The Marvel Enterprise Portal client connects to its application server, the Marvel
+            Enterprise Portal Server. The Marvel Enterprise Portal Server is a collection of
+            software services for the client that enables retrieval, manipulation and analysis of
+            data from the monitoring agents on your enterprise. This server connects to the Marvel
+            Enterprise <keyword class="- topic/keyword " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Server.dita" xtrc="keyword:1;14:33">Monitoring Server</keyword>, which acts as a collection and control
+            point for alerts received from the monitoring agents, and collects performance and
+            availability data. The main, or hub, Marvel Enterprise Monitoring Server correlates the
+            monitoring data collected by agents and remote servers and passes it to the Marvel
+            Enterprise Portal Server for presentation and your evaluation.</p>
+    </conbody>
+</concept>

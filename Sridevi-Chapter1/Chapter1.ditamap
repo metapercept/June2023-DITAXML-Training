@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Chapter 1</title>
-    <topicref href="Concepts/C_Getting_Started.dita">
-        <topicref href="Concepts/C_New_in_this_release.dita"/>
-    </topicref>
+    <title>Getting Started</title>
+    <topicref href="Concepts/C_Getting_Started.dita"/>
+    <topicref href="Concepts/C_New_in_this_release.dita"/>
     <topicref href="Concepts/C_Marvel_Management_Services_Architecture.dita">
         <topicref href="Concepts/C_Agent.dita"/>
         <topicref href="Concepts/C_Client.dita"/>
@@ -12,4 +11,8 @@
         <topicref href="Concepts/C_Server.dita"/>
     </topicref>
     <topicref href="Concepts/C_Features.dita"/>
+    <topicref href="Concepts/C_marvel_enterprise_portal_tour.dita">
+        <topicref href="Tasks/T_situations.dita"/>
+        <topicref href="Tasks/T_properties.dita"/>
+    </topicref>
 </map>

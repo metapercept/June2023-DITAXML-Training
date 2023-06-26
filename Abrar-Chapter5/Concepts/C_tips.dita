@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_tips">
+    <title>Tips</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Tips to manage workspace</keyword><keyword>CLI
+                        Commands</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>
+            <ul id="ul_mms_s1h_xxb">
+                <li>To edit a predefined workspace or one created in administration mode, restore
+                    the original through <menucascade>
+                        <uicontrol>File</uicontrol>
+                        <uicontrol>Restore Original Workspace</uicontrol>
+                    </menucascade>. The customized version is overwritten by the original. To keep
+                    both the customized workspace and the original, save the customized workspace
+                    with a new name before restoring the original.</li>
+                <li>The managed systems available for reporting are those assigned to the
+                        <uicontrol>Navigator</uicontrol> item. If unsure which are assigned, select
+                    the <uicontrol>Navigator</uicontrol> item, right-click the item, and click
+                        <image href="../Images/I_workspace%20_properties.png" width="15" height="10"
+                        id="image_et2_qch_xxb"/><uicontrol>Properties</uicontrol>.</li>
+                <li>The CLI has several tacmds specific to workspaces:<ul id="ul_jx5_cbh_xxb">
+                        <li><cmdname>deleteWorkspace</cmdname> to delete a workspace by its objectid
+                            from the Marvel Enterprise Portal Server.</li>
+                        <li><cmdname>listWorkspaces</cmdname> to list all of the workspaces,
+                            including objectid, on the portal server.</li>
+                        <li><cmdname>exportWorkspaces</cmdname> to export one or more portal
+                            workspace definitions to a file.</li>
+                        <li><cmdname>importWorkspaces</cmdname> to import the workspaces definitions
+                            in a file into the portal server.</li>
+                    </ul></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

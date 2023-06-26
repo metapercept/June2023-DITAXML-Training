@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_workspace_author_mode_permission">
+    <title>Workspace Author Mode Permission</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Author Mode Permission</keyword><keyword>Maintain
+                        workspaces</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>The user ID requires Workspace Author Mode permission to create and maintain workspaces,
+            including links. If the main toolbar is disabled (except <uicontrol>Refresh, Back,
+                Forward and Stop</uicontrol>), as well as the <uicontrol>split</uicontrol> and
+                <uicontrol>remove</uicontrol> buttons on the <uicontrol>view</uicontrol> title bar,
+            the user does not have this permission.</p>
+    </conbody>
+</concept>

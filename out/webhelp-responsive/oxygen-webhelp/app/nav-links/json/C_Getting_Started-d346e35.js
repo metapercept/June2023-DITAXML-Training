@@ -1,1 +1,0 @@
-oxy_webhelp_navlinks = {"C_Getting_Started-d346e35":{"topics":[{"title":"New in this release","shortdesc":"<p class=\"shortdesc\"\/>","href":"Sridevi-Chapter1\/Concepts\/C_New_in_this_release.html","attributes":{"data-id":"C_New_in_this_release"},"menu":{"hasChildren":false},"tocID":"C_New_in_this_release-d346e45","topics":[]}]}};

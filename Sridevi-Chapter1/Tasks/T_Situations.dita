@@ -1,96 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="T_Situations">
+<task id="T_situations">
     <title>Situations</title>
-    <shortdesc><b>Marvel Enterprise Portal</b> runs tests called <b>Situations</b> on systems where
-        monitoring agents are installed. When the conditions of a situation have been met, an event
-        occurs, and an event indicator is displayed over the applicable items in the
-            <b>Navigator</b>. The Navigator alerts you of changing conditions in the systems you are
-        monitoring.</shortdesc>
+    <shortdesc/>
     <prolog>
+        <author>Abrar Ahmed Syed</author>
         <author>Sridevi</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Situation editor</keyword><keyword>Situations
+                    </keyword></indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
-        <prereq id="prereq_mqy_vl2_vxb">Your user account must have necessary permissions to view
-            the Situation editor.<note id="note_drb_dm2_vxb"> If you see any of these icons in the
-                Navigator now, move the mouse pointer over an event indicator to open a flyover
-                listing of the situations that caused the events at that level of the Navigator and
-                below.</note><p>When a condition changes, the associated item is marked with an icon
-                as mentioned in the table below:<simpletable frame="all" relcolwidth="1.0* 1.27*"
-                    id="simpletable_uhy_ym2_vxb">
-                    <sthead>
-                        <stentry>Icon</stentry>
-                        <stentry>Condition</stentry>
-                    </sthead>
-                    <strow>
-                        <stentry><image href="../Images/Fatal%20error.png" width="1cm" height="1cm"
-                                id="image_sr1_gn2_vxb"/></stentry>
-                        <stentry>Fatal</stentry>
-                    </strow>
-                    <strow>
-                        <stentry><image href="../Images/Critical%20Error.png" width="1cm"
-                                height="1cm" id="image_hkq_gn2_vxb"/></stentry>
-                        <stentry>Critical</stentry>
-                    </strow>
-                    <strow>
-                        <stentry><image href="../Images/Minor%20Error.png" width="1cm" height="1cm"
-                                id="image_zg3_hn2_vxb"/></stentry>
-                        <stentry>Minor</stentry>
-                    </strow>
-                    <strow>
-                        <stentry><image href="../Images/Warning%20Error.jpeg" width="1cm"
-                                height="1cm" id="image_nmb_3n2_vxb"/></stentry>
-                        <stentry>Warning</stentry>
-                    </strow>
-                    <strow>
-                        <stentry><image href="../Images/Harmless%20Error.png" width="1cm"
-                                height="1cm" id="image_hts_3n2_vxb"/></stentry>
-                        <stentry>Harmless</stentry>
-                    </strow>
-                    <strow>
-                        <stentry><image href="../Images/Informational,%20or%20Unknown%20Error.png"
-                                width="1cm" height="1cm" id="image_amg_jn2_vxb"/></stentry>
-                        <stentry>Informational or Unknown</stentry>
-                    </strow>
-                </simpletable></p></prereq>
-        <context>To open a Situation, do the following steps:</context>
-        <steps>
+        <prereq id="prereq_q5v_zxn_xxb">To open the Situation editor, the user ID must have
+            permission to View Situations.</prereq>
+        <context id="context_dyg_x24_xxb">
+            <p>In addition to providing a map of your enterprise, the Navigator can alert you of
+                changing conditions in the systems you are monitoring. When a condition changes, the
+                associated item is marked with an icon:<dl id="dl_fw1_5vn_xxb">
+                    <dlentry>
+                        <dt><image href="../Images/I_Fatal.png" width="30" height="30"
+                                id="image_wwg_zzn_xxb"/></dt>
+                        <dd><b>Fatal</b></dd>
+                    </dlentry>
+                </dl><dl id="dl_sf3_wvn_xxb">
+                    <dlentry>
+                        <dt><image href="../Images/I_critical.png" width="30" height="30"
+                                id="image_zgl_b14_xxb"/></dt>
+                        <dd><b>Critical</b></dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt><image href="../Images/Minor%20Error.png" width="30" height="30"
+                                id="image_hjp_d14_xxb"/></dt>
+                        <dd><b>Minor</b></dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt><image href="../Images/Warning%20Error.jpeg" width="30" height="30"
+                                id="image_r41_h14_xxb"/></dt>
+                        <dd><b>Warning</b></dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt><image href="../Images/Harmless%20Error.png" width="30" height="30"
+                                id="image_zqw_h14_xxb"/></dt>
+                        <dd><b>Harmless</b></dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt><image href="../Images/I_informational.png" width="30" height="30"
+                                id="image_hwj_l14_xxb"/></dt>
+                        <dd><b>Informational</b></dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt><image href="../Images/I_unknown.png" width="30" height="30"
+                                id="image_elb_fc4_xxb"/></dt>
+                        <dd><b>Unknown</b></dd>
+                    </dlentry>
+                </dl></p>
+            <p>The Navigator places one of these icons, called <i>alert indicator</i> or <i>event
+                    indicator</i>, at every level of the hierarchy so you can see an alert even if a
+                Navigator branch is closed.</p>
+            <p>If you see any of these icons in the Navigator now, move the mouse pointer over an
+                event indicator to open a flyover listing of the situations that caused the events
+                at that level of the Navigator and below.</p>
+            <p>Tivoli Enterprise Portal runs tests called situations on systems where monitoring
+                agents are installed. When the conditions of a situation have been met, an event
+                occurs and an event indicator is displayed over the applicable items in the
+                Navigator.</p>
+            <p>To open a situation,</p>
+        </context>
+        <steps id="steps_eyg_x24_xxb">
             <step>
-                <cmd>Right click the system in the <uicontrol>Navigator</uicontrol> and click
-                        <uicontrol>Situations</uicontrol>.</cmd>
+                <cmd>Right-click a system name in the Navigator and click <image
+                        href="../Images/I_platform_bullet_type.png" width="10" height="10"
+                        id="image_fbc_z14_xxb"/>
+                    <uicontrol>Situations</uicontrol>.</cmd>
+                <stepresult>The Situation editor opens with a list of situations on the left. This
+                    is where you can view and edit situations or create new ones.</stepresult>
             </step>
             <step>
-                <cmd>The <uicontrol>Situations</uicontrol> editor opens with a list of situations on
-                    the left. This is where you can view and edit situations or create new
-                    ones.</cmd>
+                <cmd>Click a situation name in the tree to see the Situation editor tabs.</cmd>
+                <info>
+                    <ul id="ul_un2_1xn_xxb">
+                        <li><image href="../Images/I_formula.png" width="10" height="10"
+                                id="image_i3z_bb4_xxb"/> Formula to view, add, and change the
+                            conditions being tested.</li>
+                        <li><image href="../Images/I_platform_bullet_type.png" width="10"
+                                height="10" id="image_scb_fb4_xxb"/> Distribution to view and
+                            specify the systems on which to run the situation.</li>
+                        <li><image href="../Images/I_information_circle.png" width="10" height="10"
+                                id="image_t2g_gb4_xxb"/> Expert Advice to write comments or
+                            instructions to be read in the event results workspace.</li>
+                        <li>
+                            <image href="../Images/I_action.png" width="10" height="15"
+                                id="image_dgp_pb4_xxb"/> Action to send a command to the managed
+                            system.</li>
+                        <li><image href="../Images/I_until.png" width="10" height="10"
+                                id="image_rjh_qb4_xxb"/> Until to close the event after a period of
+                            time or when another situation is true.</li>
+                    </ul>
+                </info>
             </step>
             <step>
-                <cmd>Click anyone of the situation name in the tree to see the
-                        <uicontrol>Situations</uicontrol> editor tabs. </cmd>
-            </step>
-            <step>
-                <cmd>To view, add, and change the conditions being tested, click
-                        <uicontrol>Formula</uicontrol>.</cmd>
-            </step>
-            <step>
-                <cmd>To view and specify the systems on which to run the situation click
-                        <uicontrol>Distribution</uicontrol>.</cmd>
-            </step>
-            <step>
-                <cmd>To write comments or instructions to be read in the event results workspace,
-                    click <uicontrol>Expert Advice</uicontrol>. </cmd>
-            </step>
-            <step>
-                <cmd>To send a command to the managed system, click <uicontrol>Action</uicontrol>.
-                </cmd>
-            </step>
-            <step>
-                <cmd>Click <b>Until</b> to close the event after a period of time or when another
-                    situation is true.</cmd>
-            </step>
-            <step>
-                <cmd>When you are done, you can close the <uicontrol>Situations</uicontrol> editor
-                    by clicking on the <uicontrol>Cancel</uicontrol> button. </cmd>
+                <cmd>Click <uicontrol>Cancel</uicontrol> to close the Situation editor.</cmd>
             </step>
         </steps>
     </taskbody>

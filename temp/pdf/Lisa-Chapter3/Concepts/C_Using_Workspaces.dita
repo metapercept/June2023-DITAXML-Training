@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\AbrarSyed\Downloads\Marvel DITA project\June2023-DITAXML-Training\temp\pdf\Lisa-Chapter3\Concepts?><?workdir-uri file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/temp/pdf/Lisa-Chapter3/Concepts/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="C_Using_Workspaces" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="concept:1;3:34" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="title:1;4:12">Using Workspaces</title>
+    <prolog class="- topic/prolog " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="prolog:1;5:13">
+        <author class="- topic/author " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="author:1;6:17">Lisa Adams</author>
+        <metadata class="- topic/metadata " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="metadata:1;7:19">
+            <keywords class="- topic/keywords " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="keywords:1;8:23">
+                <indexterm class="- topic/indexterm " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="indexterm:1;9:28">workspaces</indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="conbody:1;13:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="p:1;14:12">The workspace is the working area of the Tivoli Enterprise Portal window, divided into
+            panes to show different types of views. You can start monitoring activity and system
+            status immediately with the predefined workspaces.</p>
+        <p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_Using_Workspaces.dita" xtrc="p:2;17:12">You can tailor your own workspaces to give you summary overviews or to look at specific
+            conditions.</p>
+    </conbody>
+</concept>

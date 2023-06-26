@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\AbrarSyed\Downloads\Marvel DITA project\June2023-DITAXML-Training\Sridevi-Chapter1\temp\pdf\Concepts?><?workdir-uri file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/temp/pdf/Concepts/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="C_Features" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="concept:1;3:26" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="title:1;4:12">Features</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="shortdesc:1;5:16">The Marvel Enterprise Portal gives you a single point of control for managing the
+        resources your applications rely on, including a range of operating systems, servers,
+        databases, platforms, and web components. For example, a typical IT network might have a web
+        server on Windows, an application server and database on UNIX, and a transaction processor
+        on CICS® on the mainframe. The Marvel Enterprise Portal brings all these views together in a
+        single window so that you can see when any aspect of your network is not working as
+        expected. Your IBM Marvel Monitoring products use the portal interface with these major
+        features, and you can find demos for many of them on developer works in the <xref href="http://www.ibm.com/tivoli/media" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="xref:1;13:83"><?ditaot usertext?>IBM Marvel Media
+            Gallery</xref>.</shortdesc>
+    <prolog class="- topic/prolog " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="prolog:1;15:13">
+        <author class="- topic/author " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="author:1;16:17">Sridevi</author>
+        <metadata class="- topic/metadata " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="metadata:1;17:19">
+            <keywords class="- topic/keywords " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="keywords:1;18:23">
+                <indexterm class="- topic/indexterm " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="indexterm:1;19:28">UNIX</indexterm>
+            </keywords>
+            <keywords class="- topic/keywords " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="keywords:2;21:23">
+                <keyword class="- topic/keyword " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="keyword:1;22:26">Customizing workspaces</keyword>
+                <keyword class="- topic/keyword " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="keyword:2;23:26">Customizing workspace views</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="conbody:1;27:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="p:1;28:12">
+            <simpletable frame="all" relcolwidth="1.0* 3.08*" id="simpletable_kqd_r52_vxb" class="- topic/simpletable " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="simpletable:1;29:92">
+                <sthead class="- topic/sthead " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="sthead:1;30:25">
+                    <stentry class="- topic/stentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="stentry:1;31:30" dita-ot:x="1" dita-ot:y="1">Feature</stentry>
+                    <stentry class="- topic/stentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="stentry:2;32:30" dita-ot:x="2" dita-ot:y="1">Description</stentry>
+                </sthead>
+                <strow class="- topic/strow " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="strow:1;34:24">
+                    <stentry class="- topic/stentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="stentry:3;35:30" dita-ot:x="1" dita-ot:y="2">Customizing workspaces</stentry>
+                    <stentry class="- topic/stentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="stentry:4;36:30" dita-ot:x="2" dita-ot:y="2">Marvel Enterprise Portal presents information in a single pane of glass
+                        called a workspace, which consists of one or more views. Monitoring data is
+                        retrieved at regular intervals and the results sent to the workspace in the
+                        form of chart and table views. You can start monitoring activity and system
+                        status immediately with the predefined workspaces. With just a few clicks of
+                        the mouse, you can tailor your own workspaces to look at specific
+                        conditions, display critical threshold values in red, and filter incoming
+                        data so you see only what matters.</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="strow:2;45:24">
+                    <stentry class="- topic/stentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="stentry:5;46:30" dita-ot:x="1" dita-ot:y="3">Customizing workspace views</stentry>
+                    <stentry class="- topic/stentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="stentry:6;47:30" dita-ot:x="2" dita-ot:y="3"><image href="../Images/Chart%20Display.png" width="5cm" height="1cm" id="image_btl_3v2_vxb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="image:1;48:53"/>The charts display data that the monitoring
+                        agents have gathered from the systems where they are running. They can also
+                        show data from any ODBC-compliant database you write a custom query for.
+                                <p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="p:2;51:36"><image href="../Images/Notepad.png" width="1cm" height="1cm" id="image_mpq_4v2_vxb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="image:2;52:57"/>The notepad view opens a simple text editor
+                            for writing text that can be saved with the workspace.</p><p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="p:3;53:90"><image href="../Images/Table.png" width=".7cm" height=".7cm" id="image_qgh_rv2_vxb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="image:3;55:57"/>The table view displays data that the
+                            monitoring agents have gathered from the systems where they are
+                            running.</p><p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="p:4;57:44"><image href="../Images/log.png" width=".7cm" height=".7cm" id="image_qgq_tv2_vxb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="image:4;58:71"/>The message log shows the
+                            status of all situations distributed to the managed systems in your
+                            enterprise.</p><p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="p:5;60:47"><image href="../Images/Universal%20message.png" width="1cm" height=".7cm" id="image_zgr_vv2_vxb" placement="inline" class="- topic/image " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_Features.dita" xtrc="image:5;61:83"/>The universal
+                            message console view shows situation and policy activity, and messages
+                            received as the result of universal message generation.</p></stentry>
+                </strow>
+            </simpletable>
+        </p>
+    </conbody>
+</concept>

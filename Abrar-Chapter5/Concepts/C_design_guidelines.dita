@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_design_guidelines">
+    <title>Design Guidelines</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Workspace design guidelines</keyword><keyword>Plan
+                        workspaces</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>
+            <ul id="ul_wjf_c1h_xxb">
+                <li>Display a view full screen.</li>
+                <li>Resize views by dragging the borders.</li>
+                <li>Swap location with another view by dragging by its title bar to the new
+                    position.</li>
+                <li>Workspace link definitions.</li>
+                <li>Arrange the order of workspaces in the workspace gallery. This gets saved with
+                    all workspaces for a <uicontrol>Navigator</uicontrol> item.</li>
+            </ul>
+        </p>
+        <p>Here are some guidelines to plan workspaces:</p>
+        <p>
+            <ul id="ul_spr_h1h_xxb">
+                <li>Tailor the content of a workspace to the Navigator level: Workspaces at the top
+                    of the hierarchy show summary information; those at lower levels provide more
+                    in-depth information.</li>
+                <li>Provide summary information at the agent level of the Navigator Physical
+                    view.</li>
+                <li>Use custom queries that pre-filter the data used in a table or chart to ensure
+                    fastest data retrieval and not see extraneous data. And use as few different
+                    queries as possible in one workspace.</li>
+                <li>Design for a specific monitor resolution. To create in workspace administration
+                    mode for multiple users, use 1024 x 768, which is the lowest resolution on which
+                    the Tivoli Enterprise Portal can run.</li>
+                <li>Do not crowd too much information in one workspace. Instead, have multiple
+                    workspaces at one level or links from one workspace to the next.</li>
+                <li>For table views with many columns, arrange them so the important ones are
+                    visible. Consider removing some columns by pre-filtering (Properties - Query) or
+                    post-filtering (Properties - Filters).</li>
+                <li>Consider combining tables with charts in a workspace for the most effective
+                    style layout.</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

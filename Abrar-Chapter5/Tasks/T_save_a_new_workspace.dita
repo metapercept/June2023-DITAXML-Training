@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_save_a_new_workspace">
+    <title>Save a New Workspace</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Save New Workspace</keyword><keyword>Save a New
+                        Workspace</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>A new workspace can be saved by following the procedure below:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select <uicontrol>Save</uicontrol> Workspace As from the
+                        <uicontrol>File</uicontrol> menu.</cmd>
+                <info>If you are running Marvel Enterprise Portal in browser mode, be sure to select
+                    its <uicontrol>File</uicontrol> menu and not browser's
+                        <uicontrol>File</uicontrol> menu.</info>
+            </step>
+            <step>
+                <cmd>Type <userinput>My Workspace</userinput> in the <uicontrol>Name</uicontrol>
+                    field.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Assign as default for this Navigator Item</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Take note of which Navigator item <userinput>My Workspace</userinput> is
+                    associated with.</cmd>
+            </step>
+            <step>
+                <cmd>Now test your workspace by opening another workspace, then clicking this
+                    Navigator item again.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

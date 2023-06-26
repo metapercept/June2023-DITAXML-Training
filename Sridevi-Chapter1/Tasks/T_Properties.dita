@@ -5,40 +5,54 @@
     <shortdesc>Use Properties editor to edit the appearance and content of the views chosen for a
         workspace.</shortdesc>
     <prolog>
+        <author>Abrar Ahmed Syed</author>
         <author>Sridevi</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Edit the appearance of the views </keyword><keyword>Properties
+                        editor</keyword><keyword>Edit the content of the views</keyword></indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <taskbody>
-        <prereq id="prereq_ek2_qs2_vxb">Your user account must have necessary permissions to view
-            the Properties editor.</prereq>
+        <prereq id="prereq_ek2_qs2_vxb">User account must have necessary permissions to view the
+            Properties editor.</prereq>
         <context>
-            <p>To open a Properties, do the following steps: </p>
+            <p>To open a Properties, </p>
         </context>
         <steps>
             <step>
-                <cmd>Click <uicontrol>Properties</uicontrol>. </cmd>
+                <cmd>Click <image
+                        conref="../../Abrar-Chapter5/Concepts/C_workspace_changes.dita#C_workspace_changes/image_ypg_mch_xxb"
+                        id="image_fcb_xrn_xxb"/>
+                    <uicontrol>Properties</uicontrol>. </cmd>
+                <stepresult>The <uicontrol>Properties</uicontrol> editor opens with a list of the
+                    views on the left, grouped by type. On the right, the general workspace
+                    properties appear.</stepresult>
             </step>
             <step>
-                <cmd>The <uicontrol>Properties</uicontrol> editor opens with a list of the views on
-                    the left, grouped by type. </cmd>
+                <cmd>Select one of the views in the <uicontrol>Properties</uicontrol> tree.</cmd>
+                <info>All types of views have a <image
+                        href="../../Abrar-Chapter5/Images/I_style.png" width="10" height="10"
+                        id="image_jyy_tsn_xxb"/>
+                    <uicontrol>Style</uicontrol> tab, with different options for the type of view.
+                    The table, charts, and topology views have <image
+                        href="../../Abrar-Chapter5/Images/I_query_tab.png" id="image_sr4_vsn_xxb"/>
+                    <uicontrol>Query</uicontrol> and <image
+                        href="../../Abrar-Chapter5/Images/I_filter.png" width="10" height="10"
+                        id="image_nqr_ysn_xxb"/>
+                    <uicontrol>Filters</uicontrol> tabs, table and topology have a <image
+                        href="../../Abrar-Chapter5/Images/I_thresholds.png" width="10" height="10"
+                        id="image_ljj_ctn_xxb"/>
+                    <uicontrol>Thresholds</uicontrol> tab, and terminal emulators have a <image
+                        href="../../Abrar-Chapter5/Images/I_message_log.png" width="10" height="10"
+                        id="image_vtx_2tn_xxb"/>
+                    <uicontrol>Configuration</uicontrol> tab. Whenever you want to change the data
+                    elements that display for a chart or table or change the styling of a view, go
+                    to the Properties editor.</info>
             </step>
             <step>
-                <cmd>On the right, the general workspace properties will appear. </cmd>
-            </step>
-            <step>
-                <cmd>Select one of the views in the <uicontrol>Properties</uicontrol> tree. All
-                    types of views have a <uicontrol>Style</uicontrol> tab, with different options
-                    for the type of view. The table, charts, and topology views have
-                        <uicontrol>Query</uicontrol> and <uicontrol>Filters</uicontrol> tabs, table
-                    and topology have a <uicontrol>Thresholds</uicontrol> tab, and terminal
-                    emulators have a <uicontrol>Configuration</uicontrol> tab. </cmd>
-            </step>
-            <step>
-                <cmd>Change the data elements for a chart or table or change the styling of a
-                    view.</cmd>
-            </step>
-            <step>
-                <cmd>When you are done, you can close the <uicontrol>Properties</uicontrol> editor
-                    by clicking on the <uicontrol>Cancel</uicontrol> button. </cmd>
+                <cmd>Click <uicontrol>Cancel</uicontrol> to close the Properties editor.</cmd>
             </step>
         </steps>
     </taskbody>

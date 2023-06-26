@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_change_the_view_type">
+    <title>Change the View Type</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Change the View Type</keyword><keyword>View
+                    Type</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>Change the new view to a table view:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click <image href="../Images/I_table.png" id="image_s5d_52h_xxb"/>
+                    <uicontrol>Table</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click inside the notepad view.</cmd>
+                <info>As you move inside the workspace the mouse pointer changes to the table view
+                    icon (Linux shows a hand icon). After you click, the new table view replaces the
+                    notepad view. Because a query has never been associated with this view, no data
+                    is displayed in the table. You will need to select a query from the Properties
+                    editor.</info>
+            </step>
+            <step>
+                <cmd>When a message asks you to assign the query now, click
+                        <uicontrol>No</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_fg5_lfh_xxb">Now add a message log view to the original notepad
+                view:<ol id="ol_f3s_mfh_xxb">
+                <li>Click <image href="../Images/I_message_log.png" id="image_xqj_rfh_xxb"/>
+                    <uicontrol>Message Log</uicontrol>.</li>
+                <li>Click inside the notepad view.<p>The message log replaces the notepad
+                    view.</p></li>
+            </ol><note id="note_oct_sfh_xxb" type="tip">
+                <p>If you select the wrong view or change your mind about the view you chose, press
+                        <uicontrol>Escape</uicontrol> or click somewhere in the toolbar.</p>
+            </note></postreq>
+    </taskbody>
+</task>

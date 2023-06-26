@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_custom_workspace_options_and_guidelines">
+    <title>Custom Workspace Options and Guidelines</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Custom Workspace Options</keyword><keyword>Custom Workspace
+                        Guidelines</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>The Marvel Enterprise Portal has over a dozen types of views that you can populate a
+            workspace with. Over half of the views are query-based and have a number of
+            embellishments that you can use to observe potential and existing threshold conditions
+            and other metrics.</p>
+    </conbody>
+</concept>

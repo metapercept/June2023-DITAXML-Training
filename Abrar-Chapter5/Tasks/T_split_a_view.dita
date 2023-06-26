@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_split_a_view">
+    <title>Split a View</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Split a view</keyword><keyword>Split
+                    Workspace</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open an undefined workspace.</cmd>
+                <info>An undefined workspace is one that has not been provided with your monitored
+                    application or defined by you or an administrator. You can find undefined
+                    workspaces initially at the system level (computer or image name is displayed)
+                    of the Navigator Physical view, and, if you have custom Navigator views,
+                    wherever you have created child Navigator items. A workspace that has not been
+                    defined yet will have a browser view with links to this lesson and other
+                    relevant topics, and it will have a notepad view.</info>
+            </step>
+            <step>
+                <cmd>In the notepad view, click <image href="../Images/I_split_vertically.png"
+                        id="image_a35_32h_xxb"/>Split Vertically to split it into two separate
+                    views. The notepad view splits in half vertically, with a duplicate copy in the
+                    new view space. Notice that every view in the workspace, including the
+                    Navigator, has <image href="../Images/I_split_vertically.png"
+                        id="image_m4w_k2h_xxb"/> and <image
+                        href="../Images/I_split_horizontally.png" id="image_xxm_l2h_xxb"/> tools, as
+                    well as <image href="../Images/I_delete_view.png" id="image_k4c_m2h_xxb"/>
+                    (except the Navigator) to delete the view and expand the adjoining view to fill
+                    the space.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

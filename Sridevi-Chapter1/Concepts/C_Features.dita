@@ -10,59 +10,75 @@
         single window so that you can see when any aspect of your network is not working as
         expected. Your IBM Marvel Monitoring products use the portal interface with these major
         features, and you can find demos for many of them on developer works in the <xref
-            href="http://www.ibm.com/tivoli/media" format="html" scope="external">IBM Marvel Media
+            href="http://www.ibm.com/tivoli/media" format="html" scope="external">Media
             Gallery</xref>.</shortdesc>
     <prolog>
         <author>Sridevi</author>
+        <author>Abrar Ahmed Syed</author>
         <metadata>
             <keywords>
-                <indexterm>UNIX</indexterm>
-            </keywords>
-            <keywords>
-                <keyword>Customizing workspaces</keyword>
-                <keyword>Customizing workspace views</keyword>
+                <indexterm><keyword>Customizing workspaces</keyword><keyword>Customizing workspace
+                        views</keyword><keyword>Features</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
     <conbody>
         <p>
-            <simpletable frame="all" relcolwidth="1.0* 3.08*" id="simpletable_kqd_r52_vxb">
-                <sthead>
-                    <stentry>Feature</stentry>
-                    <stentry>Description</stentry>
-                </sthead>
-                <strow>
-                    <stentry>Customizing workspaces</stentry>
-                    <stentry>Marvel Enterprise Portal presents information in a single pane of glass
-                        called a workspace, which consists of one or more views. Monitoring data is
-                        retrieved at regular intervals and the results sent to the workspace in the
-                        form of chart and table views. You can start monitoring activity and system
-                        status immediately with the predefined workspaces. With just a few clicks of
-                        the mouse, you can tailor your own workspaces to look at specific
-                        conditions, display critical threshold values in red, and filter incoming
-                        data so you see only what matters.</stentry>
-                </strow>
-                <strow>
-                    <stentry>Customizing workspace views</stentry>
-                    <stentry><image href="../Images/Chart%20Display.png" width="5cm" height="1cm"
-                            id="image_btl_3v2_vxb"/>The charts display data that the monitoring
-                        agents have gathered from the systems where they are running. They can also
-                        show data from any ODBC-compliant database you write a custom query for.
-                                <p><image href="../Images/Notepad.png" width="1cm" height="1cm"
-                                id="image_mpq_4v2_vxb"/>The notepad view opens a simple text editor
-                            for writing text that can be saved with the workspace.</p><p><image
-                                href="../Images/Table.png" width=".7cm" height=".7cm"
-                                id="image_qgh_rv2_vxb"/>The table view displays data that the
-                            monitoring agents have gathered from the systems where they are
-                            running.</p><p><image href="../Images/log.png" width=".7cm"
-                                height=".7cm" id="image_qgq_tv2_vxb"/>The message log shows the
-                            status of all situations distributed to the managed systems in your
-                            enterprise.</p><p><image href="../Images/Universal%20message.png"
-                                width="1cm" height=".7cm" id="image_zgr_vv2_vxb"/>The universal
-                            message console view shows situation and policy activity, and messages
-                            received as the result of universal message generation.</p></stentry>
-                </strow>
-            </simpletable>
+            <table frame="all" id="table_fh5_4qn_xxb">
+                <title>Features</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="3.3*"/>
+                    <thead>
+                        <row>
+                            <entry>Feature</entry>
+                            <entry>Description</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Customizing workspaces</entry>
+                            <entry>Marvel Enterprise Portal presents information in a single pane of
+                                glass called a workspace, which consists of one or more views.
+                                Monitoring data is retrieved at regular intervals and the results
+                                sent to the workspace in the form of chart and table views. You can
+                                start monitoring activity and system status immediately with the
+                                predefined workspaces. With just a few clicks of the mouse, you can
+                                tailor your own workspaces to look at specific conditions, display
+                                critical threshold values in red, and filter incoming data so you
+                                see only what matters.</entry>
+                        </row>
+                        <row>
+                            <entry>Customizing workspace views</entry>
+                            <entry><image href="../Images/Chart%20Display.png" width="100px"
+                                    height="20px" id="image_mgy_qqn_xxb"/>The charts display data
+                                that the monitoring agents have gathered from the systems where they
+                                are running. They can also show data from any ODBC-compliant
+                                database you write a custom query for. <p><image
+                                        href="../Images/Notepad.png" width="20px" height="20px"
+                                        id="image_ngy_qqn_xxb"/>The notepad view opens a simple text
+                                    editor for writing text that can be saved with the
+                                    workspace.</p><p><image href="../Images/Table.png" width="20px"
+                                        height="20px" id="image_ogy_qqn_xxb"/>The table view
+                                    displays data that the monitoring agents have gathered from the
+                                    systems where they are running.</p><p><image
+                                        href="../Images/log.png" width="20px" height="20px"
+                                        id="image_pgy_qqn_xxb"/>The message log shows the status of
+                                    all situations distributed to the managed systems in your
+                                    enterprise.</p><p><image
+                                        href="../Images/Universal%20message.png" width="20px"
+                                        height="20px" id="image_qgy_qqn_xxb"/>The universal message
+                                    console view shows situation and policy activity, and messages
+                                    received as the result of universal message
+                                generation.</p></entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
         </p>
     </conbody>
 </concept>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\AbrarSyed\Downloads\Marvel DITA project\June2023-DITAXML-Training\Sridevi-Chapter1\temp\pdf\Concepts?><?workdir-uri file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/temp/pdf/Concepts/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="C_New_in_this_release" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="concept:1;3:37" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="title:1;4:12">New in this release</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="shortdesc:1;5:16"/>
+    <prolog class="- topic/prolog " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="prolog:1;6:13">
+        <author class="- topic/author " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="author:1;7:17">Sridevi</author>
+        <metadata class="- topic/metadata " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="metadata:1;8:19">
+            <keywords class="- topic/keywords " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="keywords:1;9:23">
+                <keyword class="- topic/keyword " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="keyword:1;10:26">Application Property</keyword>
+                <keyword class="- topic/keyword " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="keyword:2;11:26">ITM Historical Collection</keyword>
+                <keyword class="- topic/keyword " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="keyword:3;12:26">Historical situations</keyword>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="conbody:1;16:14">
+        <p class="- topic/p " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="p:1;17:12">The following enhancements have been made to the Marvel Enterprise Portal for Version
+                6.3.<dl id="dl_ncq_1j1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:1;18:45">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:1;19:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:1;20:25">Application Property Installation attribute group</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:1;21:25">The Application Property Installation attribute group provides information
+                        related to the self-describing agent installation process.</dd>
+                </dlentry>
+            </dl><dl id="dl_h1j_dj1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:2;24:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:2;25:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:2;26:25">ITM Historical Collection attribute group</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:2;27:25">The ITM Historical Collection attribute group provides information about the
+                        active historical collections that are exporting data from a location,
+                        including the metrics about each historical collection.</dd>
+                </dlentry>
+            </dl><dl id="dl_yl3_2j1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:3;31:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:3;32:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:3;33:25">Historical Export Statistics workspace</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:3;34:25">The Historical Export Statistics workspace displays the enterprise and
+                        private historical exports to a Warehouse Proxy agent instance performed by
+                        a selected managed system. This workspace is available for monitoring
+                        servers and monitoring agents.</dd>
+                </dlentry>
+            </dl><dl id="dl_h2v_jj1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:4;39:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:4;40:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:4;41:25">Historical situations</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:4;42:25">Historical_Exports_Critical, Historical_Exports_Failure,
+                        Historical_Exports_Warning, and Historical_RowsCorrupted help you manage
+                        your historical exports.</dd>
+                </dlentry>
+            </dl><dl id="dl_k4q_lj1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:5;46:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:5;47:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:5;48:25">Define symbol name/value pairs for physical or logical navigator nodes</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:5;49:25">You can now define symbol name/value pairs for physical or logical navigator
+                        nodes. You can then create Take Action commands that reference these
+                        symbols.</dd>
+                </dlentry>
+            </dl><dl id="dl_l2m_mj1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:6;53:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:6;54:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:6;55:25">Connect points in plot charts</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:6;56:25">The plot points are connected with lines even when gaps in time are present.
+                        This feature is only available for plot charts. Use the Always connects
+                        points option on the Style tab.</dd>
+                </dlentry>
+            </dl><dl id="dl_m1v_4j1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:7;60:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:7;61:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:7;62:25">Marvel Enterprise Portal browser support for 32 bit and 64 bit browsers</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:7;63:25">The Marvel Enterprise Portal browser client now supports both 32 bit and 64
+                        bit Firefox and Internet Explorer browsers on both Windows and Linux
+                        platforms. Support for the most current Extended Support Release versions of
+                        the Firefox browser is now available. Support for earlier versions of
+                        Firefox prior to version 3.6 are no longer supported in the IBM Marvel
+                        Monitoring 6.3 release.</dd>
+                </dlentry>
+            </dl><dl id="dl_kbr_pj1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:8;70:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:8;71:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:8;72:25">Java™ 7 support</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:8;73:25">The Marvel Enterprise Portal now uses IBM Java 7 as the default JRE for all
+                        deployment modes: desktop, browser, and Java WebStart. Use of IBM Java 5 is
+                        no longer supported in the IBM Marvel Monitoring 6.3 release. </dd>
+                </dlentry>
+            </dl><dl id="dl_zqd_rj1_wxb" class="- topic/dl " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dl:9;77:42">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dlentry:9;78:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dt:9;79:25">Ability to access multiple IBM Tivoli Monitoring domains from a single
+                        browser instance</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="dd:9;81:25">It is now possible to connect the Marvel Enterprise Portal to multiple IBM
+                        Marvel Monitoring domains from a single browser instance. Prior to release
+                        6.3, if you needed to manage multiple domains using the Marvel Enterprise
+                        Portal, you were required to either launch separate browser instances (one
+                        for each domain), or use alternate client deployment modes (such as a
+                        desktop client or Java WebStart). Minor changes were also made to the Marvel
+                        Enterprise Portal for content improvements. New features and capability
+                        enhancements were made to the Marvel Management Services. For more
+                        information, see the following publications on the <xref href="http://pic.dhe.ibm.com/infocenter/tivihelp/v61r1/topic/com.ibm.itm.doc_6.3/welcome.htm" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Sridevi-Chapter1/Concepts/C_New_in_this_release.dita" xtrc="xref:1;91:60"><?ditaot usertext?>IBM Marvel Monitoring Information
+                            Center</xref>. </dd>
+                </dlentry>
+            </dl></p>
+    </conbody>
+</concept>

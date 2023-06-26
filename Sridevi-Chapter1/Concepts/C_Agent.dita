@@ -5,6 +5,14 @@
     <shortdesc></shortdesc>
     <prolog>
         <author>Sridevi</author>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <audience/>
+            <keywords>
+                <indexterm><keyword>Agent</keyword><keyword>Management
+                    Services</keyword></indexterm>
+            </keywords>
+        </metadata>
     </prolog>
     <conbody>
         <p>Marvel Enterprise Monitoring Agents are installed on the systems whose applications or

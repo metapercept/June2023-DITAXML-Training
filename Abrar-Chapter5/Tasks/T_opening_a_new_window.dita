@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_opening_a_new_window">
+    <title>Opening a New Window</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Opening a New Window</keyword><keyword>New
+                    Window</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p></p>
+            <p>In the desktop mode, click <uicontrol>New Window</uicontrol>.</p>
+            <p>The new window is a duplicate of the original. Any previously visited workspaces are
+                retained from the parent window; use Go back and Go forward to revisit them. Further
+                navigation to other workspaces in either window, however, is independent of the
+                other window.</p>
+            <p>Note that you can close duplicate windows (click <menucascade>
+                    <uicontrol>File</uicontrol>
+                    <uicontrol>Close</uicontrol>
+                </menucascade>) or the original; the work session remains active as long as one
+                window is open.</p>
+            <note id="note_csm_3nh_xxb">To view two workspaces at the same time, create a new
+                window. Any changes you make in this or the other window (or windows, if you open
+                more) are saved with the application.</note>
+            <note id="note_fl3_jnh_xxb" type="tip">You can set the properties of a workspace to open
+                in a new window automatically whenever it is selected. If you are running the Tivoli
+                Enterprise Portal in browser mode from a browser that is enabled for tabs, the
+                workspace opens in a new tabbed page.</note>
+        </context>
+    </taskbody>
+</task>

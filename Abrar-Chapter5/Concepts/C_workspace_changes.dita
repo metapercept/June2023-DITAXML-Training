@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_workspace_changes">
+    <title>Workspace Changes</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Workspace dimensions</keyword><keyword>Rearrange workspace
+                        views</keyword><keyword>Link workspace</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>
+            <ul id="ul_xvh_fzg_xxb">
+                <li>Split a view horizontally or vertically into two separate views.</li>
+                <li>Change the dimensions of the views by dragging the borders between them.</li>
+                <li>Rearrange views by clicking a view's title bar and dragging it another view
+                    space.</li>
+                <li>When you release the mouse button, the views switch position.</li>
+                <li>Maximize the view and, if you like, save the workspace while it is still
+                    full-screen.</li>
+                <li>Change a view to a different type, such as from a pie chart to a gauge.</li>
+                <li>Edit the workspace<image href="../Images/I_workspace%20_properties.png"
+                        width="15" height="10" id="image_ypg_mch_xxb"/>properties, such as to make
+                    it the default workspace.</li>
+                <li>Edit the<image href="../Images/I_properties.png" id="image_k5l_nch_xxb"
+                    />properties of the individual views to control their styles and, in table and
+                    chart views, what data they display.</li>
+                <li>Build a link to another workspace so that you can jump to it from this one
+                    quickly.</li>
+                <li>Save a copy of the current workspace and edit the copy.</li>
+            </ul>
+        </p>
+        <p>Any changes you make to a workspace are available only to you; no one else will see your
+            changes. The exception is with workspaces that were updated by an administrator while in
+            workspace administration mode, where the changes to that workspace are shared with all
+            users who log on to the same portal server. </p>
+        <p>Predefined workspaces are protected from editing. You must use <menucascade>
+                <uicontrol>File</uicontrol>
+                <uicontrol>Save As</uicontrol>
+            </menucascade> to create your own copy for customization.</p>
+    </conbody>
+</concept>

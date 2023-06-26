@@ -5,11 +5,12 @@
     <shortdesc></shortdesc>
     <prolog>
         <author>Sridevi</author>
+        <author>Abrar Ahmed Syed</author>
         <metadata>
             <audience/>
             <keywords>
-                <indexterm>Client-Server-Agent</indexterm>
-                <keyword>Architecture</keyword>
+                <indexterm><keyword>Architecture</keyword><keyword>Management
+                    Services</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
@@ -21,7 +22,7 @@
             shown in the following figure.</p>
         <p>
             <fig id="fig_axq_sg2_vxb">
-                <title>Client-server-agent architecture</title>
+                <title>Client server agent architecture</title>
                 <image href="../Images/Client%20Server%20Agent.png" width="14cm" height="14cm"
                     id="image_bxq_sg2_vxb"/>
             </fig>

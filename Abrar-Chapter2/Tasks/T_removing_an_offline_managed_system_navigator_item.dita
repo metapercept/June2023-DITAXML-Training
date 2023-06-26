@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T_removing_an_offline_managed_system_navigator_item">
-    <title>Removing an offline managed system Navigator item</title>
+    <title>Removing an Offline Managed System Navigator Item</title>
     <prolog>
         <author>Abrar Ahmed Syed</author>
         <metadata>
@@ -18,8 +18,8 @@
             <step>
                 <cmd>Click the <image href="../Images/I_enterprise_bullet_type.png" width="10"
                         height="10" id="image_ay3_1mx_wxb"/>
-                    <uicontrol>Enterprise Navigator</uicontrol> item. The default workspace
-                    opens.</cmd>
+                    <uicontrol>Enterprise Navigator</uicontrol> item.</cmd>
+                <stepresult>The default workspace opens.</stepresult>
             </step>
             <step>
                 <cmd>Click <image href="../Images/I_workspace_gallery_icon.png" width="10"
@@ -34,8 +34,8 @@
                     <uicontrol>Clear offline entry</uicontrol>.</cmd>
             </step>
         </steps>
-        <result id="result_tlz_mwg_vxb">The offline entry is now cleared from the Navigator and will
-            not appear again until the managed system comes online.</result>
+        <result id="result_tlz_mwg_vxb">The offline entry is now cleared from the Navigator until
+            the managed system comes online.</result>
         <postreq id="postreq_wrd_4wg_vxb">If this is a custom Navigator view with only one managed
             system, it is possible for the item to continue to appear in the view. This is possible
             when the item was added using drag-and-drop in the Navigator editor. Use the Navigator

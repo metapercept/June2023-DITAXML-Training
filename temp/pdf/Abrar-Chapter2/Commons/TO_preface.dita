@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\AbrarSyed\Downloads\Marvel DITA project\June2023-DITAXML-Training\temp\pdf\Abrar-Chapter2\Commons?><?workdir-uri file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/temp/pdf/Abrar-Chapter2/Commons/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="preface" specializations="@props/deliveryTarget" xtrc="topic:1;3:21" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">Preface</title><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;12:25" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Marvel-Run-User%20Guide_Abrar.ditamap">Abrar Ahmed Syed</author></prolog>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">Welcome to the Marvel Monitoring Enterprise Portal User's Guide. This document is
+            designed to provide you with comprehensive information about the Marvel Enterprise
+            Portal features for effectively working with your Marvel Monitoring products. Whether
+            you are a new user or seeking to enhance your understanding of the portal, this guide
+            will serve as a valuable resource.</p>
+        <p class="- topic/p " xtrc="p:2;11:12" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">To make the most of this guide, it is recommended that users have a basic familiarity
+            with performance monitoring concepts. This foundational knowledge will enable you to
+            grasp the concepts and functionalities discussed throughout the document, empowering you
+            to leverage the full potential of the Marvel Monitoring Enterprise Portal.</p>
+        <p class="- topic/p " xtrc="p:3;15:12" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">If you are utilizing the Marvel Data Warehouse, it is important to note that familiarity
+            with the operating system hosting the warehouse is necessary. Understanding the
+            operating system will facilitate a deeper comprehension of the integration between the
+            Marvel Monitoring products and the warehouse.</p>
+        <p class="- topic/p " xtrc="p:4;19:12" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">It is worth emphasizing that this user's guide is tailored for individuals with no prior
+            experience using Marvel Monitoring. The document has been structured to provide clear
+            and concise explanations, ensuring that users can easily follow along and apply the
+            information to their specific monitoring needs.</p>
+        <p class="- topic/p " xtrc="p:5;23:12" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">By leveraging the insights and instructions outlined in this guide, you will gain a
+            comprehensive understanding of the Marvel Enterprise Portal features and how they can be
+            effectively utilized in conjunction with your Marvel Monitoring products. We encourage
+            you to explore the various sections of this document, acquaint yourself with the
+            portal's capabilities, and harness its power to enhance your performance monitoring
+            processes.</p>
+        <p class="- topic/p " xtrc="p:6;29:12" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Abrar-Chapter2/Commons/TO_preface.dita">Thank you for choosing the Marvel Monitoring Enterprise Portal User's Guide. We are
+            confident that it will equip you with the necessary knowledge and skills to maximize the
+            value and potential of your Marvel Monitoring products.</p>
+    </body>
+</topic>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_edit_workspace_properties">
+    <title>Edit Workspace Properties</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Edit Workspace Properties</keyword><keyword>Workspace
+                        Properties</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>The workspace properties can be edited by completing the following procedure:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>With My Workspace open, click <image
+                        conref="../Concepts/C_workspace_changes.dita#C_workspace_changes/image_ypg_mch_xxb"
+                        id="image_tkh_pjm_xxb"/> Properties.</cmd>
+                <info>When you open the Properties editor for a workspace from the toolbar as
+                    opposed to the pop-up menu, the properties for the workspace display.</info>
+            </step>
+            <step>
+                <cmd>Clear <uicontrol>Assign as default for this Navigator Item</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click <image href="../Images/I_save.png" id="image_pxl_1mh_xxb"/> Save.</cmd>
+            </step>
+            <step>
+                <cmd>Test the new setting by opening another workspace, then clicking this Navigator
+                    item again.</cmd>
+                <info/>
+                <info>My Workspace does not display. Instead, you see the original undefined
+                    workspace, which is the default workspace for this Navigator item.</info>
+            </step>
+            <step>
+                <cmd>To open My Workspace, right-click the Navigator item, click
+                        <uicontrol>Workspace</uicontrol>, and select <uicontrol>My
+                        Workspace</uicontrol> from the list.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

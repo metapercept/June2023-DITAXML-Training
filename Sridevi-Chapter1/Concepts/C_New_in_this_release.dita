@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="C_New_in_this_release">
-    <title>New in this release</title>
+    <title>New in this Release</title>
     <shortdesc></shortdesc>
     <prolog>
         <author>Sridevi</author>
+        <author>Abrar Ahmed Syed</author>
         <metadata>
             <keywords>
-                <keyword>Application Property</keyword>
-                <keyword>ITM Historical Collection</keyword>
-                <keyword>Historical situations</keyword>
+                <indexterm><keyword>Application Property</keyword><keyword>ITM Historical
+                        Collection</keyword><keyword>Historical situations</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
@@ -76,8 +76,8 @@
                 </dlentry>
             </dl><dl id="dl_zqd_rj1_wxb">
                 <dlentry>
-                    <dt>Ability to access multiple IBM Tivoli Monitoring domains from a single
-                        browser instance</dt>
+                    <dt>Ability to access multiple Marvel Monitoring domains from a single browser
+                        instance</dt>
                     <dd>It is now possible to connect the Marvel Enterprise Portal to multiple IBM
                         Marvel Monitoring domains from a single browser instance. Prior to release
                         6.3, if you needed to manage multiple domains using the Marvel Enterprise
@@ -88,7 +88,7 @@
                         enhancements were made to the Marvel Management Services. For more
                         information, see the following publications on the <xref
                             href="http://pic.dhe.ibm.com/infocenter/tivihelp/v61r1/topic/com.ibm.itm.doc_6.3/welcome.htm"
-                            format="html" scope="external">IBM Marvel Monitoring Information
+                            format="html" scope="external">Marvel Monitoring Information
                             Center</xref>. </dd>
                 </dlentry>
             </dl></p>

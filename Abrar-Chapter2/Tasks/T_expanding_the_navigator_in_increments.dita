@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T_expanding_the_navigator_in_increments">
-    <title>Expanding the Navigator in increments</title>
+    <title>Expanding the Navigator in Increments</title>
     <prolog>
         <author>Abrar Ahmed Syed</author>
         <metadata>
@@ -41,12 +41,13 @@
                 </substeps>
             </step>
             <step>
-                <cmd>Expand child items. You can expand all the child items of a Navigator item. The
-                    entire branch does not expand, just the children of the selected item. If the
-                        <wintitle>Expand child items </wintitle>window is not open, right-click the
+                <cmd>Expand child items. </cmd>
+                <info>You can expand all the child items of a Navigator item. The entire branch does
+                    not expand, just the children of the selected item. If the <wintitle>Expand
+                        child items </wintitle>window is not open, right-click the
                         <uicontrol>Navigator </uicontrol>item whose child items you want to expand
                     and click <image href="../Images/I_expand_icon.png" id="image_qsd_54f_vxb"/>
-                    <uicontrol>Expand Child Items</uicontrol>.</cmd>
+                    <uicontrol>Expand Child Items</uicontrol>.</info>
             </step>
         </steps>
         <example id="example_vxd_dpf_vxb">
