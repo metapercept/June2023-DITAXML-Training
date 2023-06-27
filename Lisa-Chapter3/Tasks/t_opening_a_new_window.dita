@@ -2,51 +2,66 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_opening_a_new_window">
     <title>Opening a New Window</title>
+    <shortdesc>Have multiple workspaces open on your desktop at the same time by opening multiple
+        Tivoli Enterprise Portal windows.</shortdesc>
     <prolog>
         <author>Lisa Adams</author>
         <metadata>
             <keywords>
-                <indexterm>window</indexterm>
+                <indexterm><keyword>Open new window</keyword><keyword>Dashboard
+                    views</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
     <taskbody>
         <context>
-            <p>Have multiple workspaces open on your desktop at the same time by opening multiple
-                Tivoli Enterprise Portal windows.</p>
+            <p>You can add more dashboard views to your desktop by opening more Tivoli Enterprise
+                Portal windows. Any changes you make these window are saved with the
+                application.</p>
         </context>
-        <steps id="steps_l1n_kpf_wxb">
+        <steps-unordered id="steps-unordered_vxf_gmv_xxb">
             <step>
-                <cmd>To open a new window in the desktop client, click <image href="../Images/9.jpg"
-                        id="image_ozd_npf_wxb"/><uicontrol>New Window</uicontrol>.</cmd>
+                <cmd>Click <image href="../Images/9.jpg" id="image_ozd_npf_wxb" height="10px"
+                        width="10px"/><uicontrol>New Window</uicontrol> to open a new window in the
+                    desktop client.</cmd>
             </step>
             <step>
-                <cmd>To open a new window in the browser client running in Internet Explorer, press
-                        <uicontrol>Ctrl + N</uicontrol>.</cmd>
+                <cmd>Press <cmdname>Ctrl + N</cmdname> to open a new window in the browser client
+                    running in Internet Explorer.</cmd>
             </step>
             <step>
-                <cmd>To open another workspace in a new window and keep the original intact in this
-                    window, click <image href="../Images/1.jpg" id="image_jhw_tpf_wxb"
-                        /><uicontrol>Workspace gallery</uicontrol> and <uicontrol>Ctrl + Shift +
-                        click </uicontrol>the workspace.</cmd>
+                <cmd>Click <image href="../Images/1.jpg" id="image_jhw_tpf_wxb" height="10px"
+                        width="10px"/><uicontrol> Workspace gallery</uicontrol> and press
+                        <cmdname>Ctrl + Shift + click </cmdname>the workspace to open another
+                    workspace in a new window and keep the original intact in this window.</cmd>
             </step>
-        </steps>
+        </steps-unordered>
         <result id="result_hrj_ypf_wxb">The new window is opened as a duplicate of the original; any
             changes you make to the new window are independent of the original.</result>
         <postreq id="postreq_e3f_bqf_wxb">
             <p>Any previously visited workspaces are retained from the parent window; use <image
-                    href="../Images/11.jpg" id="image_lhw_dqf_wxb"/>and <image
-                    href="../Images/10.jpg" id="image_d2z_2qf_wxb"/> to revisit them. Further
-                navigation to other workspaces in either window, however, is independent of the
-                other window.</p>
-            <p>You can close duplicate windows (click <uicontrol>File > Close</uicontrol>) or the
-                original; the work session remains active as long as one window is open.</p>
+                    href="../Images/11.jpg" id="image_lhw_dqf_wxb" height="15px"/>and <image
+                    href="../Images/10.jpg" id="image_d2z_2qf_wxb" height="15px" width="15px"/> to
+                revisit them. Further navigation to other workspaces in either window, however, is
+                independent of the other window.</p>
+            <p>You can close duplicate windows (click <menucascade>
+                    <uicontrol>File</uicontrol>
+                    <uicontrol>Close</uicontrol>
+                </menucascade>) or the original; the work session remains active as long as one
+                window is open.</p>
         </postreq>
-        <!--Related tasks:
-“Opening a workspace” on xref
-Use the Navigator to open the default workspace for the selected item, then the Workspace Gallery to see and select from a thumbnail display of available workspaces.-->
-        <!--Related reference:
-“Tabbed workspaces”
-Use the tabbed pages capability of your browser to open workspaces, linked workspaces, and Navigator views in new tabs.-->
     </taskbody>
+    <related-links>
+        <link href="T_opening_a_workspace.dita">
+            <linktext>Opening a Workspace</linktext>
+            <desc>Use the Navigator to open the default workspace for the selected item, then the
+                Workspace Gallery to see and select from a thumbnail display of available
+                workspaces.</desc>
+        </link>
+        <link href="../Concepts/C_tabbed_workspaces.dita">
+            <linktext>Tabbed Workspaces</linktext>
+            <desc>Use the tabbed pages capability of your browser to open workspaces, linked
+                workspaces, and Navigator views in new tabs.</desc>
+        </link>
+    </related-links>
 </task>

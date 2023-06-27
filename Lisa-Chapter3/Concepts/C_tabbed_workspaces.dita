@@ -2,48 +2,86 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_tabbed_workspaces">
     <title>Tabbed Workspaces</title>
+    <shortdesc>Use the tabbed pages capability of your browser to open workspaces, linked
+        workspaces, and Navigator views in new tabs.</shortdesc>
     <prolog>
         <author>Lisa Adams</author>
         <metadata/>
         <metadata>
             <keywords>
-                <indexterm>workspaces</indexterm>
+                <indexterm><keyword>Browser client </keyword><keyword>Browser settings
+                        </keyword><keyword>Workspace properties </keyword><keyword>Link target
+                        </keyword><keyword>Navigator item find </keyword><keyword>Tabbed
+                        Workspaces</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
     <conbody>
-        <p>Use the tabbed pages capability of your browser to open workspaces, linked workspaces,
-            and Navigator views in new tabs.</p>
-        <p><b>Browser client and browser settings</b></p>
-        <p>When your browser supports tabbed web pages, the Tivoli Enterprise Portal browser client
-            uses the browser's tab settings to determine how to open a workspace: When tabs are
-            enabled, the workspace is opened in a new tab. You can set the properties of a workspace
-            or the target of a workspace link to always open in a new tab, or you can open a
-            workspace in a new tab by holding down the <uicontrol>Ctrl + Shift</uicontrol> keys
-            while selecting the workspace with a mouse click. Then use the <uicontrol>Ctrl +
-                Tab</uicontrol> keys to switch focus to the next tabbed workspace.</p>
-        <p>The desktop client and Java Web Start client use these same features to open a workspace,
-            but it is always opened in a new window.</p>
-        <p><b>Workspace properties</b></p>
-        <p>Every Tivoli Enterprise Portal workspace has properties that control the access and
-            method of display when it is opened. The workspace will open in a new tab on browsers
-            that are set to use tabbed pages when <image href="../Images/12.jpg"
-                id="image_ykq_bbq_vxb"/><b>Always open workspace in new window</b> is enabled.</p>
-        <p><b>Link target</b></p>
-        <p>The link wizard Target Workspace page has an option to <image href="../Images/12.jpg"
-                id="image_gnb_nbq_vxb"/><b>Always open target workspace in new window</b>. It shows
-            in the link wizard Parameters page as <image href="../Images/13.jpg"
-                id="image_a4y_pbq_vxb"/>
-            <i>openTargetInNewWindow</i>. When enabled, this option opens the targeted workspace in
-            a new tab if you are logged on from a tab-enabled browser.</p>
-        <p><b>Navigator item find</b></p>
-        <p><image href="../Images/14.jpg" id="image_ztl_2cq_vxb"/><uicontrol>Find</uicontrol> in the
-            Navigator toolbar enables you to locate any Navigator item using simple or advanced
-            search criteria. The Find window has an option to <image href="../Images/12.jpg"
-                id="image_uzn_gcq_vxb"/><b>Open workspace in new window </b>that will open the
-            default workspace for the found Navigator item in a new tab if you are logged on from a
-            tab-enabled browser.</p>
+        <p>
+            <dl id="dl_att_p4v_xxb">
+                <dlentry>
+                    <dt>Browser client and browser settings</dt>
+                    <dd>
+                        <p>When your browser supports tabbed web pages, the Marvel Enterprise Portal
+                            browser client uses the browser's tab settings to determine how to open
+                            a workspace: When tabs are enabled, the workspace is opened in a new
+                            tab. You can set the properties of a workspace or the target of a
+                            workspace link to always open in a new tab, or you can open a workspace
+                            in a new tab by holding down the <cmdname>Ctrl + Shift</cmdname> keys
+                            while selecting the workspace with a mouse click. Then use the
+                                <cmdname>Ctrl + Tab</cmdname> keys to switch focus to the next
+                            tabbed workspace.</p>
+                        <p>The desktop client and Java Web Start client use these same features to
+                            open a workspace, but it is always opened in a new window.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_lzr_54v_xxb">
+                <dlentry>
+                    <dt>Workspace properties</dt>
+                    <dd>
+                        <p>Every Marvel Enterprise Portal workspace has properties that control the
+                            access and method of display when it is opened. The workspace will open
+                            in a new tab on browsers that are set to use tabbed pages when <image
+                                href="../Images/12.jpg" id="image_ykq_bbq_vxb" height="15px"
+                                width="15px"/><uicontrol>Always open workspace in new
+                                window</uicontrol> is enabled.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_sxv_x4v_xxb">
+                <dlentry>
+                    <dt>Link target</dt>
+                    <dd>
+                        <p>The link wizard Target Workspace page has an option to <image
+                                href="../Images/12.jpg" height="15px" width="15px"
+                                id="image_nwy_y4v_xxb"/><uicontrol>Always open target workspace in
+                                new window</uicontrol>. It shows in the link wizard Parameters page
+                            as <image href="../Images/13.jpg" id="image_a4y_pbq_vxb"/>
+                            <i>openTargetInNewWindow</i>. When enabled, this option opens the
+                            targeted workspace in a new tab if you are logged on from a tab-enabled
+                            browser.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_amw_bpv_xxb">
+                <dlentry>
+                    <dt>Navigator item find</dt>
+                    <dd>
+                        <p><image href="../Images/14.jpg" id="image_ztl_2cq_vxb" height="15px"
+                                width="15px"/><uicontrol>Find</uicontrol> in the Navigator toolbar
+                            enables you to locate any Navigator item using simple or advanced search
+                            criteria. The Find window has an option to <image
+                                href="../Images/12.jpg" height="15px" width="15px"
+                                id="image_hxq_dpv_xxb"/><uicontrol>Open workspace in new
+                                window</uicontrol> that will open the default workspace for the
+                            found Navigator item in a new tab if you are logged on from a
+                            tab-enabled browser.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+        </p>
         <p><b>On demand</b></p>
-        <p>You can open a workspace in a new tab from any context:</p>
+        <p>You can open a workspace in a new tab from any context.</p>
     </conbody>
 </concept>

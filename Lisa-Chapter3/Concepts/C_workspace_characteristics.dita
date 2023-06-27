@@ -6,73 +6,103 @@
         <author>Lisa Adams</author>
         <metadata>
             <keywords>
-                <indexterm>Workspace</indexterm>
+                <indexterm><keyword>Workspace Views</keyword><keyword>Workspace
+                        Properties</keyword><keyword>Workspace Links</keyword><keyword>Workspace
+                        Navigator level</keyword><keyword>Workspace
+                    Characteristics</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
     <conbody>
         <p>Every Navigator item has at least one predefined workspace that you can open. Every
             workspace characteristics such as editable properties and views.</p>
-        <p><b>Views</b></p>
-        <p>A view is a windowpane, or frame, in the workspace containing a chart or table showing
-            data from one or more monitoring agents. Other types of views such as the topology view
-            and graphic view can give a broader overview of the network. Specialized view such as
-            the browser view and terminal view are also available. You can increase the number of
-            views in a workspace by splitting a view into two separate views.</p>
-        <p>The data for a table, chart, or relational table-based topology view is chosen by the
-            query it uses. Collectively, they are called query-based views. The query specifies the
-            attributes to include in the view. Although each view uses one query, you can add more
-            views to the workspace, and each can use a different query. The queries can be for
-            different monitoring agents, including those for the Tivoli Enterprise Monitoring Server
-            for showing information that is common to your monitored environment (such as all the
-            managed systems and all the situation events). You can also include queries of JDBC or
-            ODBC data sources by writing custom SQL queries.</p>
-        <p><b>Properties</b></p>
-        <p>Every workspace has a set of properties associated with it: general properties that apply
-            to the entire workspace, and properties for each view in the workspace. Use the
-            Properties editor to customize the workspace characteristics and to change the style and
-            content of each view.</p>
-        <p>You can also keep the original workspace intact and create another workspace for the same
-            item in the Navigator, customizing it for the types of views you want and the
-            information reported in charts and tables.</p>
-        <p>Changes you make to a workspace are available only to your user ID. System administrators
-            can work in Administration mode to create and edit workspaces that will be available to
-            all users on the managed network.</p>
-        <p><b>Links</b></p>
-        <p>The link feature enables you to define a link from one workspace to another. Then you can
-            quickly jump to a related or more detailed workspace to investigate system
-            conditions.</p>
-        <p>The simplest type of a link originates from the Navigator item: When you right-click that
-            Navigator item, the pop-up menu shows the defined links for the item. Select one to open
-            the linked workspace.</p>
-        <p>A more specific link originates from a table or from a chart data point to another
-            workspace. Information from one of the attributes in the selected row, bar, pie segment,
-            or plot point is used to determine the content of the target workspace.</p>
-        <p>You can also define more complex links and use the predefined links that come with your
-            IBM Tivoli Monitoring product.</p>
-        <p><b>Navigator level</b></p>
-        <p>The monitoring agents available for reporting in a workspace are those assigned to that
-            branch of the Navigator. If you are not sure which monitoring agents are included, do
-            one of the following:</p>
         <p>
-            <ul id="ul_k5w_r4p_vxb">
-                <li>Expand the branch of the Navigator</li>
-            </ul>
-            <ul id="ul_g1h_w4p_vxb">
-                <li>Right-click the Navigator item and select Properties to see which managed
-                    systems are assigned.</li>
-            </ul>
-            <ul id="ul_v15_z4p_vxb">
-                <li>Open one of the workspaces at the enterprise, platform, or system level of the
-                    Navigator Physical view</li>
-            </ul>
+            <dl id="dl_bdq_ldv_xxb">
+                <dlentry>
+                    <dt>Views</dt>
+                    <dd>A view is a windowpane, or frame, in the workspace containing a chart or
+                        table showing data from one or more monitoring agents. Other types of views
+                        such as the topology view and graphic view can give a broader overview of
+                        the network. Specialized view such as the browser view and terminal view are
+                        also available. You can increase the number of views in a workspace by
+                        splitting a view into two separate views.<p>The data for a table, chart, or
+                            relational table-based topology view is chosen by the query it uses.
+                            Collectively, they are called query-based views. The query specifies the
+                            attributes to include in the view. Although each view uses one query,
+                            you can add more views to the workspace, and each can use a different
+                            query. The queries can be for different monitoring agents, including
+                            those for the Marvel Enterprise Monitoring Server for showing
+                            information that is common to your monitored environment (such as all
+                            the managed systems and all the situation events). You can also include
+                            queries of JDBC or ODBC data sources by writing custom SQL
+                        queries.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Properties</dt>
+                    <dd>
+                        <p>Every workspace has a set of properties associated with it: general
+                            properties that apply to the entire workspace, and properties for each
+                            view in the workspace. Use the Properties editor to customize the
+                            workspace characteristics and to change the style and content of each
+                            view.</p>
+                        <p>You can also keep the original workspace intact and create another
+                            workspace for the same item in the Navigator, customizing it for the
+                            types of views you want and the information reported in charts and
+                            tables.</p>
+                        <p>Changes you make to a workspace are available only to your user ID.
+                            System administrators can work in Administration mode to create and edit
+                            workspaces that will be available to all users on the managed
+                            network.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_hsx_qdv_xxb">
+                <dlentry>
+                    <dt>Links</dt>
+                    <dd>
+                        <p>The link feature enables you to define a link from one workspace to
+                            another. Then you can quickly jump to a related or more detailed
+                            workspace to investigate system conditions.</p>
+                        <p>The simplest type of a link originates from the Navigator item: When you
+                            right-click that Navigator item, the pop-up menu shows the defined links
+                            for the item. Select one to open the linked workspace.</p>
+                        <p>A more specific link originates from a table or from a chart data point
+                            to another workspace. Information from one of the attributes in the
+                            selected row, bar, pie segment, or plot point is used to determine the
+                            content of the target workspace.</p>
+                        <p>You can also define more complex links and use the predefined links that
+                            come with your Marvel Monitoring product.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_otg_sdv_xxb">
+                <dlentry>
+                    <dt>Navigator level</dt>
+                    <dd>
+                        <p>The monitoring agents available for reporting in a workspace are those
+                            assigned to that branch of the Navigator. If you are not sure which
+                            monitoring agents are included, do one of the following:<ul
+                                id="ul_k5w_r4p_vxb">
+                                <li>Expand the branch of the Navigator</li>
+                            </ul><ul id="ul_g1h_w4p_vxb">
+                                <li>Right-click the Navigator item and select Properties to see
+                                    which managed systems are assigned.</li>
+                            </ul><ul id="ul_v15_z4p_vxb">
+                                <li>Open one of the workspaces at the enterprise, platform, or
+                                    system level of the Navigator Physical view</li>
+                            </ul></p>
+                        <p>This same principle applies to attribute groups. The lowest level of the
+                            Navigator Physical view, for example, is the attribute level. The views
+                            you can show for the workspaces at that level can draw only from the
+                            attribute groups represented by that level. If you were to build a
+                            workspace for the <image href="../Images/7.jpg" id="image_y1f_zpp_vxb"
+                                height="15px" width="15px"/><uicontrol>Disk Navigator
+                            </uicontrol>item, for example, you could create a chart with data from
+                            the <uicontrol>Logical Disk</uicontrol> attributes and another with data
+                            from the <uicontrol>Physical Disk</uicontrol> attributes.</p>
+                    </dd>
+                </dlentry>
+            </dl>
         </p>
-        <p>This same principle applies to attribute groups. The lowest level of the Navigator
-            Physical view, for example, is the attribute level. The views you can show for the
-            workspaces at that level can draw only from the attribute groups represented by that
-            level. If you were to build a workspace for the <image href="../Images/7.jpg"
-                id="image_y1f_zpp_vxb"/><uicontrol>Disk Navigator </uicontrol>item, for example, you
-            could create a chart with data from the <uicontrol>Logical Disk</uicontrol> attributes
-            and another with data from the <uicontrol>Physical Disk</uicontrol> attributes.</p>
     </conbody>
 </concept>

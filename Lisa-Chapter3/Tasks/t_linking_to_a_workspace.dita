@@ -1,79 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_linking_to_a_workspace">
-    <title>Procedure</title>
+<task id="T_linking_to_a_workspace">
+    <title>Linking to a Workspace</title>
+    <shortdesc>Use these steps to link to a workspace that has been targeted from the current
+        Navigator item or view.</shortdesc>
     <prolog>
         <author>Lisa Adams</author>
         <metadata>
             <keywords>
-                <indexterm>workspace</indexterm>
+                <indexterm><keyword>Linking</keyword><keyword>Linking to a
+                    workspace</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
     <taskbody>
-        <steps id="steps_lnw_vbg_wxb">
+        <context>
+            <p>Many monitoring agent products have workspace links available through their
+                predefined workspaces. You can also create and use links to workspaces that follow a
+                logical progression of investigation into performance and operation issues.</p>
+        </context>
+        <steps>
             <step>
-                <cmd>Open the workspace from where you will launch the link. This is the source
+                <cmd>Open the workspace from where you will launch the link to open the source
                     workspace.</cmd>
             </step>
             <step>
                 <cmd>Do one of the following, depending on where the link originates:</cmd>
-                <substeps id="substeps_mkp_xcg_wxb">
-                    <substep>
-                        <cmd>Right-click the current (highlighted) Navigator item.</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Click the <image href="../Images/2.jpg" id="image_scm_5dr_vxb"/>
-                            <uicontrol>link </uicontrol>indicator on a table row or the graphic
-                            view, then skip to step 4. (A dimmed link indicator means the link is
-                            not available from that row.)</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Right-click a <uicontrol>pie chart slice</uicontrol>, <uicontrol>bar
-                                chart bar</uicontrol>, <uicontrol>plot chart
-                                point,</uicontrol><uicontrol>table row</uicontrol> ,
-                                <uicontrol>graphic view icon,</uicontrol> or <uicontrol>TMS
-                                Infrastructure object</uicontrol>.</cmd>
-                    </substep>
-                </substeps>
+                <choices id="choices_oqy_mz1_yxb">
+                    <choice>Right-click the current (highlighted) Navigator item.</choice>
+                    <choice>Click the <image href="../Images/2.jpg" width="13" height="13"
+                            id="image_emm_pz1_yxb"/> link indicator on a table row or the graphic
+                        view, then skip to step 4. A dimmed link indicator means the link is not
+                        available from that row.</choice>
+                    <choice>Right-click a pie chart slice, bar chart bar, plot chart point, table
+                        row, graphic view icon, or TMS Infrastructure object.</choice>
+                </choices>
             </step>
             <step>
                 <cmd>Click <uicontrol>Link To</uicontrol> and click the target workspace in the
-                        <image conref="#t_linking_to_a_workspace/image_scm_5dr_vxb"
-                        id="image_itm_xzj_wxb"/> list. The target filter or link expression is used
-                    to select the information displayed in the views of the target workspace. If,
-                    instead of the workspace opening, you get a "Target not found" message, the
-                    definition of the target workspace could not be resolved.</cmd> </step>
-
-                      <step> <cmd> Click <image href="../Images/2.jpg" id="image_h12_wdr_vxb"/> list. The target
-                    filter or link expression is used to select the information displayed in the
-                    views of the target workspace. If, instead of the workspace opening, you get a
-                    "Target not found" message, the definition of the target workspace could not be
-                    resolved.</cmd>
-  
-
+                        <image href="../Images/2.jpg" width="13" height="13" id="image_jkp_b1b_yxb"
+                    /> list. </cmd>
+                <info>The target filter or link expression is used to select the information
+                    displayed in the views of the target workspace. If, instead of the workspace
+                    opening, you get a <msgph>Target not found</msgph> message, the definition of
+                    the target workspace could not be resolved.</info>
             </step>
             <step>
-                <cmd>If there is more than one workspace you can link to, the Select Target window
-                    opens: Select the Navigator item for the workspace and click
-                        <uicontrol>OK</uicontrol>.</cmd>
+                <note id="note_dsg_d1b_yxb">If there is more than one workspace you can link to, the
+                    Select Target window opens.</note>
+                <cmd>Select the Navigator item for the workspace and click
+                    <uicontrol>OK</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>If a message asks you to select a leaf node, click <uicontrol>OK</uicontrol>,
+                <cmd>Click <uicontrol>OK</uicontrol> if a message asks you to select a leaf node,
                     then select an item deeper in the tree hierarchy.</cmd>
             </step>
         </steps>
-        <result id="result_d2j_j2g_wxb">The target workspace is displayed. If the link was defined
+        <result id="result_nqv_v1b_yxb">The target workspace is displayed. If the link was defined
             to open the workspace in a new window, it is opened in its own window. If you are using
             the browser client and your browser supports tabs, the workspace is in a new tab next to
-            the source workspace.<note id="note_a31_l2g_wxb">Navigation using <image
-                    href="../Images/11.jpg" id="image_j1k_qxq_vxb"/> and <image
-                    href="../Images/10.jpg" id="image_mlh_rxq_vxb"/> to visited workspaces retains
-                the link context. As an example, consider a link to a workspace from a table row.
-                The row from which you linked is remembered when you revisit the target
-                workspace.</note></result>
-        <!--Related concepts:
-“Defining links between workspaces” on xref
-The Tivoli Enterprise Portal enables you to define a link from one workspace to another. Then you can quickly jump to a related workspace or a sequence of workspaces that you like to frequently review.-->
+            the source workspace.<note id="note_elf_y1b_yxb">Navigation using <image
+                    href="../Images/11.jpg" width="15" height="15" id="image_kc5_z1b_yxb"/> and
+                    <image href="../Images/10.jpg" width="15" height="15" id="image_jzm_1bb_yxb"/>
+                to visited workspaces retains the link context. As an example, consider a link to a
+                workspace from a table row. The row from which you linked is remembered when you
+                revisit the target workspace.</note></result>
     </taskbody>
 </task>

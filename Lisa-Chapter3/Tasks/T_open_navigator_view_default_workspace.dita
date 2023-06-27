@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_open_a_navigator_view_at_its_default_workspace">
+    <title>Open a Navigator View at its Default Workspace</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Open a  Navigator view</keyword><keyword> Tabbed
+                        workspaces</keyword><keyword> Open a Navigator at default
+                        workspace</keyword><keyword> Default workspace</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context/>
+        <steps-unordered id="steps-unordered_bjb_mtv_xxb">
+            <step>
+                <cmd>In the Navigator view toolbar, click the <uicontrol>View</uicontrol>
+                    <image href="../Images/26.jpg" width="10" height="10" id="image_dxt_4tv_xxb"/>
+                    list box and <cmdname>Ctrl + Shift + click</cmdname> the Navigator view.</cmd>
+            </step>
+            <step>
+                <cmd><menucascade>
+                        <uicontrol>View</uicontrol>
+                        <uicontrol>Navigator View</uicontrol>
+                        <uicontrol><cmdname>Ctrl + Shift + click</cmdname>
+                        </uicontrol>
+                    </menucascade>the Navigator view. </cmd>
+            </step>
+            <step>
+                <cmd><cmdname>Ctrl + Shift + click </cmdname>a Navigator tab.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

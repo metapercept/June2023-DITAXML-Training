@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_link_to_a_workspace">
+    <title> Link to a Workspace</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Link to a workspace</keyword><keyword>Tabbed
+                        workspaces</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context/>
+        <steps-unordered id="steps-unordered_sxd_3rv_xxb">
+            <step>
+                <cmd><cmdname>Ctrl + Shift + click</cmdname> the link anchor.</cmd>
+                <info>If there are multiple choices, click the one you want.</info>
+            </step>
+            <step>
+                <cmd>Right-click the source of a defined link (Navigator item, table view row, pie
+                    chart slice, bar chart bar, plot chart point, area chart point), point to
+                        <uicontrol>Link to</uicontrol>, and <cmdname>Ctrl + Shift + click</cmdname>
+                    the link name.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

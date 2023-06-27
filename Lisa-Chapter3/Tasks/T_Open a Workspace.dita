@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_tabbed_workspaces">
+    <title> Open a Workspace</title>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Open a workspace</keyword><keyword> Tabbed
+                        workspaces</keyword><keyword> Open a Navigator
+                        view</keyword><keyword>Default workspace</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context/>
+        <steps-unordered id="steps-unordered_nsn_hqv_xxb">
+            <step>
+                <cmd><cmdname>Ctrl + Shift + click </cmdname>a Navigator item to open its default
+                    workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Click <image href="../Images/1.jpg" id="image_lgb_lqv_xxb" height="10px"
+                        width="10px"/><uicontrol>Workspace gallery</uicontrol> and <cmdname>Ctrl +
+                        Shift + click</cmdname> the workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Right-click the active Navigator item, point to
+                        <uicontrol>Workspace</uicontrol>, and <cmdname>Ctrl + Shift +
+                        click</cmdname> the workspace that you want to open.</cmd>
+            </step>
+            <step>
+                <cmd><menucascade>
+                        <uicontrol>View</uicontrol>
+                        <uicontrol>Workspace</uicontrol>
+                        <uicontrol> Ctrl + Shift + click</uicontrol>
+                    </menucascade> the workspace that you want to open.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

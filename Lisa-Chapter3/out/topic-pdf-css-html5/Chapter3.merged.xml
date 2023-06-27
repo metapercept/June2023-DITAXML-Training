@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Chapter3.ditamap" css-param:show-onpage-lbl="no" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Workspaces</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Workspaces</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="C_Using_Workspaces"><resourceid appid="C_Using_Workspaces" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Using Workspaces</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_workspace_characteristics"><resourceid appid="c_workspace_characteristics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Workspace Characteristics</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_org_of_predef_ws"><resourceid appid="c_org_of_predef_ws" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Organization of Predefined Workspaces</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="C_opening_a_workspace"><resourceid appid="C_opening_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Opening a workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_opening_a_workspace"><resourceid appid="T_opening_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Procedure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_opening_a_new_window"><resourceid appid="t_opening_a_new_window" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Opening a New Window</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Have multiple workspaces open on your desktop at the same time by opening multiple         Tivoli Enterprise Portal windows.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_tabbed_workspaces"><resourceid appid="c_tabbed_workspaces" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Tabbed Workspaces</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Use the tabbed pages capability of your browser to open workspaces, linked         workspaces, and Navigator views in new tabs.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_tabbed_workspaces"><resourceid appid="t_tabbed_workspaces" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle "> Open a Workspace</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_link_to_a_workspace"><resourceid appid="T_link_to_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle "> Link to a Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_open_a_found_navigator_item_at_its_default_workspace"><resourceid appid="T_open_a_found_navigator_item_at_its_default_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Open a Found Navigator Item at its Default Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_open_a_navigator_view_at_its_default_workspace"><resourceid appid="T_open_a_navigator_view_at_its_default_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Open a Navigator View at its Default Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="C_tabbed_workspaces_troubleshooting"><resourceid appid="C_tabbed_workspaces_troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Troubleshooting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_refreshing_a_workspace"><resourceid appid="T_refreshing_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Refreshing a Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can refresh the data that is displayed in the workspace on demand or at a set         interval.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_suspending_and_stopping_refresh"><resourceid appid="T_suspending_and_stopping_refresh" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Suspending and Stopping Refresh</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If the workspace is set to refresh automatically at timed intervals or it includes         event status views, you can suspend refreshes to keep the data from changing while you         investigate a problem.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_linking_to_a_workspace"><resourceid appid="T_linking_to_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Linking to a Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Use these steps to link to a workspace that has been targeted from the current         Navigator item or view.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_view_title_bar_and_toolbar"><resourceid appid="c_view_title_bar_and_toolbar" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">View Title Bar and Toolbar</navtitle><?ditaot gentext?></topicmeta></topicref>
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d168e1778" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="C_Using_Workspaces" oid="C_Using_Workspaces" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid " id="d168e191"/><ph class="- topic/ph topic/title-wrapper ">Using Workspaces</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="WorkspacesUsing workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Workspaces</keyword><keyword class="- topic/keyword ">Using
+                    workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid " id="d168e191"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The workspace is the working area of the Marvel Enterprise Portal window, divided into
+            panes to show different types of views. You can start monitoring activity and system
+            status immediately with the predefined workspaces.</p>
+        <p class="- topic/p ">You can tailor your own workspaces to give you summary overviews or to look at specific
+            conditions.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="c_workspace_characteristics" oid="c_workspace_characteristics" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid " id="d168e231"/><ph class="- topic/ph topic/title-wrapper ">Workspace Characteristics</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Workspace Views</keyword><keyword class="- topic/keyword ">Workspace
+                        Properties</keyword><keyword class="- topic/keyword ">Workspace Links</keyword><keyword class="- topic/keyword ">Workspace
+                        Navigator level</keyword><keyword class="- topic/keyword ">Workspace
+                    Characteristics</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid " id="d168e231"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Every Navigator item has at least one predefined workspace that you can open. Every
+            workspace characteristics such as editable properties and views.</p>
+        <p class="- topic/p ">
+            <dl class="- topic/dl " id="unique_2_Connect_42_dl_bdq_ldv_xxb" nd:nd-id="dl_bdq_ldv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Views</dt>
+                    <dd class="- topic/dd ">A view is a windowpane, or frame, in the workspace containing a chart or
+                        table showing data from one or more monitoring agents. Other types of views
+                        such as the topology view and graphic view can give a broader overview of
+                        the network. Specialized view such as the browser view and terminal view are
+                        also available. You can increase the number of views in a workspace by
+                        splitting a view into two separate views.<p class="- topic/p ">The data for a table, chart, or
+                            relational table-based topology view is chosen by the query it uses.
+                            Collectively, they are called query-based views. The query specifies the
+                            attributes to include in the view. Although each view uses one query,
+                            you can add more views to the workspace, and each can use a different
+                            query. The queries can be for different monitoring agents, including
+                            those for the Marvel Enterprise Monitoring Server for showing
+                            information that is common to your monitored environment (such as all
+                            the managed systems and all the situation events). You can also include
+                            queries of JDBC or ODBC data sources by writing custom SQL
+                        queries.</p></dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Properties</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">Every workspace has a set of properties associated with it: general
+                            properties that apply to the entire workspace, and properties for each
+                            view in the workspace. Use the Properties editor to customize the
+                            workspace characteristics and to change the style and content of each
+                            view.</p>
+                        <p class="- topic/p ">You can also keep the original workspace intact and create another
+                            workspace for the same item in the Navigator, customizing it for the
+                            types of views you want and the information reported in charts and
+                            tables.</p>
+                        <p class="- topic/p ">Changes you make to a workspace are available only to your user ID.
+                            System administrators can work in Administration mode to create and edit
+                            workspaces that will be available to all users on the managed
+                            network.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_2_Connect_42_dl_hsx_qdv_xxb" nd:nd-id="dl_hsx_qdv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Links</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The link feature enables you to define a link from one workspace to
+                            another. Then you can quickly jump to a related or more detailed
+                            workspace to investigate system conditions.</p>
+                        <p class="- topic/p ">The simplest type of a link originates from the Navigator item: When you
+                            right-click that Navigator item, the pop-up menu shows the defined links
+                            for the item. Select one to open the linked workspace.</p>
+                        <p class="- topic/p ">A more specific link originates from a table or from a chart data point
+                            to another workspace. Information from one of the attributes in the
+                            selected row, bar, pie segment, or plot point is used to determine the
+                            content of the target workspace.</p>
+                        <p class="- topic/p ">You can also define more complex links and use the predefined links that
+                            come with your Marvel Monitoring product.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_2_Connect_42_dl_otg_sdv_xxb" nd:nd-id="dl_otg_sdv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Navigator level</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The monitoring agents available for reporting in a workspace are those
+                            assigned to that branch of the Navigator. If you are not sure which
+                            monitoring agents are included, do one of the following:<ul class="- topic/ul " id="unique_2_Connect_42_ul_k5w_r4p_vxb" nd:nd-id="ul_k5w_r4p_vxb">
+                                <li class="- topic/li ">Expand the branch of the Navigator</li>
+                            </ul><ul class="- topic/ul " id="unique_2_Connect_42_ul_g1h_w4p_vxb" nd:nd-id="ul_g1h_w4p_vxb">
+                                <li class="- topic/li ">Right-click the Navigator item and select Properties to see
+                                    which managed systems are assigned.</li>
+                            </ul><ul class="- topic/ul " id="unique_2_Connect_42_ul_v15_z4p_vxb" nd:nd-id="ul_v15_z4p_vxb">
+                                <li class="- topic/li ">Open one of the workspaces at the enterprise, platform, or
+                                    system level of the Navigator Physical view</li>
+                            </ul></p>
+                        <p class="- topic/p ">This same principle applies to attribute groups. The lowest level of the
+                            Navigator Physical view, for example, is the attribute level. The views
+                            you can show for the workspaces at that level can draw only from the
+                            attribute groups represented by that level. If you were to build a
+                            workspace for the <image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/7.jpg" id="unique_2_Connect_42_image_y1f_zpp_vxb" nd:nd-id="image_y1f_zpp_vxb" placement="inline" width="15px"/><uicontrol class="+ topic/ph ui-d/uicontrol ">Disk Navigator
+                            </uicontrol>item, for example, you could create a chart with data from
+                            the <uicontrol class="+ topic/ph ui-d/uicontrol ">Logical Disk</uicontrol> attributes and another with data
+                            from the <uicontrol class="+ topic/ph ui-d/uicontrol ">Physical Disk</uicontrol> attributes.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+        </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c_org_of_predef_ws" oid="c_org_of_predef_ws" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid " id="d168e360"/><ph class="- topic/ph topic/title-wrapper ">Organization of Predefined Workspaces</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">workspaces</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid " id="d168e360"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The Enterprise Navigator item has workspaces that query the Marvel Enterprise Monitoring
+            Server. Use these predefined workspaces to get status information about the monitoring
+            server and monitoring agents and about situations and policies.</p>
+        <p class="- topic/p ">Use the <image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/1.jpg" id="unique_3_Connect_42_image_es4_mqp_vxb" nd:nd-id="image_es4_mqp_vxb" placement="inline" width="15px"/>
+            <uicontrol class="+ topic/ph ui-d/uicontrol ">Workspace Gallery</uicontrol> to see what is available for the Navigator
+            item. These are the Enterprise Navigator item workspaces and the workspaces they link
+            to:</p>
+        <p class="- topic/p ">
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_o1z_42v_xxb" nd:nd-id="dl_o1z_42v_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Enterprise Status</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The default workspace is Enterprise Status, which gives an overview of
+                            the situation event status throughout your enterprise.<ul class="- topic/ul " id="unique_3_Connect_42_ul_m21_crp_vxb" nd:nd-id="ul_m21_crp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_hhk_mrp_vxb" nd:nd-id="image_hhk_mrp_vxb" placement="inline" width="15px"/>Event Details - Similar by
+                                    Situation Name </li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_sgg_2rp_vxb" nd:nd-id="ul_sgg_2rp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_jt3_bfv_xxb" nd:nd-id="image_jt3_bfv_xxb" placement="inline" width="15px"/>Event Details - Similar by
+                                    Source</li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_lvn_frp_vxb" nd:nd-id="ul_lvn_frp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_ndl_bfv_xxb" nd:nd-id="image_ndl_bfv_xxb" placement="inline" width="15px"/>Event Details - Similar by
+                                    Resource</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_fl5_dfv_xxb" nd:nd-id="dl_fl5_dfv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Manage Marvel Enterprise Monitoring Servers</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The Manage Marvel Enterprise Monitoring Servers workspaces provide a
+                            visual health check of the monitoring servers in your enterprise and the
+                            application support that has been applied.<ul class="- topic/ul " id="unique_3_Connect_42_ul_ukr_xrp_vxb" nd:nd-id="ul_ukr_xrp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_xfp_bfv_xxb" nd:nd-id="image_xfp_bfv_xxb" placement="inline" width="15px"/>Installed Catalogs - Enterprise
+                                    View</li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_j5s_yrp_vxb" nd:nd-id="ul_j5s_yrp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_mls_bfv_xxb" nd:nd-id="image_mls_bfv_xxb" placement="inline" width="15px"/>Installed Catalogs - Remote Server
+                                </li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_s5w_zrp_vxb" nd:nd-id="ul_s5w_zrp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_bbv_bfv_xxb" nd:nd-id="image_bbv_bfv_xxb" placement="inline" width="15px"/>Protocols</li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_ynb_bsp_vxb" nd:nd-id="ul_ynb_bsp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_ggx_bfv_xxb" nd:nd-id="image_ggx_bfv_xxb" placement="inline" width="15px"/>Situation Status </li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_lpr_csp_vxb" nd:nd-id="ul_lpr_csp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_xx1_cfv_xxb" nd:nd-id="image_xx1_cfv_xxb" placement="inline" width="15px"/>System Information</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_n2l_ffv_xxb" nd:nd-id="dl_n2l_ffv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Managed System Status</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The Managed System Status is a list of monitoring agents in your managed
+                            network and their ONLINE or OFFLINE status. The linked workspaces are
+                            only available for online managed systems.<ul class="- topic/ul " id="unique_3_Connect_42_ul_nnj_ksp_vxb" nd:nd-id="ul_nnj_ksp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_wy2_cfv_xxb" nd:nd-id="image_wy2_cfv_xxb" placement="inline" width="15px"/>Audit Log</li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_yc3_lsp_vxb" nd:nd-id="ul_yc3_lsp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_k3h_cfv_xxb" nd:nd-id="image_k3h_cfv_xxb" placement="inline" width="15px"/>Agent Operations Log </li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_g3j_msp_vxb" nd:nd-id="ul_g3j_msp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_chj_cfv_xxb" nd:nd-id="image_chj_cfv_xxb" placement="inline" width="15px"/>History Exports</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_jxj_gfv_xxb" nd:nd-id="dl_jxj_gfv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">EIB Change Log</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">This workspaces displays entries in the Enterprise Information Base (EIB)
+                            log. The EIB is a database used by the Marvel Enterprise Monitoring
+                            Server to store situation, policy, user definitions, and configuration
+                            information.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_sr3_hfv_xxb" nd:nd-id="dl_sr3_hfv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Self-Monitoring Topology</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The Self-Monitoring Topology workspace provides a high level overview of
+                            your managed infrastructure and its health.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_pdh_3fv_xxb" nd:nd-id="dl_pdh_3fv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Deploy Depot Package List</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The Deploy Depot Package List workspace shows the installation packages
+                            that are available in the agent depot.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_ebt_jfv_xxb" nd:nd-id="dl_ebt_jfv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Deployment Status Summary</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The Deployment Status Summary workspace shows summary status information
+                            about remote agent deployments.<ul class="- topic/ul " id="unique_3_Connect_42_ul_azm_zsp_vxb" nd:nd-id="ul_azm_zsp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_xrr_cfv_xxb" nd:nd-id="image_xrr_cfv_xxb" placement="inline" width="15px"/>Deployment Status by Deploy
+                                    Group</li>
+                            </ul><ul class="- topic/ul " id="unique_3_Connect_42_ul_y14_1tp_vxb" nd:nd-id="ul_y14_1tp_vxb">
+                                <li class="- topic/li "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_3_Connect_42_image_v4t_cfv_xxb" nd:nd-id="image_v4t_cfv_xxb" placement="inline" width="15px"/>Deployment Status by Product</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_3_Connect_42_dl_vr5_kfv_xxb" nd:nd-id="dl_vr5_kfv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Deployment Status Summary by Transaction</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The Deployment Status Summary by Transaction workspace shows summary
+                            status information about remote agent deployments, sorted by
+                            transaction.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+        </p>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="C_opening_a_workspace" oid="C_opening_a_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e605"/><ph class="- topic/ph topic/title-wrapper ">Opening a workspace</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Open workspacesMove workspacesChange workspace order" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open workspaces</keyword><keyword class="- topic/keyword ">Move
+                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e605"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Use the Navigator to open the default workspace for the selected item, then the Workspace
+            Gallery to see and select from a thumbnail display of available workspaces.</p>
+        <p class="- topic/p ">As well as a convenient way to open workspaces, you can also move the workspaces around
+            the gallery to change their order. The changes you make are saved with the workspace
+            definition for the Navigator item. If you are in workspace administration mode when you
+            reorder the thumbnail graphics, the reorganization will be reflected in the workspace
+            gallery of all Marvel Enterprise Portal clients connected to this Marvel Enterprise
+            Portal Server.</p>
+        <p class="- topic/p ">Every item in the Navigator has a workspace associated with it, called the <i class="+ topic/ph hi-d/i ">default
+                workspace</i>. Some items have multiple workspaces that you can open, although only
+            one workspace can be open in the Marvel Enterprise Portal window at one time. Some
+            workspaces are only accessible by linking to them from another workspace.</p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="T_opening_a_workspace" oid="T_opening_a_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e649"/><ph class="- topic/ph topic/title-wrapper ">Procedure</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Open workspacesMove workspacesChange workspace order" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open workspaces</keyword><keyword class="- topic/keyword ">Move
+                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e649"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_5_Connect_42_prereq_wfh_ygv_xxb" nd:nd-id="prereq_wfh_ygv_xxb"/>
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Click the item name or icon in the Navigator to open the default workspace:<ul class="- topic/ul " id="unique_5_Connect_42_ul_djs_lhv_xxb" nd:nd-id="ul_djs_lhv_xxb">
+                    <li class="- topic/li ">Physical view: <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/3.jpg" id="unique_5_Connect_42_image_g3k_xhv_xxb" nd:nd-id="image_g3k_xhv_xxb" placement="inline" width="10"/>, <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/4.jpg" id="unique_5_Connect_42_image_thh_p3v_xxb" nd:nd-id="image_thh_p3v_xxb" placement="inline" width="10"/>, <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/6.jpg" id="unique_5_Connect_42_image_bxj_q3v_xxb" nd:nd-id="image_bxj_q3v_xxb" placement="inline" width="10"/>, <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/5.jpg" id="unique_5_Connect_42_image_jlg_r3v_xxb" nd:nd-id="image_jlg_r3v_xxb" placement="inline" width="10"/>,
+                        or <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/7.jpg" id="unique_5_Connect_42_image_pvk_s3v_xxb" nd:nd-id="image_pvk_s3v_xxb" placement="inline" width="10"/>. </li>
+                    <li class="- topic/li ">Logical view or other custom Navigator view: <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/4.jpg" id="unique_5_Connect_42_image_hjr_v3v_xxb" nd:nd-id="image_hjr_v3v_xxb" placement="inline" width="10"/>.<p class="- topic/p ">The default workspace
+                            for that item is displayed, replacing the workspace of the previously
+                            selected item. If the workspace shows no data for a chart or table view,
+                            it means there is no data to display. This can occur with monitoring
+                            data that is not constantly generated, such as Archive Errors, which
+                            collects data only when archive errors occur.</p></li>
+                </ul></p>
+            <p class="- topic/p ">To open another workspace associated with the Navigator item:</p>
+        </context>
+        <steps class="- topic/ol task/steps " id="unique_5_Connect_42_steps_hks_2jv_xxb" nd:nd-id="steps_hks_2jv_xxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/1.jpg" id="unique_5_Connect_42_image_klj_hjv_xxb" nd:nd-id="image_klj_hjv_xxb" placement="inline" width="10"/>
+                    <uicontrol class="+ topic/ph ui-d/uicontrol ">Workspace gallery</uicontrol>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the thumbnail graphic of the workspace to open.</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " id="unique_5_Connect_42_note_pwh_sjv_xxb" nd:nd-id="note_pwh_sjv_xxb"> To open the workspace in a new window instead of
+                        replacing the current workspace, use <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift +</cmdname> click
+                        the thumbnail graphic.</note>
+                </info>
+                <info class="- topic/itemgroup task/info ">If this is a new installation, you will see the splash screen instead of a
+                    thumbnail version of the workspace in the gallery until you or another user who
+                    is logged on to the same Marvel Enterprise Portal Server opens the workspace for
+                    the first time. A <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/8.jpg" id="unique_5_Connect_42_image_kg4_wjv_xxb" nd:nd-id="image_kg4_wjv_xxb" placement="inline" width="10"/> check mark by a workspace name indicates that it is
+                    the default workspace for this Navigator item. You can reorder the workspaces in
+                    your copy of the gallery by clicking a thumbnail graphic and dragging it on top
+                    of the workspace to swap positions with.</info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_6" type="concept"><?ditaot usertext?><linktext class="- topic/linktext ">Tabbed Workspaces</linktext><?ditaot usershortdesc?><desc class="- topic/desc ">Use the tabbed pages capability of your browser to open workspaces, linked
+                workspaces, and Navigator views in new tabs.</desc></link>
+        <link class="- topic/link " href="#unique_7" type="task"><?ditaot usertext?><linktext class="- topic/linktext ">Opening a New Window</linktext><?ditaot usershortdesc?><desc class="- topic/desc ">Have multiple workspaces open on your desktop at the same time by opening multiple
+                Tivoli Enterprise Portal windows.</desc></link>
+    </related-links>
+</task></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_opening_a_new_window" oid="t_opening_a_new_window" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid " id="d168e766"/><ph class="- topic/ph topic/title-wrapper ">Opening a New Window</ph></title>
+    <shortdesc class="- topic/shortdesc ">Have multiple workspaces open on your desktop at the same time by opening multiple
+        Tivoli Enterprise Portal windows.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Open new windowDashboard views" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open new window</keyword><keyword class="- topic/keyword ">Dashboard
+                    views</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid " id="d168e766"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">You can add more dashboard views to your desktop by opening more Tivoli Enterprise
+                Portal windows. Any changes you make these window are saved with the
+                application.</p>
+        </context>
+        <steps-unordered class="- topic/ul task/steps-unordered " id="unique_7_Connect_42_steps-unordered_vxf_gmv_xxb" nd:nd-id="steps-unordered_vxf_gmv_xxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <image class="- topic/image " height="10px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/9.jpg" id="unique_7_Connect_42_image_ozd_npf_wxb" nd:nd-id="image_ozd_npf_wxb" placement="inline" width="10px"/><uicontrol class="+ topic/ph ui-d/uicontrol ">New Window</uicontrol> to open a new window in the
+                    desktop client.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + N</cmdname> to open a new window in the browser client
+                    running in Internet Explorer.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <image class="- topic/image " height="10px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/1.jpg" id="unique_7_Connect_42_image_jhw_tpf_wxb" nd:nd-id="image_jhw_tpf_wxb" placement="inline" width="10px"/><uicontrol class="+ topic/ph ui-d/uicontrol "> Workspace gallery</uicontrol> and press
+                        <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click </cmdname>the workspace to open another
+                    workspace in a new window and keep the original intact in this window.</cmd>
+            </step>
+        </steps-unordered>
+        <result class="- topic/section task/result " id="unique_7_Connect_42_result_hrj_ypf_wxb" nd:nd-id="result_hrj_ypf_wxb">The new window is opened as a duplicate of the original; any
+            changes you make to the new window are independent of the original.</result>
+        <postreq class="- topic/section task/postreq " id="unique_7_Connect_42_postreq_e3f_bqf_wxb" nd:nd-id="postreq_e3f_bqf_wxb">
+            <p class="- topic/p ">Any previously visited workspaces are retained from the parent window; use <image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/11.jpg" id="unique_7_Connect_42_image_lhw_dqf_wxb" nd:nd-id="image_lhw_dqf_wxb" placement="inline"/>and <image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/10.jpg" id="unique_7_Connect_42_image_d2z_2qf_wxb" nd:nd-id="image_d2z_2qf_wxb" placement="inline" width="15px"/> to
+                revisit them. Further navigation to other workspaces in either window, however, is
+                independent of the other window.</p>
+            <p class="- topic/p ">You can close duplicate windows (click <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;47:68" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Tasks/T_opening_a_new_window.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">File</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Close</uicontrol></menucascade>) or the original; the work session remains active as long as one
+                window is open.</p>
+        </postreq>
+    </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_5" type="task"><?ditaot usertext?><linktext class="- topic/linktext ">Opening a Workspace</linktext><?ditaot usershortdesc?><desc class="- topic/desc ">Use the Navigator to open the default workspace for the selected item, then the
+                Workspace Gallery to see and select from a thumbnail display of available
+                workspaces.</desc></link>
+        <link class="- topic/link " href="#unique_6" type="concept"><?ditaot usertext?><linktext class="- topic/linktext ">Tabbed Workspaces</linktext><?ditaot usershortdesc?><desc class="- topic/desc ">Use the tabbed pages capability of your browser to open workspaces, linked
+                workspaces, and Navigator views in new tabs.</desc></link>
+    </related-links>
+</task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="c_tabbed_workspaces" oid="c_tabbed_workspaces" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid " id="d168e892"/><ph class="- topic/ph topic/title-wrapper ">Tabbed Workspaces</ph></title>
+    <shortdesc class="- topic/shortdesc ">Use the tabbed pages capability of your browser to open workspaces, linked
+        workspaces, and Navigator views in new tabs.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata "/>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Browser client </keyword><keyword class="- topic/keyword ">Browser settings
+                        </keyword><keyword class="- topic/keyword ">Workspace properties </keyword><keyword class="- topic/keyword ">Link target
+                        </keyword><keyword class="- topic/keyword ">Navigator item find </keyword><keyword class="- topic/keyword ">Tabbed
+                        Workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid " id="d168e892"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">
+            <dl class="- topic/dl " id="unique_6_Connect_42_dl_att_p4v_xxb" nd:nd-id="dl_att_p4v_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Browser client and browser settings</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">When your browser supports tabbed web pages, the Marvel Enterprise Portal
+                            browser client uses the browser's tab settings to determine how to open
+                            a workspace: When tabs are enabled, the workspace is opened in a new
+                            tab. You can set the properties of a workspace or the target of a
+                            workspace link to always open in a new tab, or you can open a workspace
+                            in a new tab by holding down the <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift</cmdname> keys
+                            while selecting the workspace with a mouse click. Then use the
+                                <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Tab</cmdname> keys to switch focus to the next
+                            tabbed workspace.</p>
+                        <p class="- topic/p ">The desktop client and Java Web Start client use these same features to
+                            open a workspace, but it is always opened in a new window.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_6_Connect_42_dl_lzr_54v_xxb" nd:nd-id="dl_lzr_54v_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Workspace properties</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">Every Marvel Enterprise Portal workspace has properties that control the
+                            access and method of display when it is opened. The workspace will open
+                            in a new tab on browsers that are set to use tabbed pages when <image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/12.jpg" id="unique_6_Connect_42_image_ykq_bbq_vxb" nd:nd-id="image_ykq_bbq_vxb" placement="inline" width="15px"/><uicontrol class="+ topic/ph ui-d/uicontrol ">Always open workspace in new
+                                window</uicontrol> is enabled.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_6_Connect_42_dl_sxv_x4v_xxb" nd:nd-id="dl_sxv_x4v_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Link target</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p ">The link wizard Target Workspace page has an option to <image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/12.jpg" id="unique_6_Connect_42_image_nwy_y4v_xxb" nd:nd-id="image_nwy_y4v_xxb" placement="inline" width="15px"/><uicontrol class="+ topic/ph ui-d/uicontrol ">Always open target workspace in
+                                new window</uicontrol>. It shows in the link wizard Parameters page
+                            as <image class="- topic/image " dita-ot:image-width="12" dita-ot:image-height="12" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/13.jpg" id="unique_6_Connect_42_image_a4y_pbq_vxb" nd:nd-id="image_a4y_pbq_vxb" placement="inline"/>
+                            <i class="+ topic/ph hi-d/i ">openTargetInNewWindow</i>. When enabled, this option opens the
+                            targeted workspace in a new tab if you are logged on from a tab-enabled
+                            browser.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl class="- topic/dl " id="unique_6_Connect_42_dl_amw_bpv_xxb" nd:nd-id="dl_amw_bpv_xxb">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Navigator item find</dt>
+                    <dd class="- topic/dd ">
+                        <p class="- topic/p "><image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/14.jpg" id="unique_6_Connect_42_image_ztl_2cq_vxb" nd:nd-id="image_ztl_2cq_vxb" placement="inline" width="15px"/><uicontrol class="+ topic/ph ui-d/uicontrol ">Find</uicontrol> in the Navigator toolbar
+                            enables you to locate any Navigator item using simple or advanced search
+                            criteria. The Find window has an option to <image class="- topic/image " height="15px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/12.jpg" id="unique_6_Connect_42_image_hxq_dpv_xxb" nd:nd-id="image_hxq_dpv_xxb" placement="inline" width="15px"/><uicontrol class="+ topic/ph ui-d/uicontrol ">Open workspace in new
+                                window</uicontrol> that will open the default workspace for the
+                            found Navigator item in a new tab if you are logged on from a
+                            tab-enabled browser.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+        </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">On demand</b></p>
+        <p class="- topic/p ">You can open a workspace in a new tab from any context.</p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="t_tabbed_workspaces" oid="t_tabbed_workspaces" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid " id="d168e1023"/><ph class="- topic/ph topic/title-wrapper "> Open a Workspace</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open a workspace</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator
+                        view</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid " id="d168e1023"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "/>
+        <steps-unordered class="- topic/ul task/steps-unordered " id="unique_8_Connect_42_steps-unordered_nsn_hqv_xxb" nd:nd-id="steps-unordered_nsn_hqv_xxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click </cmdname>a Navigator item to open its default
+                    workspace.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <image class="- topic/image " height="10px" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/1.jpg" id="unique_8_Connect_42_image_lgb_lqv_xxb" nd:nd-id="image_lgb_lqv_xxb" placement="inline" width="10px"/><uicontrol class="+ topic/ph ui-d/uicontrol ">Workspace gallery</uicontrol> and <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl +
+                        Shift + click</cmdname> the workspace.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Right-click the active Navigator item, point to
+                        <uicontrol class="+ topic/ph ui-d/uicontrol ">Workspace</uicontrol>, and <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift +
+                        click</cmdname> the workspace that you want to open.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;33:35" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Tasks/T_Open%20a%20Workspace.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">View</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Workspace</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "> Ctrl + Shift + click</uicontrol></menucascade> the workspace that you want to open.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="T_link_to_a_workspace" oid="T_link_to_a_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid " id="d168e1108"/><ph class="- topic/ph topic/title-wrapper "> Link to a Workspace</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Link to a workspaceTabbed workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Link to a workspace</keyword><keyword class="- topic/keyword ">Tabbed
+                        workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid " id="d168e1108"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "/>
+        <steps-unordered class="- topic/ul task/steps-unordered " id="unique_9_Connect_42_steps-unordered_sxd_3rv_xxb" nd:nd-id="steps-unordered_sxd_3rv_xxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click</cmdname> the link anchor.</cmd>
+                <info class="- topic/itemgroup task/info ">If there are multiple choices, click the one you want.</info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Right-click the source of a defined link (Navigator item, table view row, pie
+                    chart slice, bar chart bar, plot chart point, area chart point), point to
+                        <uicontrol class="+ topic/ph ui-d/uicontrol ">Link to</uicontrol>, and <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click</cmdname>
+                    the link name.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="T_open_a_found_navigator_item_at_its_default_workspace" oid="T_open_a_found_navigator_item_at_its_default_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid " id="d168e1171"/><ph class="- topic/ph topic/title-wrapper ">Open a Found Navigator Item at its Default Workspace</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open a Found Navigator</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
+                        workspace</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid " id="d168e1171"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps " id="unique_10_Connect_42_steps_dhl_tsv_xxb" nd:nd-id="steps_dhl_tsv_xxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Navigator view toolbar, click <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/14.jpg" id="unique_10_Connect_42_image_mjp_rsv_xxb" nd:nd-id="image_mjp_rsv_xxb" placement="inline" width="10"/>
+                    <uicontrol class="+ topic/ph ui-d/uicontrol ">Find</uicontrol>, enter the find criteria and click
+                        <uicontrol class="+ topic/ph ui-d/uicontrol ">Find</uicontrol>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Point to a row and <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click</cmdname> from the list of
+                    Navigator items that is displayed in the Find results area to open the default
+                    workspace for that Navigator item in a new tab.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="T_open_a_navigator_view_at_its_default_workspace" oid="T_open_a_navigator_view_at_its_default_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid " id="d168e1233"/><ph class="- topic/ph topic/title-wrapper ">Open a Navigator View at its Default Workspace</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open a  Navigator view</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
+                        workspace</keyword><keyword class="- topic/keyword "> Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid " id="d168e1233"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "/>
+        <steps-unordered class="- topic/ul task/steps-unordered " id="unique_11_Connect_42_steps-unordered_bjb_mtv_xxb" nd:nd-id="steps-unordered_bjb_mtv_xxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In the Navigator view toolbar, click the <uicontrol class="+ topic/ph ui-d/uicontrol ">View</uicontrol>
+                    <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/26.jpg" id="unique_11_Connect_42_image_dxt_4tv_xxb" nd:nd-id="image_dxt_4tv_xxb" placement="inline" width="10"/>
+                    list box and <cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click</cmdname> the Navigator view.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;25:35" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Tasks/T_open_navigator_view_default_workspace.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">View</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Navigator View</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "><cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click</cmdname>
+                        </uicontrol></menucascade>the Navigator view. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "><cmdname class="+ topic/keyword sw-d/cmdname ">Ctrl + Shift + click </cmdname>a Navigator tab.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="C_tabbed_workspaces_troubleshooting" oid="C_tabbed_workspaces_troubleshooting" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid " id="d168e1311"/><ph class="- topic/ph topic/title-wrapper ">Troubleshooting</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="New window Troubleshooting Tabbed workspaces Open a Navigator view" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">New window Troubleshooting</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator view</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid " id="d168e1311"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">If the workspace or Navigator view opens in a new window rather than a new tab, review
+            the tab options in your browser to ensure that the tab feature is enabled. If you are
+            using Microsoft Internet Explorer 7, be aware that tabbed workspaces are treated as
+            pop-ups: In the Tabbed Browsing Settings window (<menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;19:75" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/C_tabbed_workspaces_troubleshooting.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Tools</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Internet Options</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">General</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Tabs</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol></menucascade>), <image class="- topic/image " height="15" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/17.jpg" id="unique_12_Connect_42_image_yv1_q5v_xxb" nd:nd-id="image_yv1_q5v_xxb" placement="inline" width="15"/>
+            <uicontrol class="+ topic/ph ui-d/uicontrol ">Always open pop-ups in a new tab</uicontrol> must be selected.</p>
+    </conbody>
+</concept></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="T_refreshing_a_workspace" oid="T_refreshing_a_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid " id="d168e1370"/><ph class="- topic/ph topic/title-wrapper ">Refreshing a Workspace</ph></title>
+    <shortdesc class="- topic/shortdesc ">You can refresh the data that is displayed in the workspace on demand or at a set
+        interval.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Refreshing a Workspace</keyword><keyword class="- topic/keyword ">Refresh a workspace
+                        manually</keyword><keyword class="- topic/keyword ">Set a refresh interval</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid " id="d168e1370"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">The Marvel Enterprise Portal client receives monitoring data from monitoring agents
+                whenever you open a workspace that includes query-based views. The default setting
+                for most predefined workspaces is <i class="+ topic/ph hi-d/i ">On Demand</i>, which means retrieved data
+                remains static until you refresh manually</p>
+        </context>
+        <steps-unordered class="- topic/ul task/steps-unordered " id="unique_13_Connect_42_steps-unordered_qj1_fq1_yxb" nd:nd-id="steps-unordered_qj1_fq1_yxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/36.jpg" id="unique_13_Connect_42_image_er4_3q1_yxb" nd:nd-id="image_er4_3q1_yxb" placement="inline" width="10"/>
+                    <uicontrol class="+ topic/ph ui-d/uicontrol ">Refresh Now</uicontrol> to refresh a workspace manually, .</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;30:41" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Tasks/T_refreshing_a_workspace.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">View</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Refresh Every</uicontrol></menucascade>, and select one of the following to set a refresh interval.</cmd>
+                <choices class="- topic/ul task/choices " id="unique_13_Connect_42_choices_tpb_gr1_yxb" nd:nd-id="choices_tpb_gr1_yxb">
+                    <choice class="- topic/li task/choice "><image class="- topic/image " height="13" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/37.jpg" id="unique_13_Connect_42_image_zbh_nr1_yxb" nd:nd-id="image_zbh_nr1_yxb" placement="inline" width="13"/> 30 seconds</choice>
+                    <choice class="- topic/li task/choice "><image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/18.jpg" id="unique_13_Connect_42_image_r3g_3r1_yxb" nd:nd-id="image_r3g_3r1_yxb" placement="inline" width="10"/> 60 seconds</choice>
+                    <choice class="- topic/li task/choice "><image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/19.jpg" id="unique_13_Connect_42_image_u3j_pr1_yxb" nd:nd-id="image_u3j_pr1_yxb" placement="inline" width="10"/> 5 minutes</choice>
+                    <choice class="- topic/li task/choice "><image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/20.jpg" id="unique_13_Connect_42_image_l31_rr1_yxb" nd:nd-id="image_l31_rr1_yxb" placement="inline" width="10"/> 15 minutes</choice>
+                    <choice class="- topic/li task/choice "><image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/21.jpg" id="unique_13_Connect_42_image_ztn_sr1_yxb" nd:nd-id="image_ztn_sr1_yxb" placement="inline" width="10"/> 60 minutes</choice>
+                    <choice class="- topic/li task/choice ">On Demand</choice>
+                </choices>
+            </step>
+        </steps-unordered>
+        <postreq class="- topic/section task/postreq " id="unique_13_Connect_42_postreq_tg5_5r1_yxb" nd:nd-id="postreq_tg5_5r1_yxb">
+            <note class="- topic/note " id="unique_13_Connect_42_note_npk_vr1_yxb" nd:nd-id="note_npk_vr1_yxb">In order for your refresh settings to persist, you must save
+                the workspace and optionally select <uicontrol class="+ topic/ph ui-d/uicontrol ">Assign as default for this Navigator
+                    item</uicontrol> in the <uicontrol class="+ topic/ph ui-d/uicontrol ">Save Workspace As</uicontrol> dialog.</note>
+            <p class="- topic/p ">If the workspace includes any plot charts or area charts, you can refresh those views
+                independent of the rest of the workspace by editing the Style properties of the
+                plotted area to specify a refresh rate. </p>
+            <p class="- topic/p ">Be aware that the more frequent the automatic refresh, the more network traffic you
+                create. These requests travel from the portal client to the portal server and to the
+                hub monitoring server before reaching the monitoring agent. They might also pass
+                through a remote monitoring server to reach the monitoring agent. The information is
+                returned by the same route.</p>
+        </postreq>
+    </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_14" type="task"><?ditaot usertext?><linktext class="- topic/linktext ">Suspending and Stopping Refresh</linktext><?ditaot usershortdesc?><desc class="- topic/desc ">If the workspace is set to refresh automatically at timed intervals or it includes
+                event status views, you can suspend refreshes to keep the data from changing while
+                you investigate a problem.</desc></link>
+    </related-links>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="T_suspending_and_stopping_refresh" oid="T_suspending_and_stopping_refresh" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid " id="d168e1497"/><ph class="- topic/ph topic/title-wrapper ">Suspending and Stopping Refresh</ph></title>
+    <shortdesc class="- topic/shortdesc ">If the workspace is set to refresh automatically at timed intervals or it includes
+        event status views, you can suspend refreshes to keep the data from changing while you
+        investigate a problem.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="Suspending refreshStopping refreshStop workspace refresh" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Suspending refresh</keyword><keyword class="- topic/keyword ">Stopping
+                        refresh</keyword><keyword class="- topic/keyword ">Stop workspace refresh</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid " id="d168e1497"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">When you open a workspace that includes table or chart views, the Marvel Enterprise
+                Portal receives the most recently sampled monitoring data from the agents. Take one
+                of these steps to suspend data refreshes or to stop receiving the data that
+                populates the workspace.</p>
+        </context>
+        <steps-unordered class="- topic/ul task/steps-unordered " id="unique_14_Connect_42_steps-unordered_slw_bt1_yxb" nd:nd-id="steps-unordered_slw_bt1_yxb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/22.jpg" id="unique_14_Connect_42_image_cwg_vt1_yxb" nd:nd-id="image_cwg_vt1_yxb" placement="inline" width="10"/>
+                    <uicontrol class="+ topic/ph ui-d/uicontrol ">Pause Refresh</uicontrol> to suspend automatic refreshing of the
+                    workspace; click <uicontrol class="+ topic/ph ui-d/uicontrol ">Resume Refresh</uicontrol> to turn on automatic
+                    refresh again.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <image class="- topic/image " height="10" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/24.jpg" id="unique_14_Connect_42_image_okd_zt1_yxb" nd:nd-id="image_okd_zt1_yxb" placement="inline" width="10"/>
+                    <uicontrol class="+ topic/ph ui-d/uicontrol ">Stop</uicontrol> to stop loading the workspace.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+    <related-links class="- topic/related-links ">
+        <link class="- topic/link " href="#unique_13" type="task"><?ditaot usertext?><linktext class="- topic/linktext ">Refreshing a Workspace</linktext><?ditaot usershortdesc?><desc class="- topic/desc ">You can refresh the data that is displayed in the workspace on demand or at a set
+                interval.</desc></link>
+    </related-links>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="T_linking_to_a_workspace" oid="T_linking_to_a_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid " id="d168e1573"/><ph class="- topic/ph topic/title-wrapper ">Linking to a Workspace</ph></title>
+    <shortdesc class="- topic/shortdesc ">Use these steps to link to a workspace that has been targeted from the current
+        Navigator item or view.</shortdesc>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="LinkingLinking to a workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Linking</keyword><keyword class="- topic/keyword ">Linking to a
+                    workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid " id="d168e1573"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">Many monitoring agent products have workspace links available through their
+                predefined workspaces. You can also create and use links to workspaces that follow a
+                logical progression of investigation into performance and operation issues.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open the workspace from where you will launch the link to open the source
+                    workspace.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Do one of the following, depending on where the link originates:</cmd>
+                <choices class="- topic/ul task/choices " id="unique_15_Connect_42_choices_oqy_mz1_yxb" nd:nd-id="choices_oqy_mz1_yxb">
+                    <choice class="- topic/li task/choice ">Right-click the current (highlighted) Navigator item.</choice>
+                    <choice class="- topic/li task/choice ">Click the <image class="- topic/image " height="13" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_15_Connect_42_image_emm_pz1_yxb" nd:nd-id="image_emm_pz1_yxb" placement="inline" width="13"/> link indicator on a table row or the graphic
+                        view, then skip to step 4. A dimmed link indicator means the link is not
+                        available from that row.</choice>
+                    <choice class="- topic/li task/choice ">Right-click a pie chart slice, bar chart bar, plot chart point, table
+                        row, graphic view icon, or TMS Infrastructure object.</choice>
+                </choices>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">Link To</uicontrol> and click the target workspace in the
+                        <image class="- topic/image " height="13" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/2.jpg" id="unique_15_Connect_42_image_jkp_b1b_yxb" nd:nd-id="image_jkp_b1b_yxb" placement="inline" width="13"/> list. </cmd>
+                <info class="- topic/itemgroup task/info ">The target filter or link expression is used to select the information
+                    displayed in the views of the target workspace. If, instead of the workspace
+                    opening, you get a <msgph class="+ topic/ph sw-d/msgph ">Target not found</msgph> message, the definition of
+                    the target workspace could not be resolved.</info>
+            </step>
+            <step class="- topic/li task/step ">
+                <note class="- topic/note " id="unique_15_Connect_42_note_dsg_d1b_yxb" nd:nd-id="note_dsg_d1b_yxb">If there is more than one workspace you can link to, the
+                    Select Target window opens.</note>
+                <cmd class="- topic/ph task/cmd ">Select the Navigator item for the workspace and click
+                    <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol>.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol> if a message asks you to select a leaf node,
+                    then select an item deeper in the tree hierarchy.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_15_Connect_42_result_nqv_v1b_yxb" nd:nd-id="result_nqv_v1b_yxb">The target workspace is displayed. If the link was defined
+            to open the workspace in a new window, it is opened in its own window. If you are using
+            the browser client and your browser supports tabs, the workspace is in a new tab next to
+            the source workspace.<note class="- topic/note " id="unique_15_Connect_42_note_elf_y1b_yxb" nd:nd-id="note_elf_y1b_yxb">Navigation using <image class="- topic/image " height="15" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/11.jpg" id="unique_15_Connect_42_image_kc5_z1b_yxb" nd:nd-id="image_kc5_z1b_yxb" placement="inline" width="15"/> and
+                    <image class="- topic/image " height="15" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/10.jpg" id="unique_15_Connect_42_image_jzm_1bb_yxb" nd:nd-id="image_jzm_1bb_yxb" placement="inline" width="15"/>
+                to visited workspaces retains the link context. As an example, consider a link to a
+                workspace from a table row. The row from which you linked is remembered when you
+                revisit the target workspace.</note></result>
+    </taskbody>
+</task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="c_view_title_bar_and_toolbar" oid="c_view_title_bar_and_toolbar" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid " id="d168e1679"/><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid " id="d168e1683"/><ph class="- topic/ph topic/title-wrapper ">View Title Bar and Toolbar</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author ">Lisa Adams</author>
+        <metadata class="- topic/metadata ">
+            <keywords class="- topic/keywords ">
+                <opentopic-index:index.entry value="View title bar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">View title bar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid " id="d168e1679"/></opentopic-index:index.entry>
+                <opentopic-index:index.entry value="View toolbar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">View toolbar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid " id="d168e1683"/></opentopic-index:index.entry>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Every workspace view and the Navigator view has a title bar with some or all of these
+                controls.<table class="- topic/table " frame="all" id="unique_16_Connect_42_table_k4y_wcb_yxb" nd:nd-id="table_k4y_wcb_yxb">
+                <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Title bar controls</ph></title>
+                <tgroup align="left" class="- topic/tgroup " cols="2">
+                    <colspec align="center" class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;19:84" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/c_view_title_bar_and_toolbar.dita" style="width:12.9534%;"/>
+                    <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" colwidth="6.72*" xtrc="colspec:2;20:85" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/c_view_title_bar_and_toolbar.dita" style="width:87.0466%;"/>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row " rowsep="1">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1"><image class="- topic/image " dita-ot:image-width="19" dita-ot:image-height="25" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/30.jpg" id="unique_16_Connect_42_image_yl3_xcb_yxb" nd:nd-id="image_yl3_xcb_yxb" placement="inline"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Opens the Properties editor to the properties for the
+                                view.</entry>
+                        </row>
+                        <row class="- topic/row " rowsep="1">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2"><image class="- topic/image " dita-ot:image-width="45" dita-ot:image-height="23" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/31.jpg" id="unique_16_Connect_42_image_djc_yzq_vxb" nd:nd-id="image_djc_yzq_vxb" placement="inline"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Shows or hides the view toolbar. This button does not display if
+                                the view has no toolbar.</entry>
+                        </row>
+                        <row class="- topic/row " rowsep="1">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3"><image class="- topic/image " dita-ot:image-width="16" dita-ot:image-height="16" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/32.jpg" id="unique_16_Connect_42_image_evr_zzq_vxb" nd:nd-id="image_evr_zzq_vxb" placement="inline"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">Splits the Navigator horizontally to create a new workspace
+                                view.</entry>
+                        </row>
+                        <row class="- topic/row " rowsep="1">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4"><image class="- topic/image " dita-ot:image-width="24" dita-ot:image-height="20" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/33.jpg" id="unique_16_Connect_42_image_avm_11r_vxb" nd:nd-id="image_avm_11r_vxb" placement="inline"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">Maximizes a view for a closer look. Click <uicontrol class="+ topic/ph ui-d/uicontrol ">Restore
+                                </uicontrol>to return to the original size. You can save the
+                                workspace with the view maximized.</entry>
+                        </row>
+                        <row class="- topic/row " rowsep="1">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5"><image class="- topic/image " dita-ot:image-width="23" dita-ot:image-height="22" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/35.jpg" id="unique_16_Connect_42_image_fwk_b1r_vxb" nd:nd-id="image_fwk_b1r_vxb" placement="inline"/></entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Removes a view. There is no undo for this action except to open a
+                                different workspace and answer No when a message asks if you want to
+                                save the workspace; -OR- Select <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;47:78" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Concepts/c_view_title_bar_and_toolbar.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">File</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Save As</uicontrol></menucascade> to keep the original workspace with the view intact
+                                and create a new workspace without this view.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+        <p class="- topic/p ">Most view types have a toolbar for performing specific actions in the view. A common tool
+            is <image class="- topic/image " height="15" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/14.jpg" id="unique_16_Connect_42_image_xzq_q1r_vxb" nd:nd-id="image_xzq_q1r_vxb" placement="inline" width="15"/><uicontrol class="+ topic/ph ui-d/uicontrol ">Find</uicontrol>, which is available for finding values in the browser
+            view, notepad view, table view, message log view, and the event console views. Another
+            tool, <image class="- topic/image " height="15" href="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Images/40.jpg" id="unique_16_Connect_42_image_vj3_51r_vxb" nd:nd-id="image_vj3_51r_vxb" placement="inline" width="15"/>
+            <uicontrol class="+ topic/ph ui-d/uicontrol ">Time span</uicontrol>, is for specifying the time period to be displayed in a
+            query-based view when historical data is being collected for it.</p>
+    </conbody>
+</concept><opentopic-index:index.groups class="- index/groups " id="d168e1778"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">B</opentopic-index:label><opentopic-index:index.entry value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1500936338"><keyword class="- topic/keyword ">Browser client </keyword><keyword class="- topic/keyword ">Browser settings
+                        </keyword><keyword class="- topic/keyword ">Workspace properties </keyword><keyword class="- topic/keyword ">Link target
+                        </keyword><keyword class="- topic/keyword ">Navigator item find </keyword><keyword class="- topic/keyword ">Tabbed
+                        Workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid "><oxy:index-link href="#d168e892" class="- index/link ">
+          [d168e892]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">L</opentopic-index:label><opentopic-index:index.entry value="Link to a workspaceTabbed workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid340601535"><keyword class="- topic/keyword ">Link to a workspace</keyword><keyword class="- topic/keyword ">Tabbed
+                        workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid "><oxy:index-link href="#d168e1108" class="- index/link ">
+          [d168e1108]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="LinkingLinking to a workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1813576649"><keyword class="- topic/keyword ">Linking</keyword><keyword class="- topic/keyword ">Linking to a
+                    workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid "><oxy:index-link href="#d168e1573" class="- index/link ">
+          [d168e1573]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">N</opentopic-index:label><opentopic-index:index.entry value="New window Troubleshooting Tabbed workspaces Open a Navigator view" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2034287995"><keyword class="- topic/keyword ">New window Troubleshooting</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator view</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid "><oxy:index-link href="#d168e1311" class="- index/link ">
+          [d168e1311]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">O</opentopic-index:label><opentopic-index:index.entry value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1445076353"><keyword class="- topic/keyword ">Open a Found Navigator</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
+                        workspace</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid "><oxy:index-link href="#d168e1171" class="- index/link ">
+          [d168e1171]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1847264680"><keyword class="- topic/keyword ">Open a  Navigator view</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
+                        workspace</keyword><keyword class="- topic/keyword "> Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid "><oxy:index-link href="#d168e1233" class="- index/link ">
+          [d168e1233]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1620233927"><keyword class="- topic/keyword ">Open a workspace</keyword><keyword class="- topic/keyword "> Tabbed
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator
+                        view</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid "><oxy:index-link href="#d168e1023" class="- index/link ">
+          [d168e1023]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open new windowDashboard views" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1028482914"><keyword class="- topic/keyword ">Open new window</keyword><keyword class="- topic/keyword ">Dashboard
+                    views</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid "><oxy:index-link href="#d168e766" class="- index/link ">
+          [d168e766]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open workspacesMove workspacesChange workspace order" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-231587538"><keyword class="- topic/keyword ">Open workspaces</keyword><keyword class="- topic/keyword ">Move
+                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid "><oxy:index-link href="#d168e605" class="- index/link ">
+          [d168e605]
+        </oxy:index-link><oxy:index-link href="#d168e649" class="- index/link ">
+          [d168e649]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">R</opentopic-index:label><opentopic-index:index.entry value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1893398700"><keyword class="- topic/keyword ">Refreshing a Workspace</keyword><keyword class="- topic/keyword ">Refresh a workspace
+                        manually</keyword><keyword class="- topic/keyword ">Set a refresh interval</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid "><oxy:index-link href="#d168e1370" class="- index/link ">
+          [d168e1370]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">S</opentopic-index:label><opentopic-index:index.entry value="Suspending refreshStopping refreshStop workspace refresh" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-401770920"><keyword class="- topic/keyword ">Suspending refresh</keyword><keyword class="- topic/keyword ">Stopping
+                        refresh</keyword><keyword class="- topic/keyword ">Stop workspace refresh</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid "><oxy:index-link href="#d168e1497" class="- index/link ">
+          [d168e1497]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">V</opentopic-index:label><opentopic-index:index.entry value="View title bar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1336559734">View title bar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid "><oxy:index-link href="#d168e1679" class="- index/link ">
+          [d168e1679]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="View toolbar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-499981542">View toolbar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid "><oxy:index-link href="#d168e1683" class="- index/link ">
+          [d168e1683]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">W</opentopic-index:label><opentopic-index:index.entry value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid580880944"><keyword class="- topic/keyword ">Workspace Views</keyword><keyword class="- topic/keyword ">Workspace
+                        Properties</keyword><keyword class="- topic/keyword ">Workspace Links</keyword><keyword class="- topic/keyword ">Workspace
+                        Navigator level</keyword><keyword class="- topic/keyword ">Workspace
+                    Characteristics</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid "><oxy:index-link href="#d168e231" class="- index/link ">
+          [d168e231]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid466561404">workspaces</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid "><oxy:index-link href="#d168e360" class="- index/link ">
+          [d168e360]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="WorkspacesUsing workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2114299678"><keyword class="- topic/keyword ">Workspaces</keyword><keyword class="- topic/keyword ">Using
+                    workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid "><oxy:index-link href="#d168e191" class="- index/link ">
+          [d168e191]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>

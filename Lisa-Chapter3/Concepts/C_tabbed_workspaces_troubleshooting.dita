@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_tabbed_workspaces_troubleshooting">
+    <title>Troubleshooting</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>New window Troubleshooting</keyword><keyword> Tabbed
+                        workspaces</keyword><keyword> Open a Navigator view</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>If the workspace or Navigator view opens in a new window rather than a new tab, review
+            the tab options in your browser to ensure that the tab feature is enabled. If you are
+            using Microsoft Internet Explorer 7, be aware that tabbed workspaces are treated as
+            pop-ups: In the Tabbed Browsing Settings window (<menucascade>
+                <uicontrol>Tools</uicontrol>
+                <uicontrol>Internet Options</uicontrol>
+                <uicontrol>General</uicontrol>
+                <uicontrol>Tabs</uicontrol>
+                <uicontrol>Settings</uicontrol>
+            </menucascade>), <image href="../Images/17.jpg" width="15" height="15"
+                id="image_yv1_q5v_xxb"/>
+            <uicontrol>Always open pop-ups in a new tab</uicontrol> must be selected.</p>
+    </conbody>
+</concept>

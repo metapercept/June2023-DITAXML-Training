@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_removing_an_offline_mgd_sys_nav_item_next_steps">
+    <title>What to do Next</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Removing an offline managed system Navigator
+                        item</keyword><keyword>Removing an offline managed system
+                    </keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>If this is a custom Navigator view with only one managed system, it is possible for the
+            item to continue to appear in the view. This is possible when the item was added using
+            drag-and-drop in the Navigator editor. Use the Navigator editor to manually remove the
+            item, described in Deleting a Navigator view or item. If the managed system comes online
+            again, it does not appear in the custom Navigator view. If you want it to appear there,
+            assign the managed system in the Navigator item properties as described in Navigator
+            item properties.</p>
+    </conbody>
+</concept>

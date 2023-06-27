@@ -19,7 +19,7 @@
             <p>You can also can save the workspace with the <uicontrol>Navigator</uicontrol>
                 minimized.</p>
         </context>
-        <steps>
+        <steps-unordered id="steps-unordered_qsc_xnc_yxb">
             <step>
                 <cmd>Click the <image href="../Images/I_expand_bar_icon.png" width="10" height="10"
                         id="image_xgz_lfx_wxb"/>
@@ -42,6 +42,6 @@
                     restoring the original by right-clicking <uicontrol>&lt;Navigator name>
                     </uicontrol> to see and select from a list of available Navigator views.</info>
             </step>
-        </steps>
+        </steps-unordered>
     </taskbody>
 </task>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_opening_a_workspace">
+    <title>Procedure</title>
+    <shortdesc/>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Open workspaces</keyword><keyword>Move
+                        workspaces</keyword><keyword>Change workspace order</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <prereq id="prereq_wfh_ygv_xxb"/>
+        <context>
+            <p>Click the item name or icon in the Navigator to open the default workspace:<ul
+                    id="ul_djs_lhv_xxb">
+                    <li>Physical view: <image href="../Images/3.jpg" width="10" height="10"
+                            id="image_g3k_xhv_xxb"/>, <image href="../Images/4.jpg" width="10"
+                            height="10" id="image_thh_p3v_xxb"/>, <image href="../Images/6.jpg"
+                            width="10" height="10" id="image_bxj_q3v_xxb"/>, <image
+                            href="../Images/5.jpg" width="10" height="10" id="image_jlg_r3v_xxb"/>,
+                        or <image href="../Images/7.jpg" width="10" height="10"
+                            id="image_pvk_s3v_xxb"/>. </li>
+                    <li>Logical view or other custom Navigator view: <image href="../Images/4.jpg"
+                            width="10" height="10" id="image_hjr_v3v_xxb"/>.<p>The default workspace
+                            for that item is displayed, replacing the workspace of the previously
+                            selected item. If the workspace shows no data for a chart or table view,
+                            it means there is no data to display. This can occur with monitoring
+                            data that is not constantly generated, such as Archive Errors, which
+                            collects data only when archive errors occur.</p></li>
+                </ul></p>
+            <p>To open another workspace associated with the Navigator item:</p>
+        </context>
+        <steps id="steps_hks_2jv_xxb">
+            <step>
+                <cmd>Click <image href="../Images/1.jpg" width="10" height="10"
+                        id="image_klj_hjv_xxb"/>
+                    <uicontrol>Workspace gallery</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click the thumbnail graphic of the workspace to open.</cmd>
+                <info>
+                    <note id="note_pwh_sjv_xxb"> To open the workspace in a new window instead of
+                        replacing the current workspace, use <cmdname>Ctrl + Shift +</cmdname> click
+                        the thumbnail graphic.</note>
+                </info>
+                <info>If this is a new installation, you will see the splash screen instead of a
+                    thumbnail version of the workspace in the gallery until you or another user who
+                    is logged on to the same Marvel Enterprise Portal Server opens the workspace for
+                    the first time. A <image href="../Images/8.jpg" width="10" height="10"
+                        id="image_kg4_wjv_xxb"/> check mark by a workspace name indicates that it is
+                    the default workspace for this Navigator item. You can reorder the workspaces in
+                    your copy of the gallery by clicking a thumbnail graphic and dragging it on top
+                    of the workspace to swap positions with.</info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="../Concepts/C_tabbed_workspaces.dita">
+            <linktext>Tabbed Workspaces</linktext>
+            <desc>Use the tabbed pages capability of your browser to open workspaces, linked
+                workspaces, and Navigator views in new tabs.</desc>
+        </link>
+        <link href="T_opening_a_new_window.dita">
+            <linktext>Opening a New Window</linktext>
+            <desc>Have multiple workspaces open on your desktop at the same time by opening multiple
+                Tivoli Enterprise Portal windows.</desc>
+        </link>
+    </related-links>
+</task>

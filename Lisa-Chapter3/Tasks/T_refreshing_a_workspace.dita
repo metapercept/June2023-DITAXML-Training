@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_refreshing_a_workspace">
+    <title>Refreshing a Workspace</title>
+    <shortdesc>You can refresh the data that is displayed in the workspace on demand or at a set
+        interval.</shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Refreshing a Workspace</keyword><keyword>Refresh a workspace
+                        manually</keyword><keyword>Set a refresh interval</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>The Marvel Enterprise Portal client receives monitoring data from monitoring agents
+                whenever you open a workspace that includes query-based views. The default setting
+                for most predefined workspaces is <i>On Demand</i>, which means retrieved data
+                remains static until you refresh manually</p>
+        </context>
+        <steps-unordered id="steps-unordered_qj1_fq1_yxb">
+            <step>
+                <cmd>Click <image href="../Images/36.jpg" width="10" height="10"
+                        id="image_er4_3q1_yxb"/>
+                    <uicontrol>Refresh Now</uicontrol> to refresh a workspace manually, .</cmd>
+            </step>
+            <step>
+                <cmd>Click <menucascade>
+                        <uicontrol>View</uicontrol>
+                        <uicontrol>Refresh Every</uicontrol>
+                    </menucascade>, and select one of the following to set a refresh interval.</cmd>
+                <choices id="choices_tpb_gr1_yxb">
+                    <choice><image href="../Images/37.jpg" width="13" height="13"
+                            id="image_zbh_nr1_yxb"/> 30 seconds</choice>
+                    <choice><image href="../Images/18.jpg" width="10" height="10"
+                            id="image_r3g_3r1_yxb"/> 60 seconds</choice>
+                    <choice><image href="../Images/19.jpg" width="10" height="10"
+                            id="image_u3j_pr1_yxb"/> 5 minutes</choice>
+                    <choice><image href="../Images/20.jpg" width="10" height="10"
+                            id="image_l31_rr1_yxb"/> 15 minutes</choice>
+                    <choice><image href="../Images/21.jpg" width="10" height="10"
+                            id="image_ztn_sr1_yxb"/> 60 minutes</choice>
+                    <choice>On Demand</choice>
+                </choices>
+            </step>
+        </steps-unordered>
+        <postreq id="postreq_tg5_5r1_yxb">
+            <note id="note_npk_vr1_yxb">In order for your refresh settings to persist, you must save
+                the workspace and optionally select <uicontrol>Assign as default for this Navigator
+                    item</uicontrol> in the <uicontrol>Save Workspace As</uicontrol> dialog.</note>
+            <p>If the workspace includes any plot charts or area charts, you can refresh those views
+                independent of the rest of the workspace by editing the Style properties of the
+                plotted area to specify a refresh rate. </p>
+            <p>Be aware that the more frequent the automatic refresh, the more network traffic you
+                create. These requests travel from the portal client to the portal server and to the
+                hub monitoring server before reaching the monitoring agent. They might also pass
+                through a remote monitoring server to reach the monitoring agent. The information is
+                returned by the same route.</p>
+        </postreq>
+    </taskbody>
+    <related-links>
+        <link href="T_suspending_and_stopping_refresh.dita">
+            <linktext>Suspending and Stopping Refresh</linktext>
+            <desc>If the workspace is set to refresh automatically at timed intervals or it includes
+                event status views, you can suspend refreshes to keep the data from changing while
+                you investigate a problem.</desc>
+        </link>
+    </related-links>
+</task>

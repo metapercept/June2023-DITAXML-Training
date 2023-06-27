@@ -6,12 +6,13 @@
         <author>Lisa Adams</author>
         <metadata>
             <keywords>
-                <indexterm>workspaces</indexterm>
+                <indexterm><keyword>Workspaces</keyword><keyword>Using
+                    workspaces</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
     <conbody>
-        <p>The workspace is the working area of the Tivoli Enterprise Portal window, divided into
+        <p>The workspace is the working area of the Marvel Enterprise Portal window, divided into
             panes to show different types of views. You can start monitoring activity and system
             status immediately with the predefined workspaces.</p>
         <p>You can tailor your own workspaces to give you summary overviews or to look at specific

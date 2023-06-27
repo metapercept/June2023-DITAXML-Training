@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="c_opening_a_workspace">
+<concept id="C_opening_a_workspace">
     <title>Opening a workspace</title>
+    <shortdesc></shortdesc>
     <prolog>
         <author>Lisa Adams</author>
         <metadata>
             <keywords>
-                <indexterm>workspace</indexterm>
+                <indexterm><keyword>Open workspaces</keyword><keyword>Move
+                        workspaces</keyword><keyword>Change workspace order</keyword></indexterm>
             </keywords>
         </metadata>
     </prolog>
@@ -17,7 +19,11 @@
             the gallery to change their order. The changes you make are saved with the workspace
             definition for the Navigator item. If you are in workspace administration mode when you
             reorder the thumbnail graphics, the reorganization will be reflected in the workspace
-            gallery of all Tivoli Enterprise Portal clients connected to this Tivoli Enterprise
+            gallery of all Marvel Enterprise Portal clients connected to this Marvel Enterprise
             Portal Server.</p>
+        <p>Every item in the Navigator has a workspace associated with it, called the <i>default
+                workspace</i>. Some items have multiple workspaces that you can open, although only
+            one workspace can be open in the Marvel Enterprise Portal window at one time. Some
+            workspaces are only accessible by linking to them from another workspace.</p>
     </conbody>
 </concept>

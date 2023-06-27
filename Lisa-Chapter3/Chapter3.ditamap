@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Using  Workspaces</title>
+    <title>Workspaces</title>
     <topicref href="Concepts/C_Using_Workspaces.dita">
         <topicref href="Concepts/C_workspace_characteristics.dita"/>
         <topicref href="Concepts/C_org_of_predef_ws.dita"/>
     </topicref>
-    <topicref href="Concepts/C_opening_a_workspace.dita"/>
-    <topicref href="Concepts/C_opening_a_new_window.dita">
-        <topicref href="Tasks/t_opening_a_new_window.dita"/>
+    <topicref href="Concepts/C_opening_a_workspace.dita">
+        <topicref href="Tasks/T_opening_a_workspace.dita"/>
     </topicref>
+    <topicref href="Tasks/T_opening_a_new_window.dita"/>
     <topicref href="Concepts/C_tabbed_workspaces.dita">
-        <topicref href="Tasks/T_tabbed_workspaces.dita"/>
+        <topicref href="Tasks/T_Open%20a%20Workspace.dita"/>
+        <topicref href="Tasks/T_link_to_a_workspace.dita"/>
+        <topicref href="Tasks/T_open_found_navigator_default_workspace.dita"/>
+        <topicref href="Tasks/T_open_navigator_view_default_workspace.dita"/>
+        <topicref href="Concepts/C_tabbed_workspaces_troubleshooting.dita"/>
     </topicref>
-    <topicref href="Concepts/C_refreshing_a_workspace.dita">
-        <topicref href="Tasks/t_set_refresh_interval.dita"/>
-    </topicref>
-    <topicref href="Concepts/C_suspending_and_stopping_refresh.dita">
-        <topicref href="Tasks/t_sus_and_stop_refr.dita"/>
-    </topicref>
-    <topicref href="Concepts/C_linking_to_a_workspace.dita">
-        <topicref href="Tasks/t_linking_to_a_workspace.dita"/>
-    </topicref>
+    <topicref href="Tasks/T_refreshing_a_workspace.dita"/>
+    <topicref href="Tasks/T_suspending_and_stopping_refresh.dita"/>
+    <topicref href="Tasks/T_linking_to_a_workspace.dita"/>
     <topicref href="Concepts/c_view_title_bar_and_toolbar.dita"/>
 </map>

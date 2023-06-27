@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_removing_an_offline_managed_system_navigator_item">
+    <title>Removing an Offline Managed System Navigator Item</title>
+    <shortdesc>Use the Managed System Status workspace to clear offline managed systems from the
+        Navigator view.</shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Removing an offline managed system Navigator
+                        item</keyword><keyword>Removing an offline managed system
+                    </keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>When a monitoring agent goes offline or its host name gets changed, its branch is dimmed
+            in the Navigator, as in the following example, and its status is shown as *OFFLINE in
+            any table view that uses the Current Managed Systems status query.<table frame="all"
+                id="table_cvj_5mw_vxb">
+                <title>Hierarchy of monitored enterprise</title>
+                <tgroup cols="6">
+                    <colspec colname="c1" colnum="1" colwidth="1.08*"/>
+                    <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="1.14*"/>
+                    <colspec colname="c2" colnum="4" colwidth="6.56*"/>
+                    <colspec colname="newCol5" colnum="5" colwidth="9.14*"/>
+                    <colspec colname="newCol6" colnum="6" colwidth="7.84*"/>
+                    <tbody>
+                        <row>
+                            <entry><image href="../Images/I_enterprise_bullet_type.png"
+                                    id="image_epg_zmw_vxb"/></entry>
+                            <entry namest="newCol2" nameend="newCol6">
+                                <p><b>Enterprise</b></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry><image href="../Images/I_platform_bullet_type.png"
+                                    id="image_kwr_cnw_vxb"/></entry>
+                            <entry namest="newCol3" nameend="newCol6">
+                                <p><b>Windows Systems</b>
+                                </p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_system_bullet_type.png"
+                                    id="image_lmw_dnw_vxb"/></entry>
+                            <entry namest="c2" nameend="newCol6">
+                                <p><b>MyComputer</b></p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry namest="c2" nameend="newCol6"><image
+                                    href="../Images/I_universal_agent_icon.png"
+                                    id="image_edf_cpc_yxb"/>
+                                <b>Universal Agent</b></entry>
+                        </row>
+                        <row>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry><image href="../Images/I_agent_bullet_type.png"
+                                    id="image_nlc_dpc_yxb"/>
+                                <b>Windows OS</b></entry>
+                            <entry namest="newCol5" nameend="newCol6"/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+    </conbody>
+</concept>

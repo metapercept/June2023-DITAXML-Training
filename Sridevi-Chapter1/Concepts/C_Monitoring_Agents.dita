@@ -5,11 +5,10 @@
     <shortdesc></shortdesc>
     <prolog>
         <author>Sridevi</author>
-        <author>Abrar Ahmed Syed</author>
         <metadata>
             <audience/>
             <keywords>
-                <indexterm><keyword>MQSI Agent</keyword><keyword>Monitoring
+                <indexterm><keyword>MQSI Agent </keyword><keyword>Monitoring
                         Agents</keyword><keyword>Threshold</keyword></indexterm>
             </keywords>
         </metadata>
@@ -22,23 +21,37 @@
         <p>Some agents also have subagents. In such instances the agent is the managing agent. For
             example, the WebSphere® MQ Integrator Series agent has MQSI Broker subagents. Subagents
             are displayed in the Navigator below the managing agent and its attribute groups.</p>
-        <p><b>MQSI Agent- KQIA</b></p>
-        <p>
-            <ol id="ol_jkg_132_vxb">
-                <li>MQSI Components</li>
-                <li>Product Events</li>
-                <li>MQSI Broker MQSIBroker1::KQIB<ol id="ol_rt2_c32_vxb">
-                        <li>Broker Events</li>
-                        <li>Flow Events</li>
-                        <li>Broker Information</li>
-                        <li>Broker Statistics</li>
-                        <li>Execution Group Statistics</li>
-                        <li>Message Flow Statistics</li>
-                        <li>Neighbors</li>
-                        <li>Topics</li>
-                    </ol></li>
-            </ol>
-        </p>
+        <p><image href="../../Abrar-Chapter2/Images/I_system_bullet_type.png" width="10" height="10"
+                id="image_sbg_sjc_yxb"/> MQSI Agent- KQIA<ul id="ul_jx1_3jc_yxb">
+                <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png" width="10"
+                        height="10" id="image_xd3_tjc_yxb"/>MQSI Components</li>
+                <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png" width="10"
+                        height="10" id="image_rf5_tjc_yxb"/> Product Events</li>
+                <li><image href="../../Abrar-Chapter2/Images/I_agent_bullet_type.png" width="10"
+                        height="10" id="image_fvh_vjc_yxb"/> MQSI Broker MQSIBroker1::KQIB<ul
+                        id="ul_ymm_njc_yxb">
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_thp_xjc_yxb"/> Broker Events</li>
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_vpw_xjc_yxb"/> Flow Events</li>
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_ay1_yjc_yxb"/> Broker
+                            Information</li>
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_ax2_yjc_yxb"/> Broker
+                            Statistics</li>
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_us3_yjc_yxb"/> Execution Group
+                            Statistics</li>
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_i2t_yjc_yxb"/> Message Flow
+                            Statistics</li>
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_abx_yjc_yxb"/> Neighbors</li>
+                        <li><image href="../../Abrar-Chapter2/Images/I_resource_bullet_type.png"
+                                width="10" height="10" id="image_at1_zjc_yxb"/> Topics</li>
+                    </ul></li>
+            </ul></p>
         <p>The agent gathers the current values of the attributes (elements) specified in a view.
             Gathered attribute values can also be tested against a threshold and display an event
             indicator when conditions exceed the threshold. Some agents have fewer than 100

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_open_a_found_navigator_item_at_its_default_workspace">
+    <title>Open a Found Navigator Item at its Default Workspace</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Open a Found Navigator</keyword><keyword> Tabbed
+                        workspaces</keyword><keyword> Open a Navigator at default
+                        workspace</keyword><keyword>Default workspace</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context/>
+        <steps id="steps_dhl_tsv_xxb">
+            <step>
+                <cmd>In the Navigator view toolbar, click <image href="../Images/14.jpg" width="10"
+                        height="10" id="image_mjp_rsv_xxb"/>
+                    <uicontrol>Find</uicontrol>, enter the find criteria and click
+                        <uicontrol>Find</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd> Point to a row and <cmdname>Ctrl + Shift + click</cmdname> from the list of
+                    Navigator items that is displayed in the Find results area to open the default
+                    workspace for that Navigator item in a new tab.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

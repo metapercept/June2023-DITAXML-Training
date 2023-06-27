@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_logical_and_custom_navigator_views">
+    <title>Logical and Custom Navigator Views</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Logical Navigator Views</keyword><keyword>Custom Navigator
+                        Views</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>A custom Navigator view can be designed to show the same managed system more than once.
+            If you have a managed system repeated somewhere else in the Navigator view, when you use
+            the expand feature on one Navigator item for that managed system, any other items for
+            that managed system will expand at the same time.</p>
+    </conbody>
+</concept>

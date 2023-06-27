@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="C_situations">
+    <title>Situations</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Abrar Ahmed Syed</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Situation editor</keyword><keyword>Situations
+                    </keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <conbody>
+        <p>In addition to providing a map of your enterprise, the Navigator can alert you of
+            changing conditions in the systems you are monitoring. When a condition changes, the
+            associated item is marked with an icon:<dl id="dl_fw1_5vn_xxb">
+                <dlentry>
+                    <dt><image href="../Images/I_Fatal.png" width="30" height="30"
+                            id="image_wwg_zzn_xxb"/></dt>
+                    <dd><b>Fatal</b></dd>
+                </dlentry>
+            </dl><dl id="dl_sf3_wvn_xxb">
+                <dlentry>
+                    <dt><image href="../Images/I_critical.png" width="30" height="30"
+                            id="image_zgl_b14_xxb"/></dt>
+                    <dd><b>Critical</b></dd>
+                </dlentry>
+                <dlentry>
+                    <dt><image href="../Images/Minor%20Error.png" width="30" height="30"
+                            id="image_hjp_d14_xxb"/></dt>
+                    <dd><b>Minor</b></dd>
+                </dlentry>
+                <dlentry>
+                    <dt><image href="../Images/Warning%20Error.jpeg" width="30" height="30"
+                            id="image_r41_h14_xxb"/></dt>
+                    <dd><b>Warning</b></dd>
+                </dlentry>
+                <dlentry>
+                    <dt><image href="../Images/Harmless%20Error.png" width="30" height="30"
+                            id="image_zqw_h14_xxb"/></dt>
+                    <dd><b>Harmless</b></dd>
+                </dlentry>
+                <dlentry>
+                    <dt><image href="../Images/I_informational.png" width="30" height="30"
+                            id="image_hwj_l14_xxb"/></dt>
+                    <dd><b>Informational</b></dd>
+                </dlentry>
+                <dlentry>
+                    <dt><image href="../Images/I_unknown.png" width="30" height="30"
+                            id="image_elb_fc4_xxb"/></dt>
+                    <dd><b>Unknown</b></dd>
+                </dlentry>
+            </dl></p>
+        <p>The Navigator places one of these icons, called <i>alert indicator</i> or <i>event
+                indicator</i>, at every level of the hierarchy so you can see an alert even if a
+            Navigator branch is closed.</p>
+        <p>If you see any of these icons in the Navigator now, move the mouse pointer over an event
+            indicator to open a flyover listing of the situations that caused the events at that
+            level of the Navigator and below.</p>
+        <p>Marvel Enterprise Portal runs tests called situations on systems where monitoring agents
+            are installed. When the conditions of a situation have been met, an event occurs and an
+            event indicator is displayed over the applicable items in the Navigator.</p>
+    </conbody>
+</concept>

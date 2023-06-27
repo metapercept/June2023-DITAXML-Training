@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="T_suspending_and_stopping_refresh">
+    <title>Suspending and Stopping Refresh</title>
+    <shortdesc>If the workspace is set to refresh automatically at timed intervals or it includes
+        event status views, you can suspend refreshes to keep the data from changing while you
+        investigate a problem.</shortdesc>
+    <prolog>
+        <author>Lisa Adams</author>
+        <metadata>
+            <keywords>
+                <indexterm><keyword>Suspending refresh</keyword><keyword>Stopping
+                        refresh</keyword><keyword>Stop workspace refresh</keyword></indexterm>
+            </keywords>
+        </metadata>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>When you open a workspace that includes table or chart views, the Marvel Enterprise
+                Portal receives the most recently sampled monitoring data from the agents. Take one
+                of these steps to suspend data refreshes or to stop receiving the data that
+                populates the workspace.</p>
+        </context>
+        <steps-unordered id="steps-unordered_slw_bt1_yxb">
+            <step>
+                <cmd>Click <image href="../Images/22.jpg" width="10" height="10"
+                        id="image_cwg_vt1_yxb"/>
+                    <uicontrol>Pause Refresh</uicontrol> to suspend automatic refreshing of the
+                    workspace; click <uicontrol>Resume Refresh</uicontrol> to turn on automatic
+                    refresh again.</cmd>
+            </step>
+            <step>
+                <cmd>Click <image href="../Images/24.jpg" width="10" height="10"
+                        id="image_okd_zt1_yxb"/>
+                    <uicontrol>Stop</uicontrol> to stop loading the workspace.</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+    <related-links>
+        <link href="T_refreshing_a_workspace.dita">
+            <linktext>Refreshing a Workspace</linktext>
+            <desc>You can refresh the data that is displayed in the workspace on demand or at a set
+                interval.</desc>
+        </link>
+    </related-links>
+</task>

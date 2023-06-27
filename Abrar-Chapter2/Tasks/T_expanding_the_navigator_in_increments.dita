@@ -2,6 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="T_expanding_the_navigator_in_increments">
     <title>Expanding the Navigator in Increments</title>
+    <shortdesc><image href="../Images/I_more_icon.png" width="10" height="10" id="image_v3t_2nc_yxb"
+        /> More indicators in the Navigator keep the tree compact. Click the indicator to open that
+        branch of the tree. You can specify how many items to expand at one time.</shortdesc>
     <prolog>
         <author>Abrar Ahmed Syed</author>
         <metadata>

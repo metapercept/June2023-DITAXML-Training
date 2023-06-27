@@ -6,50 +6,58 @@
         <author>Lisa Adams</author>
         <metadata>
             <keywords>
-                <indexterm>title bar</indexterm>
-                <indexterm>toolbar</indexterm>
+                <indexterm>View title bar</indexterm>
+                <indexterm>View toolbar</indexterm>
             </keywords>
         </metadata>
     </prolog>
     <conbody>
         <p>Every workspace view and the Navigator view has a title bar with some or all of these
-                controls.<simpletable frame="all" id="simpletable_mpv_kfg_wxb">
-                <strow>
-                    <stentry><image href="../Images/30.jpg" id="image_psb_xzq_vxb"/></stentry>
-                    <stentry>Opens the Properties editor to the properties for the view.</stentry>
-                </strow>
-                <strow>
-                    <stentry><image href="../Images/31.jpg" id="image_djc_yzq_vxb"/></stentry>
-                    <stentry>Shows or hides the view toolbar. This button does not display if the
-                        view has no toolbar.</stentry>
-                </strow>
-                <strow>
-                    <stentry><image href="../Images/32.jpg" id="image_evr_zzq_vxb"/></stentry>
-                    <stentry>Splits the Navigator horizontally to create a new workspace
-                        view.</stentry>
-                </strow>
-                <strow>
-                    <stentry><image href="../Images/33.jpg" id="image_avm_11r_vxb"/></stentry>
-                    <stentry>Maximizes a view for a closer look. Click <uicontrol>Restore
-                        </uicontrol>to return to the original size. You can save the workspace with
-                        the view maximized.</stentry>
-                </strow>
-                <strow>
-                    <stentry><image href="../Images/35.jpg" id="image_fwk_b1r_vxb"/></stentry>
-                    <stentry>Removes a view. There is no undo for this action except to open a
-                        different workspace and answer No when a message asks if you want to save
-                        the workspace; -OR- Select <menucascade>
-                            <uicontrol>File</uicontrol>
-                            <uicontrol>Save As</uicontrol>
-                        </menucascade>   to keep the original workspace with the view intact and
-                        create a new workspace without this view.</stentry>
-                </strow>
-            </simpletable></p>
+                controls.<table frame="all" id="table_k4y_wcb_yxb">
+                <title>Title bar controls</title>
+                <tgroup cols="2" align="left">
+                    <colspec colname="c1" colnum="1" colwidth="1*" align="center"/>
+                    <colspec colname="c2" colnum="2" colwidth="6.72*" align="left"/>
+                    <tbody>
+                        <row rowsep="1">
+                            <entry><image href="../Images/30.jpg" id="image_yl3_xcb_yxb"/></entry>
+                            <entry>Opens the Properties editor to the properties for the
+                                view.</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry><image href="../Images/31.jpg" id="image_djc_yzq_vxb"/></entry>
+                            <entry>Shows or hides the view toolbar. This button does not display if
+                                the view has no toolbar.</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry><image href="../Images/32.jpg" id="image_evr_zzq_vxb"/></entry>
+                            <entry>Splits the Navigator horizontally to create a new workspace
+                                view.</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry><image href="../Images/33.jpg" id="image_avm_11r_vxb"/></entry>
+                            <entry>Maximizes a view for a closer look. Click <uicontrol>Restore
+                                </uicontrol>to return to the original size. You can save the
+                                workspace with the view maximized.</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry><image href="../Images/35.jpg" id="image_fwk_b1r_vxb"/></entry>
+                            <entry>Removes a view. There is no undo for this action except to open a
+                                different workspace and answer No when a message asks if you want to
+                                save the workspace; -OR- Select <menucascade>
+                                    <uicontrol>File</uicontrol>
+                                    <uicontrol>Save As</uicontrol>
+                                </menucascade> to keep the original workspace with the view intact
+                                and create a new workspace without this view.</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
         <p>Most view types have a toolbar for performing specific actions in the view. A common tool
-            is <image href="../Images/14.jpg" id="image_xzq_q1r_vxb"/><uicontrol>Find</uicontrol>,
-            which is available for finding values in the browser view, notepad view, table view,
-            message log view, and the event console views. Another tool, <image
-                href="../Images/40.jpg" id="image_vj3_51r_vxb"/>
+            is <image href="../Images/14.jpg" id="image_xzq_q1r_vxb" height="15" width="15"
+                /><uicontrol>Find</uicontrol>, which is available for finding values in the browser
+            view, notepad view, table view, message log view, and the event console views. Another
+            tool, <image href="../Images/40.jpg" id="image_vj3_51r_vxb" height="15" width="15"/>
             <uicontrol>Time span</uicontrol>, is for specifying the time period to be displayed in a
             query-based view when historical data is being collected for it.</p>
     </conbody>

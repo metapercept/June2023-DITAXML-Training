@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_org_of_predef_ws">
-    <title>Organization of predefined workspaces</title>
+    <title>Organization of Predefined Workspaces</title>
     <prolog>
         <author>Lisa Adams</author>
         <metadata>
@@ -11,96 +11,137 @@
         </metadata>
     </prolog>
     <conbody>
-        <p>The Enterprise Navigator item has workspaces that query the Tivoli Enterprise Monitoring
+        <p>The Enterprise Navigator item has workspaces that query the Marvel Enterprise Monitoring
             Server. Use these predefined workspaces to get status information about the monitoring
             server and monitoring agents and about situations and policies.</p>
-        <p>Use the <image href="../Images/1.jpg" id="image_es4_mqp_vxb"/><uicontrol>Workspace
-                Gallery</uicontrol> to see what is available for the Navigator item. These are the
-            Enterprise Navigator item workspaces and the workspaces they link to:</p>
-        <p><b>Enterprise Status</b></p>
-        <p>The default workspace is Enterprise Status, which gives an overview of the situation
-            event status throughout your enterprise.<ul id="ul_m21_crp_vxb">
-                <li><image href="../Images/2.jpg" id="image_hhk_mrp_vxb"/>Event Details - Similar by
-                    Situation Name </li>
-            </ul><ul id="ul_sgg_2rp_vxb">
-                <li><image href="../Images/2.jpg" id="image_otc_nrp_vxb"/>Event Details - Similar by
-                    Source</li>
-            </ul><ul id="ul_lvn_frp_vxb">
-                <li><image href="../Images/2.jpg" id="image_opw_nrp_vxb"/>Event Details - Similar by
-                    Resource</li>
-            </ul></p>
-        <p><b>Manage Tivoli Enterprise Monitoring Servers</b></p>
-        <p>The Manage Tivoli Enterprise Monitoring Servers workspaces provide a visual health check
-            of the monitoring servers in your enterprise and the application support that has been
-                applied.<ul id="ul_ukr_xrp_vxb">
-                <li><image href="../Images/2.jpg" id="image_cwv_fsp_vxb"/>Installed Catalogs -
-                    Enterprise View</li>
-            </ul><ul id="ul_j5s_yrp_vxb">
-                <li><image href="../Images/2.jpg" id="image_rk4_gsp_vxb"/>Installed Catalogs -
-                    Remote Server </li>
-            </ul><ul id="ul_s5w_zrp_vxb">
-                <li><image href="../Images/2.jpg" id="image_zyf_hsp_vxb"/>Protocols</li>
-            </ul><ul id="ul_ynb_bsp_vxb">
-                <li><image href="../Images/2.jpg" id="image_c1z_hsp_vxb"/>Situation Status </li>
-            </ul><ul id="ul_lpr_csp_vxb">
-                <li><image href="../Images/2.jpg" id="image_fx1_jsp_vxb"/>System Information</li>
-            </ul></p>
-        <p><b>Managed System Status</b></p>
-        <p>The Managed System Status is a list of monitoring agents in your managed network and
-            their ONLINE or OFFLINE status. The linked workspaces are only available for online
-            managed systems.<ul id="ul_nnj_ksp_vxb">
-                <li><image href="../Images/2.jpg" id="image_gmr_4sp_vxb"/>Audit Log</li>
-            </ul><ul id="ul_yc3_lsp_vxb">
-                <li><image href="../Images/2.jpg" id="image_cnj_psp_vxb"/>Agent Operations Log </li>
-            </ul><ul id="ul_g3j_msp_vxb">
-                <li><image href="../Images/2.jpg" id="image_lvf_qsp_vxb"/>History Exports</li>
-            </ul></p>
-        <p><b>EIB Change Log</b></p>
-        <p>This workspaces displays entries in the Enterprise Information Base (EIB) log. The EIB is
-            a database used by the Tivoli Enterprise Monitoring Server to store situation, policy,
-            user definitions, and configuration information.</p>
-        <p><b>Self-Monitoring Topology</b></p>
-        <p>The Self-Monitoring Topology workspace provides a high level overview of your managed
-            infrastructure and its health.</p>
-        <p><b>Deploy Depot Package List</b></p>
-        <p>The Deploy Depot Package List workspace shows the installation packages that are
-            available in the agent depot.</p>
-        <p><b>Deployment Status Summary</b></p>
-        <p>The Deployment Status Summary workspace shows summary status information about remote
-            agent deployments.<ul id="ul_azm_zsp_vxb">
-                <li><image href="../Images/2.jpg" id="image_bbq_2tp_vxb"/>Deployment Status by
-                    Deploy Group</li>
-            </ul><ul id="ul_y14_1tp_vxb">
-                <li><image href="../Images/2.jpg" id="image_i4g_ftp_vxb"/>Deployment Status by
-                    Product</li>
-            </ul></p>
-        <p><b>Deployment Status Summary by Transaction</b></p>
-        <p>The Deployment Status Summary by Transaction workspace shows summary status information
-            about remote agent deployments, sorted by transaction.</p>
-        <p><b>Related reference:</b></p>
-        <p>“Enterprise Status workspace” on <b>xref</b></p>
-        <p>At the highest level of the Navigator Physical view is the <image href="../Images/3.jpg"
-                id="image_xvg_rtp_vxb"/>Enterprise item. The default workspace for the Enterprise is
-            called Enterprise Status.</p>
-        <p>“Manage Tivoli Enterprise Monitoring Servers workspaces” on <b>xref</b></p>
-        <p>Use the Manage Tivoli Enterprise Monitoring Servers workspaces and situations to gather
-            information for diagnosing and correcting typical monitoring server configuration
-            issues.</p>
-        <p>“Managed System Status workspace” on <b>xref</b></p>
-        <p>The Managed System Status workspace is one of the predefined workspaces for the
-            Enterprise Navigator item, and offers a high level overview of your managed network. The
-            workspace has a single view: Managed System Status table view.</p>
-        <p>“EIB Change Log workspace” on <b>xref</b></p>
-        <p>The Enterprise Information Base (EIB) is a database used by the Tivoli Enterprise
-            Monitoring Server to store situation, policy, user definitions and configuration
-            information. The EIB Change Log view is a log with details of changes made to
-            information in the database.</p>
-        <p>“Self-Monitoring Topology workspace” on <b>xref</b></p>
-        <p>The Self-Monitoring Topology workspace provides a high level overview of your managed
-            infrastructure and its health and introduces you to the Tivoli Enterprise Portal
-            self-monitoring capabilities.</p>
-        <p>“Agent deployment workspaces” on <b>xref</b></p>
-        <p>Use the agent deployment workspaces to see your package list, the results of a deployment
-            prerequisite check, and the progress of the agent deployment process.</p>
+        <p>Use the <image href="../Images/1.jpg" id="image_es4_mqp_vxb" height="15px" width="15px"/>
+            <uicontrol>Workspace Gallery</uicontrol> to see what is available for the Navigator
+            item. These are the Enterprise Navigator item workspaces and the workspaces they link
+            to:</p>
+        <p>
+            <dl id="dl_o1z_42v_xxb">
+                <dlentry>
+                    <dt>Enterprise Status</dt>
+                    <dd>
+                        <p>The default workspace is Enterprise Status, which gives an overview of
+                            the situation event status throughout your enterprise.<ul
+                                id="ul_m21_crp_vxb">
+                                <li><image href="../Images/2.jpg" id="image_hhk_mrp_vxb"
+                                        height="15px" width="15px"/>Event Details - Similar by
+                                    Situation Name </li>
+                            </ul><ul id="ul_sgg_2rp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_jt3_bfv_xxb"/>Event Details - Similar by
+                                    Source</li>
+                            </ul><ul id="ul_lvn_frp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_ndl_bfv_xxb"/>Event Details - Similar by
+                                    Resource</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_fl5_dfv_xxb">
+                <dlentry>
+                    <dt>Manage Marvel Enterprise Monitoring Servers</dt>
+                    <dd>
+                        <p>The Manage Marvel Enterprise Monitoring Servers workspaces provide a
+                            visual health check of the monitoring servers in your enterprise and the
+                            application support that has been applied.<ul id="ul_ukr_xrp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_xfp_bfv_xxb"/>Installed Catalogs - Enterprise
+                                    View</li>
+                            </ul><ul id="ul_j5s_yrp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_mls_bfv_xxb"/>Installed Catalogs - Remote Server
+                                </li>
+                            </ul><ul id="ul_s5w_zrp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_bbv_bfv_xxb"/>Protocols</li>
+                            </ul><ul id="ul_ynb_bsp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_ggx_bfv_xxb"/>Situation Status </li>
+                            </ul><ul id="ul_lpr_csp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_xx1_cfv_xxb"/>System Information</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_n2l_ffv_xxb">
+                <dlentry>
+                    <dt>Managed System Status</dt>
+                    <dd>
+                        <p>The Managed System Status is a list of monitoring agents in your managed
+                            network and their ONLINE or OFFLINE status. The linked workspaces are
+                            only available for online managed systems.<ul id="ul_nnj_ksp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_wy2_cfv_xxb"/>Audit Log</li>
+                            </ul><ul id="ul_yc3_lsp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_k3h_cfv_xxb"/>Agent Operations Log </li>
+                            </ul><ul id="ul_g3j_msp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_chj_cfv_xxb"/>History Exports</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_jxj_gfv_xxb">
+                <dlentry>
+                    <dt>EIB Change Log</dt>
+                    <dd>
+                        <p>This workspaces displays entries in the Enterprise Information Base (EIB)
+                            log. The EIB is a database used by the Marvel Enterprise Monitoring
+                            Server to store situation, policy, user definitions, and configuration
+                            information.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_sr3_hfv_xxb">
+                <dlentry>
+                    <dt>Self-Monitoring Topology</dt>
+                    <dd>
+                        <p>The Self-Monitoring Topology workspace provides a high level overview of
+                            your managed infrastructure and its health.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_pdh_3fv_xxb">
+                <dlentry>
+                    <dt>Deploy Depot Package List</dt>
+                    <dd>
+                        <p>The Deploy Depot Package List workspace shows the installation packages
+                            that are available in the agent depot.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_ebt_jfv_xxb">
+                <dlentry>
+                    <dt>Deployment Status Summary</dt>
+                    <dd>
+                        <p>The Deployment Status Summary workspace shows summary status information
+                            about remote agent deployments.<ul id="ul_azm_zsp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_xrr_cfv_xxb"/>Deployment Status by Deploy
+                                    Group</li>
+                            </ul><ul id="ul_y14_1tp_vxb">
+                                <li><image href="../Images/2.jpg" height="15px" width="15px"
+                                        id="image_v4t_cfv_xxb"/>Deployment Status by Product</li>
+                            </ul></p>
+                    </dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_vr5_kfv_xxb">
+                <dlentry>
+                    <dt>Deployment Status Summary by Transaction</dt>
+                    <dd>
+                        <p>The Deployment Status Summary by Transaction workspace shows summary
+                            status information about remote agent deployments, sorted by
+                            transaction.</p>
+                    </dd>
+                </dlentry>
+            </dl>
+        </p>
     </conbody>
 </concept>
