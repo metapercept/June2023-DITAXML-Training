@@ -7,21 +7,22 @@
 <map xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/AbrarSyed/Downloads/Marvel%20DITA%20project/June2023-DITAXML-Training/Lisa-Chapter3/Chapter3.ditamap" css-param:show-onpage-lbl="no" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Workspaces</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     <title class="- topic/title ">Workspaces</title>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="C_Using_Workspaces"><resourceid appid="C_Using_Workspaces" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Using Workspaces</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_workspace_characteristics"><resourceid appid="c_workspace_characteristics" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Workspace Characteristics</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_org_of_predef_ws"><resourceid appid="c_org_of_predef_ws" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Organization of Predefined Workspaces</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
-    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="C_opening_a_workspace"><resourceid appid="C_opening_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Opening a workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_opening_a_workspace"><resourceid appid="T_opening_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Procedure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="C_opening_a_workspace"><resourceid appid="C_opening_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Opening a workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_opening_a_workspace"><resourceid appid="T_opening_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Procedure</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_opening_a_new_window"><resourceid appid="t_opening_a_new_window" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Opening a New Window</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Have multiple workspaces open on your desktop at the same time by opening multiple         Tivoli Enterprise Portal windows.</shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_tabbed_workspaces"><resourceid appid="c_tabbed_workspaces" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Tabbed Workspaces</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Use the tabbed pages capability of your browser to open workspaces, linked         workspaces, and Navigator views in new tabs.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_tabbed_workspaces"><resourceid appid="t_tabbed_workspaces" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle "> Open a Workspace</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_link_to_a_workspace"><resourceid appid="T_link_to_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle "> Link to a Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_open_a_found_navigator_item_at_its_default_workspace"><resourceid appid="T_open_a_found_navigator_item_at_its_default_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Open a Found Navigator Item at its Default Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_open_a_navigator_view_at_its_default_workspace"><resourceid appid="T_open_a_navigator_view_at_its_default_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Open a Navigator View at its Default Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="C_tabbed_workspaces_troubleshooting"><resourceid appid="C_tabbed_workspaces_troubleshooting" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Troubleshooting</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_refreshing_a_workspace"><resourceid appid="T_refreshing_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Refreshing a Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">You can refresh the data that is displayed in the workspace on demand or at a set         interval.</shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_suspending_and_stopping_refresh"><resourceid appid="T_suspending_and_stopping_refresh" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Suspending and Stopping Refresh</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">If the workspace is set to refresh automatically at timed intervals or it includes         event status views, you can suspend refreshes to keep the data from changing while you         investigate a problem.</shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_15" type="task"><topicmeta class="- map/topicmeta " data-topic-id="T_linking_to_a_workspace"><resourceid appid="T_linking_to_a_workspace" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Linking to a Workspace</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Use these steps to link to a workspace that has been targeted from the current         Navigator item or view.</shortdesc></topicmeta></topicref>
     <topicref is-chapter="true" class="- map/topicref " href="#unique_16" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_view_title_bar_and_toolbar"><resourceid appid="c_view_title_bar_and_toolbar" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">View Title Bar and Toolbar</navtitle><?ditaot gentext?></topicmeta></topicref>
-<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d168e1778" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="C_Using_Workspaces" oid="C_Using_Workspaces" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid " id="d168e191"/><ph class="- topic/ph topic/title-wrapper ">Using Workspaces</ph></title>
+<topicref is-chapter="true" is-index="true" class="- map/topicref "><topicmeta class="- map/topicmeta "><navtitle href="#d168e1779" class="- topic/navtitle ">Index</navtitle></topicmeta></topicref></opentopic:map><concept audience="expert" topicrefclass="- map/topicref " break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" nd:nd-id="C_Using_Workspaces" oid="C_Using_Workspaces" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid " id="d168e192"/><ph class="- topic/ph topic/title-wrapper ">Using Workspaces</ph></title>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="WorkspacesUsing workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Workspaces</keyword><keyword class="- topic/keyword ">Using
-                    workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid " id="d168e191"/></opentopic-index:index.entry>
+                    workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid " id="d168e192"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -32,8 +33,8 @@
         <p class="- topic/p ">You can tailor your own workspaces to give you summary overviews or to look at specific
             conditions.</p>
     </conbody>
-<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="c_workspace_characteristics" oid="c_workspace_characteristics" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid " id="d168e231"/><ph class="- topic/ph topic/title-wrapper ">Workspace Characteristics</ph></title>
+<concept audience="novice" topicrefclass="- map/topicref " class="- topic/topic concept/concept " id="unique_2" nd:nd-id="c_workspace_characteristics" oid="c_workspace_characteristics" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid " id="d168e232"/><ph class="- topic/ph topic/title-wrapper ">Workspace Characteristics</ph></title>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
@@ -41,7 +42,7 @@
                 <opentopic-index:index.entry value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Workspace Views</keyword><keyword class="- topic/keyword ">Workspace
                         Properties</keyword><keyword class="- topic/keyword ">Workspace Links</keyword><keyword class="- topic/keyword ">Workspace
                         Navigator level</keyword><keyword class="- topic/keyword ">Workspace
-                    Characteristics</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid " id="d168e231"/></opentopic-index:index.entry>
+                    Characteristics</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid " id="d168e232"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -136,12 +137,12 @@
         </p>
     </conbody>
 </concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="c_org_of_predef_ws" oid="c_org_of_predef_ws" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid " id="d168e360"/><ph class="- topic/ph topic/title-wrapper ">Organization of Predefined Workspaces</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid " id="d168e361"/><ph class="- topic/ph topic/title-wrapper ">Organization of Predefined Workspaces</ph></title>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
-                <opentopic-index:index.entry value="workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">workspaces</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid " id="d168e360"/></opentopic-index:index.entry>
+                <opentopic-index:index.entry value="workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">workspaces</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid " id="d168e361"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -266,14 +267,14 @@
         </p>
     </conbody>
 </concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="C_opening_a_workspace" oid="C_opening_a_workspace" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e605"/><ph class="- topic/ph topic/title-wrapper ">Opening a workspace</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e606"/><ph class="- topic/ph topic/title-wrapper ">Opening a workspace</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Open workspacesMove workspacesChange workspace order" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open workspaces</keyword><keyword class="- topic/keyword ">Move
-                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e605"/></opentopic-index:index.entry>
+                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e606"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -291,15 +292,15 @@
             one workspace can be open in the Marvel Enterprise Portal window at one time. Some
             workspaces are only accessible by linking to them from another workspace.</p>
     </conbody>
-<task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="T_opening_a_workspace" oid="T_opening_a_workspace" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e649"/><ph class="- topic/ph topic/title-wrapper ">Procedure</ph></title>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="T_opening_a_workspace" oid="T_opening_a_workspace" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e650"/><ph class="- topic/ph topic/title-wrapper ">Procedure</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Open workspacesMove workspacesChange workspace order" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open workspaces</keyword><keyword class="- topic/keyword ">Move
-                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e649"/></opentopic-index:index.entry>
+                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid " id="d168e650"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -346,8 +347,8 @@
         <link class="- topic/link " href="#unique_7" type="task"><?ditaot usertext?><linktext class="- topic/linktext ">Opening a New Window</linktext><?ditaot usershortdesc?><desc class="- topic/desc ">Have multiple workspaces open on your desktop at the same time by opening multiple
                 Tivoli Enterprise Portal windows.</desc></link>
     </related-links>
-</task></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_opening_a_new_window" oid="t_opening_a_new_window" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid " id="d168e766"/><ph class="- topic/ph topic/title-wrapper ">Opening a New Window</ph></title>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="t_opening_a_new_window" oid="t_opening_a_new_window" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid " id="d168e767"/><ph class="- topic/ph topic/title-wrapper ">Opening a New Window</ph></title>
     <shortdesc class="- topic/shortdesc ">Have multiple workspaces open on your desktop at the same time by opening multiple
         Tivoli Enterprise Portal windows.</shortdesc>
     <prolog class="- topic/prolog ">
@@ -355,7 +356,7 @@
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Open new windowDashboard views" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open new window</keyword><keyword class="- topic/keyword ">Dashboard
-                    views</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid " id="d168e766"/></opentopic-index:index.entry>
+                    views</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid " id="d168e767"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -398,7 +399,7 @@
                 workspaces, and Navigator views in new tabs.</desc></link>
     </related-links>
 </task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="c_tabbed_workspaces" oid="c_tabbed_workspaces" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid " id="d168e892"/><ph class="- topic/ph topic/title-wrapper ">Tabbed Workspaces</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid " id="d168e893"/><ph class="- topic/ph topic/title-wrapper ">Tabbed Workspaces</ph></title>
     <shortdesc class="- topic/shortdesc ">Use the tabbed pages capability of your browser to open workspaces, linked
         workspaces, and Navigator views in new tabs.</shortdesc>
     <prolog class="- topic/prolog ">
@@ -409,7 +410,7 @@
                 <opentopic-index:index.entry value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Browser client </keyword><keyword class="- topic/keyword ">Browser settings
                         </keyword><keyword class="- topic/keyword ">Workspace properties </keyword><keyword class="- topic/keyword ">Link target
                         </keyword><keyword class="- topic/keyword ">Navigator item find </keyword><keyword class="- topic/keyword ">Tabbed
-                        Workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid " id="d168e892"/></opentopic-index:index.entry>
+                        Workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid " id="d168e893"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -475,14 +476,14 @@
         <p class="- topic/p ">You can open a workspace in a new tab from any context.</p>
     </conbody>
 <task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="t_tabbed_workspaces" oid="t_tabbed_workspaces" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid " id="d168e1023"/><ph class="- topic/ph topic/title-wrapper "> Open a Workspace</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid " id="d168e1024"/><ph class="- topic/ph topic/title-wrapper "> Open a Workspace</ph></title>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open a workspace</keyword><keyword class="- topic/keyword "> Tabbed
                         workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator
-                        view</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid " id="d168e1023"/></opentopic-index:index.entry>
+                        view</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid " id="d168e1024"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -508,14 +509,14 @@
         </steps-unordered>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="T_link_to_a_workspace" oid="T_link_to_a_workspace" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid " id="d168e1108"/><ph class="- topic/ph topic/title-wrapper "> Link to a Workspace</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid " id="d168e1109"/><ph class="- topic/ph topic/title-wrapper "> Link to a Workspace</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Link to a workspaceTabbed workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Link to a workspace</keyword><keyword class="- topic/keyword ">Tabbed
-                        workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid " id="d168e1108"/></opentopic-index:index.entry>
+                        workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid " id="d168e1109"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -535,7 +536,7 @@
         </steps-unordered>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="T_open_a_found_navigator_item_at_its_default_workspace" oid="T_open_a_found_navigator_item_at_its_default_workspace" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid " id="d168e1171"/><ph class="- topic/ph topic/title-wrapper ">Open a Found Navigator Item at its Default Workspace</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid " id="d168e1172"/><ph class="- topic/ph topic/title-wrapper ">Open a Found Navigator Item at its Default Workspace</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
@@ -543,7 +544,7 @@
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open a Found Navigator</keyword><keyword class="- topic/keyword "> Tabbed
                         workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
-                        workspace</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid " id="d168e1171"/></opentopic-index:index.entry>
+                        workspace</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid " id="d168e1172"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -563,7 +564,7 @@
         </steps>
     </taskbody>
 </task><task class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="T_open_a_navigator_view_at_its_default_workspace" oid="T_open_a_navigator_view_at_its_default_workspace" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid " id="d168e1233"/><ph class="- topic/ph topic/title-wrapper ">Open a Navigator View at its Default Workspace</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid " id="d168e1234"/><ph class="- topic/ph topic/title-wrapper ">Open a Navigator View at its Default Workspace</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
@@ -571,7 +572,7 @@
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Open a  Navigator view</keyword><keyword class="- topic/keyword "> Tabbed
                         workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
-                        workspace</keyword><keyword class="- topic/keyword "> Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid " id="d168e1233"/></opentopic-index:index.entry>
+                        workspace</keyword><keyword class="- topic/keyword "> Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid " id="d168e1234"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -593,14 +594,14 @@
         </steps-unordered>
     </taskbody>
 </task><concept class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="C_tabbed_workspaces_troubleshooting" oid="C_tabbed_workspaces_troubleshooting" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid " id="d168e1311"/><ph class="- topic/ph topic/title-wrapper ">Troubleshooting</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid " id="d168e1312"/><ph class="- topic/ph topic/title-wrapper ">Troubleshooting</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="New window Troubleshooting Tabbed workspaces Open a Navigator view" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">New window Troubleshooting</keyword><keyword class="- topic/keyword "> Tabbed
-                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator view</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid " id="d168e1311"/></opentopic-index:index.entry>
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator view</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid " id="d168e1312"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -612,7 +613,7 @@
             <uicontrol class="+ topic/ph ui-d/uicontrol ">Always open pop-ups in a new tab</uicontrol> must be selected.</p>
     </conbody>
 </concept></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="T_refreshing_a_workspace" oid="T_refreshing_a_workspace" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid " id="d168e1370"/><ph class="- topic/ph topic/title-wrapper ">Refreshing a Workspace</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid " id="d168e1371"/><ph class="- topic/ph topic/title-wrapper ">Refreshing a Workspace</ph></title>
     <shortdesc class="- topic/shortdesc ">You can refresh the data that is displayed in the workspace on demand or at a set
         interval.</shortdesc>
     <prolog class="- topic/prolog ">
@@ -620,7 +621,7 @@
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Refreshing a Workspace</keyword><keyword class="- topic/keyword ">Refresh a workspace
-                        manually</keyword><keyword class="- topic/keyword ">Set a refresh interval</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid " id="d168e1370"/></opentopic-index:index.entry>
+                        manually</keyword><keyword class="- topic/keyword ">Set a refresh interval</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid " id="d168e1371"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -668,7 +669,7 @@
                 you investigate a problem.</desc></link>
     </related-links>
 </task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="T_suspending_and_stopping_refresh" oid="T_suspending_and_stopping_refresh" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid " id="d168e1497"/><ph class="- topic/ph topic/title-wrapper ">Suspending and Stopping Refresh</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid " id="d168e1498"/><ph class="- topic/ph topic/title-wrapper ">Suspending and Stopping Refresh</ph></title>
     <shortdesc class="- topic/shortdesc ">If the workspace is set to refresh automatically at timed intervals or it includes
         event status views, you can suspend refreshes to keep the data from changing while you
         investigate a problem.</shortdesc>
@@ -677,7 +678,7 @@
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="Suspending refreshStopping refreshStop workspace refresh" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Suspending refresh</keyword><keyword class="- topic/keyword ">Stopping
-                        refresh</keyword><keyword class="- topic/keyword ">Stop workspace refresh</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid " id="d168e1497"/></opentopic-index:index.entry>
+                        refresh</keyword><keyword class="- topic/keyword ">Stop workspace refresh</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid " id="d168e1498"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -706,7 +707,7 @@
                 interval.</desc></link>
     </related-links>
 </task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="T_linking_to_a_workspace" oid="T_linking_to_a_workspace" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid " id="d168e1573"/><ph class="- topic/ph topic/title-wrapper ">Linking to a Workspace</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid " id="d168e1574"/><ph class="- topic/ph topic/title-wrapper ">Linking to a Workspace</ph></title>
     <shortdesc class="- topic/shortdesc ">Use these steps to link to a workspace that has been targeted from the current
         Navigator item or view.</shortdesc>
     <prolog class="- topic/prolog ">
@@ -714,7 +715,7 @@
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
                 <opentopic-index:index.entry value="LinkingLinking to a workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value "><keyword class="- topic/keyword ">Linking</keyword><keyword class="- topic/keyword ">Linking to a
-                    workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid " id="d168e1573"/></opentopic-index:index.entry>
+                    workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid " id="d168e1574"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -769,13 +770,13 @@
                 revisit the target workspace.</note></result>
     </taskbody>
 </task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="c_view_title_bar_and_toolbar" oid="c_view_title_bar_and_toolbar" specializations="@props/deliveryTarget">
-    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid " id="d168e1679"/><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid " id="d168e1683"/><ph class="- topic/ph topic/title-wrapper ">View Title Bar and Toolbar</ph></title>
+    <title class="- topic/title "><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid " id="d168e1680"/><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid " id="d168e1684"/><ph class="- topic/ph topic/title-wrapper ">View Title Bar and Toolbar</ph></title>
     <prolog class="- topic/prolog ">
         <author class="- topic/author ">Lisa Adams</author>
         <metadata class="- topic/metadata ">
             <keywords class="- topic/keywords ">
-                <opentopic-index:index.entry value="View title bar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">View title bar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid " id="d168e1679"/></opentopic-index:index.entry>
-                <opentopic-index:index.entry value="View toolbar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">View toolbar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid " id="d168e1683"/></opentopic-index:index.entry>
+                <opentopic-index:index.entry value="View title bar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">View title bar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid " id="d168e1680"/></opentopic-index:index.entry>
+                <opentopic-index:index.entry value="View toolbar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value ">View toolbar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid " id="d168e1684"/></opentopic-index:index.entry>
             </keywords>
         </metadata>
     </prolog>
@@ -825,58 +826,58 @@
             <uicontrol class="+ topic/ph ui-d/uicontrol ">Time span</uicontrol>, is for specifying the time period to be displayed in a
             query-based view when historical data is being collected for it.</p>
     </conbody>
-</concept><opentopic-index:index.groups class="- index/groups " id="d168e1778"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">B</opentopic-index:label><opentopic-index:index.entry value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1500936338"><keyword class="- topic/keyword ">Browser client </keyword><keyword class="- topic/keyword ">Browser settings
+</concept><opentopic-index:index.groups class="- index/groups " id="d168e1779"><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">B</opentopic-index:label><opentopic-index:index.entry value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1500936338"><keyword class="- topic/keyword ">Browser client </keyword><keyword class="- topic/keyword ">Browser settings
                         </keyword><keyword class="- topic/keyword ">Workspace properties </keyword><keyword class="- topic/keyword ">Link target
                         </keyword><keyword class="- topic/keyword ">Navigator item find </keyword><keyword class="- topic/keyword ">Tabbed
-                        Workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid "><oxy:index-link href="#d168e892" class="- index/link ">
-          [d168e892]
+                        Workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1500936338" value="Browser client Browser settings Workspace properties Link target Navigator item find Tabbed Workspaces:" class="- index/refid "><oxy:index-link href="#d168e893" class="- index/link ">
+          [d168e893]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">L</opentopic-index:label><opentopic-index:index.entry value="Link to a workspaceTabbed workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid340601535"><keyword class="- topic/keyword ">Link to a workspace</keyword><keyword class="- topic/keyword ">Tabbed
-                        workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid "><oxy:index-link href="#d168e1108" class="- index/link ">
-          [d168e1108]
+                        workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid340601535" value="Link to a workspaceTabbed workspaces:" class="- index/refid "><oxy:index-link href="#d168e1109" class="- index/link ">
+          [d168e1109]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="LinkingLinking to a workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1813576649"><keyword class="- topic/keyword ">Linking</keyword><keyword class="- topic/keyword ">Linking to a
-                    workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid "><oxy:index-link href="#d168e1573" class="- index/link ">
-          [d168e1573]
+                    workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1813576649" value="LinkingLinking to a workspace:" class="- index/refid "><oxy:index-link href="#d168e1574" class="- index/link ">
+          [d168e1574]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">N</opentopic-index:label><opentopic-index:index.entry value="New window Troubleshooting Tabbed workspaces Open a Navigator view" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid2034287995"><keyword class="- topic/keyword ">New window Troubleshooting</keyword><keyword class="- topic/keyword "> Tabbed
-                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator view</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid "><oxy:index-link href="#d168e1311" class="- index/link ">
-          [d168e1311]
+                        workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator view</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid2034287995" value="New window Troubleshooting Tabbed workspaces Open a Navigator view:" class="- index/refid "><oxy:index-link href="#d168e1312" class="- index/link ">
+          [d168e1312]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">O</opentopic-index:label><opentopic-index:index.entry value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1445076353"><keyword class="- topic/keyword ">Open a Found Navigator</keyword><keyword class="- topic/keyword "> Tabbed
                         workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
-                        workspace</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid "><oxy:index-link href="#d168e1171" class="- index/link ">
-          [d168e1171]
+                        workspace</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1445076353" value="Open a Found Navigator Tabbed workspaces Open a Navigator at default workspaceDefault workspace:" class="- index/refid "><oxy:index-link href="#d168e1172" class="- index/link ">
+          [d168e1172]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid1847264680"><keyword class="- topic/keyword ">Open a  Navigator view</keyword><keyword class="- topic/keyword "> Tabbed
                         workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator at default
-                        workspace</keyword><keyword class="- topic/keyword "> Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid "><oxy:index-link href="#d168e1233" class="- index/link ">
-          [d168e1233]
+                        workspace</keyword><keyword class="- topic/keyword "> Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid1847264680" value="Open a Navigator view Tabbed workspaces Open a Navigator at default workspace Default workspace:" class="- index/refid "><oxy:index-link href="#d168e1234" class="- index/link ">
+          [d168e1234]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1620233927"><keyword class="- topic/keyword ">Open a workspace</keyword><keyword class="- topic/keyword "> Tabbed
                         workspaces</keyword><keyword class="- topic/keyword "> Open a Navigator
-                        view</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid "><oxy:index-link href="#d168e1023" class="- index/link ">
-          [d168e1023]
+                        view</keyword><keyword class="- topic/keyword ">Default workspace</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1620233927" value="Open a workspace Tabbed workspaces Open a Navigator viewDefault workspace:" class="- index/refid "><oxy:index-link href="#d168e1024" class="- index/link ">
+          [d168e1024]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open new windowDashboard views" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1028482914"><keyword class="- topic/keyword ">Open new window</keyword><keyword class="- topic/keyword ">Dashboard
-                    views</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid "><oxy:index-link href="#d168e766" class="- index/link ">
-          [d168e766]
+                    views</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1028482914" value="Open new windowDashboard views:" class="- index/refid "><oxy:index-link href="#d168e767" class="- index/link ">
+          [d168e767]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="Open workspacesMove workspacesChange workspace order" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-231587538"><keyword class="- topic/keyword ">Open workspaces</keyword><keyword class="- topic/keyword ">Move
-                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid "><oxy:index-link href="#d168e605" class="- index/link ">
-          [d168e605]
-        </oxy:index-link><oxy:index-link href="#d168e649" class="- index/link ">
-          [d168e649]
+                        workspaces</keyword><keyword class="- topic/keyword ">Change workspace order</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-231587538" value="Open workspacesMove workspacesChange workspace order:" class="- index/refid "><oxy:index-link href="#d168e606" class="- index/link ">
+          [d168e606]
+        </oxy:index-link><oxy:index-link href="#d168e650" class="- index/link ">
+          [d168e650]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">R</opentopic-index:label><opentopic-index:index.entry value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1893398700"><keyword class="- topic/keyword ">Refreshing a Workspace</keyword><keyword class="- topic/keyword ">Refresh a workspace
-                        manually</keyword><keyword class="- topic/keyword ">Set a refresh interval</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid "><oxy:index-link href="#d168e1370" class="- index/link ">
-          [d168e1370]
+                        manually</keyword><keyword class="- topic/keyword ">Set a refresh interval</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1893398700" value="Refreshing a WorkspaceRefresh a workspace manuallySet a refresh interval:" class="- index/refid "><oxy:index-link href="#d168e1371" class="- index/link ">
+          [d168e1371]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">S</opentopic-index:label><opentopic-index:index.entry value="Suspending refreshStopping refreshStop workspace refresh" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-401770920"><keyword class="- topic/keyword ">Suspending refresh</keyword><keyword class="- topic/keyword ">Stopping
-                        refresh</keyword><keyword class="- topic/keyword ">Stop workspace refresh</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid "><oxy:index-link href="#d168e1497" class="- index/link ">
-          [d168e1497]
-        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">V</opentopic-index:label><opentopic-index:index.entry value="View title bar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1336559734">View title bar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid "><oxy:index-link href="#d168e1679" class="- index/link ">
-          [d168e1679]
-        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="View toolbar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-499981542">View toolbar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid "><oxy:index-link href="#d168e1683" class="- index/link ">
-          [d168e1683]
+                        refresh</keyword><keyword class="- topic/keyword ">Stop workspace refresh</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-401770920" value="Suspending refreshStopping refreshStop workspace refresh:" class="- index/refid "><oxy:index-link href="#d168e1498" class="- index/link ">
+          [d168e1498]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">V</opentopic-index:label><opentopic-index:index.entry value="View title bar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-1336559734">View title bar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-1336559734" value="View title bar:" class="- index/refid "><oxy:index-link href="#d168e1680" class="- index/link ">
+          [d168e1680]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="View toolbar" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-499981542">View toolbar</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-499981542" value="View toolbar:" class="- index/refid "><oxy:index-link href="#d168e1684" class="- index/link ">
+          [d168e1684]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group><opentopic-index:index.group class="- index/group "><opentopic-index:label class="- index/label ">W</opentopic-index:label><opentopic-index:index.entry value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid580880944"><keyword class="- topic/keyword ">Workspace Views</keyword><keyword class="- topic/keyword ">Workspace
                         Properties</keyword><keyword class="- topic/keyword ">Workspace Links</keyword><keyword class="- topic/keyword ">Workspace
                         Navigator level</keyword><keyword class="- topic/keyword ">Workspace
-                    Characteristics</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid "><oxy:index-link href="#d168e231" class="- index/link ">
-          [d168e231]
-        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid466561404">workspaces</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid "><oxy:index-link href="#d168e360" class="- index/link ">
-          [d168e360]
+                    Characteristics</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid580880944" value="Workspace ViewsWorkspace PropertiesWorkspace LinksWorkspace Navigator levelWorkspace Characteristics:" class="- index/refid "><oxy:index-link href="#d168e232" class="- index/link ">
+          [d168e232]
+        </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid466561404">workspaces</opentopic-index:formatted-value><opentopic-index:refID indexid="indexid466561404" value="workspaces:" class="- index/refid "><oxy:index-link href="#d168e361" class="- index/link ">
+          [d168e361]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry><opentopic-index:index.entry value="WorkspacesUsing workspaces" class="- index/entry "><opentopic-index:formatted-value class="- index/formatted-value " id="indexid-2114299678"><keyword class="- topic/keyword ">Workspaces</keyword><keyword class="- topic/keyword ">Using
-                    workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid "><oxy:index-link href="#d168e191" class="- index/link ">
-          [d168e191]
+                    workspaces</keyword></opentopic-index:formatted-value><opentopic-index:refID indexid="indexid-2114299678" value="WorkspacesUsing workspaces:" class="- index/refid "><oxy:index-link href="#d168e192" class="- index/link ">
+          [d168e192]
         </oxy:index-link></opentopic-index:refID></opentopic-index:index.entry></opentopic-index:index.group></opentopic-index:index.groups></map>

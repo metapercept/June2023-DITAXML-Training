@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="C_Using_Workspaces">
+<concept id="C_Using_Workspaces" audience="expert">
     <title>Using Workspaces</title>
     <prolog>
         <author>Lisa Adams</author>
